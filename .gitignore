@@ -1,0 +1,27 @@
+# macOS / tooling
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+# Large raw datasets retained outside the curated repo snapshot
+local_data/
+bibliography/
+MinerU_Parsed_Data-first/
+MinerU_Zygo_papers/
+MinerU_Zygo_papers_1/
+md_backup/
+# Large derived chapter assets
+books/*/chapters/*/images/
+
+# Binary/auxiliary exports to keep locally only
+*.pdf
+*.zip
+*.tex
+*.html
+*.docx
