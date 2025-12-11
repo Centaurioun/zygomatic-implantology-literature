@@ -1,1017 +1,723 @@
----
-title: "Farkl\u0131 Teknikler ile Uygulanan Zigomatik \u0130mplantlar\u0131n Ba\u015far\u0131s\u0131n\u0131n Retrospektif Olarak \u0130ncelenmesi"
-authors:
-  - "Mert Akba\u015f"
-year: 2024
-url: "https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=KMB79M3N7zK1UR2WYeRgQqu0ibSQsKBYSKbBx45TPSJ_8UE3LrLRrGtIOjFJ7Rnn"
-source_file: "mert-akbas-2024-farkli-teknikler-ile-uygulanan-zigomatik-implantlarin-basarisinin-retrospektif-olarak-incelenmesi.md"
----
-nsLILSNREINITIRNTVSS
+**T.C. İSTANBUL ÜNİVERSİTESİ**
 
-D
-207-TANVLSI
+**SAĞLIK BİLİMLERİ ENSTİTÜSÜ**
 
-# T.C. ISTANBUL UNIVERSITESI SAGLIK BILIMLERI ENSTITUSU
+**DOKTORA TEZİ**
 
-DOKTORA TEZI
+**DT. MERT AKBAŞ**
 
-FARKLI TEKNİKLER ile UYGULANAN ZIGOMATİK IMPLANTLARIN BAŞARISININ RETROSPEKTİF OLARAK INCENLENMESİ
+**FARKLI TEKNİKLER İLE UYGULANAN ZİGOMATİK İMPLANTLARIN BAŞARISININ RETROSPEKTİF OLARAK İNCELENMESİ**
 
-DT.MERTAKBAS
+**AĞIZ, DİŞ VE ÇENE CERRAHİSİ ANABİLİM DALI**
 
-DANISMAN
-PROF. DR. BARIŞ ALTUG AYDİL
+**AĞIZ, DİŞ, ÇENE HASTALIKLARI VE CERRAHİSİ PROGRAMI**
 
-İKİNCİ TEZ DANİSMANI
-PROF.DR. ALTAN VAROL
+**İSTANBUL-2024**
 
-AGIZ, DIŞ VE ÇENE CERRAHİSİ ANABILIM DALI
+## İÇİNDEKİLER {#icindekiler}
 
-AGIZ, DIŞ, CENE HASTALIKLARI VE CERRAHİSİ PROGRAMMI
+<!-- TOC -->
 
-ISTANBUL-2024
+1. [1. GİRİŞ VE AMAÇ](#1-gi̇ri̇ş-ve-amaç)
+2. [2. GENEL BİLGİLER](#2-genel-bi̇lgi̇ler)
+   1. [2.1. Kemik Dokusu ve Sınıflandırması](#21-kemik-dokusu-ve-sınıflandırması)
+   2. [2.2. Dental İmplant ile İlgili Genel Bilgiler](#22-dental-i̇mplant-ile-i̇lgili-genel-bilgiler)
+   3. [2.3. Zigomatik İmplantların Tarihçesi](#23-zigomatik-i̇mplantların-tarihçesi)
+   4. [2.4. Maksillada Dişsizlik İle Meydana Gelen Değişimler](#24-maksillada-dişsizlik-i̇le-meydana-gelen-değişimler)
+      1. [2.4.1. Maksillanın Anatomisi](#241-maksillanın-anatomisi)
+      2. [2.4.2. Maksillada Rezorbsiyon](#242-maksillada-rezorbsiyon)
+      3. [2.4.3. Cawood ve Howell Sınıflandırması](#243-cawood-ve-howell-sınıflandırması)
+      4. [2.4.4. Rezorbe Olmuş Maxillanın Rekonstrüksiyon Yöntemleri](#244-rezorbe-olmuş-maxillanın-rekonstrüksiyon-yöntemleri)
+      5. [2.4.5. Maksiller Rekonstrüksiyonda Kullanılan Kemik Greftleri](#245-maksiller-rekonstrüksiyonda-kullanılan-kemik-greftleri)
+      6. [2.4.6. Maksiller Sinüs Tabanı Ogmentasyonu](#246-maksiller-sinüs-tabanı-ogmentasyonu)
+      7. [2.4.7. Maksiller Sinüsün Anatomisi](#247-maksiller-sinüsün-anatomisi)
+      8. [2.4.8. Maksiller Sinüsün Kanlanması](#248-maksiller-sinüsün-kanlanması)
+      9. [2.4.9. Maksiller Sinüsün İnnervasyonu](#249-maksiller-sinüsün-i̇nnervasyonu)
+      10. [2.4.10. Maksiller Sinüs Epiteli](#2410-maksiller-sinüs-epiteli)
+      11. [2.4.11. Lateral Pencere Yöntemi ile Sinüs Ogmentasyonu (Açık Sinüs Lift)](#2411-lateral-pencere-yöntemi-ile-sinüs-ogmentasyonu-açık-sinüs-lift)
+      12. [2.4.12. Krestal Yöntem ile Sinüs Ogmentasyonu (Kapalı Sinüs Lift)](#2412-krestal-yöntem-ile-sinüs-ogmentasyonu-kapalı-sinüs-lift)
+   5. [2.5. Atrofik Maksillanın Dental Rehabilitasyonunda Alternatif Çözümler](#25-atrofik-maksillanın-dental-rehabilitasyonunda-alternatif-çözümler)
+      1. [2.5.1. Kısa İmplantlar](#251-kısa-i̇mplantlar)
+      2. [2.5.2. Açılı İmplantlar](#252-açılı-i̇mplantlar)
+      3. [2.5.3. Pterigoid İmplantlar](#253-pterigoid-i̇mplantlar)
+      4. [2.5.4. Subperiostal İmplantlar](#254-subperiostal-i̇mplantlar)
+      5. [2.5.5. Lefort 1 osteotomisi ve interpozisyonel greftleme (Down Grafting)](#255-lefort-1-osteotomisi-ve-interpozisyonel-greftleme-down-grafting)
+      6. [2.5.6. Distraksiyon Osteogenezi](#256-distraksiyon-osteogenezi)
+      7. [2.5.7. Zigomatik İmplantlar](#257-zigomatik-i̇mplantlar)
+      8. [2.5.8. Zigomatik Kemik Anatomisi](#258-zigomatik-kemik-anatomisi)
+      9. [2.5.9. Zigomatik İmplant Endikasyonları](#259-zigomatik-i̇mplant-endikasyonları)
+      10. [2.5.10. Zigomatik İmplant kontrendikasyonları](#2510-zigomatik-i̇mplant-kontrendikasyonları)
+      11. [2.5.11. Zigomatik İmplant Uygulama Teknikleri](#2511-zigomatik-i̇mplant-uygulama-teknikleri)
+      12. [2.5.12. Zigomatik İmplantların Komplikasyonları](#2512-zigomatik-i̇mplantların-komplikasyonları)
+3. [3. GEREÇ VE YÖNTEM](#3-gereç-ve-yöntem)
+   1. [3.1. Gereç](#31-gereç)
+      1. [3.1.1. Zigomatik İmplant Başarı İndeksi](#311-zigomatik-i̇mplant-başarı-i̇ndeksi)
+   2. [3.2. Yöntem](#32-yöntem)
+   3. [3.3. İstatiksel Değerlendirme](#33-i̇statiksel-değerlendirme)
+4. [4. BULGULAR](#4-bulgular)
+   1. [4.1. İstatiksel Bulgular](#41-i̇statiksel-bulgular)
+      1. [4.1.1. Teknik ve Başarı İlişkisi](#411-teknik-ve-başarı-i̇lişkisi)
+      2. [4.1.2. Marka ve Başarı İlişkisi](#412-marka-ve-başarı-i̇lişkisi)
+      3. [4.1.3. Protez ve Başarı İlişkisi](#413-protez-ve-başarı-i̇lişkisi)
+      4. [4.1.4. Cinsiyet ve Başarı İlişkisi](#414-cinsiyet-ve-başarı-i̇lişkisi)
+      5. [4.1.5. Yaş ve Başarı İlişkisi](#415-yaş-ve-başarı-i̇lişkisi)
+5. [5. TARTIŞMA](#5-tartişma)
+6. [6. SONUÇ](#6-sonuç)
+7. [7. KAYNAKLAR](#7-kaynaklar)
 
-# BEYAN
+<!-- /TOC -->
 
-Bu tez calismasin kendi calismam oldugunu, tezin planlanmasindan yazimna kadar butün safhalarda etik diş1 davranisimin olmadıgin1, bu tezdeki buttin bilgileri akademik ve etik kurllar icinde elde ettiğimi, bu tez calismasıyla elde edilmeyen buttin bilgi ve yorumlara kaynak gosterdiğimi ve bu kaynaklar da kaynaklar listedine aldımin, yine bu tezin calisması ve yazimı sirasinda, patent ve telif hakları ihlal edici bir davranisimin olmadıgin1 beyan ederim.
+## ÖZET {#ozet}
 
-MERTAKBAS
+Akbaş M. (2024). Farklı Teknikler ile Uygulanan Zigomatik İmplantların Başarısının Retrospektif Olarak İncelenmesi. İstanbul Üniversitesi Sağlık Bilimleri Enstitüsü, Ağız Diş Çene Hastalıkları ve Cerrahisi Anabilim Dalı Doktora Tezi. İstanbul.
 
-# ITHAF
+Hem ileri yaşa bağlı olarak, hem de diş kaybına bağlı olarak meydana gelen alveolar kemikteki rezorpsiyon özellikle üst çene kemiği olarak adlandırılan maksillada dental implant tedavisini güçleştirmektedir. Zigomatik implantlar, ileri cerrahi tedavi yöntemleri gerektirmeden mevcut tedavi süresini kısaltarak maksillanın dental rehabilitasyonunu sağlayabilir ve hastada meydana gelebilecek morbititeyi azaltabilir. Son yıllarda zigomatik implant uygulamaları popülerlik kazanmıştır.
 
-Yüce TÜRK MİLLETİ'ne ithaf ediyorum.
+Çalışmamızda 3 farklı yöntemle uygulanılan (intrasinus, sinüs-slot ve ekstrasinüs) zigomatik implantların başarısı, retrospektif olarak incelenmiştir. Çalışmamızda zigomatik implantların başarısı ise, protetik başarıya, implantın markasına, yaşa, cinsiyete göre ve tercih edilen yönteme göre (intrasinüs, ekstrasinüs ve sinüs-slot) değerlendirilmiştir. Çalışmaya her iki cinsiyetten 57 hasta, uygulanmış 189 zigomatik implant dahil edilmiştir. Zigomatik implantların 78'i ekstrasinüs yöntemiyle, 44'ü intrasinüs yöntemiyle ve 67'si sinüs-slot yöntemiyle uygulanmıştır.
 
-# TESEKKÜR
+Çalışmamızda zigomatik implantların başarısının, zigomatik implantların uygulama yöntemine (ekstrasinüs, intrasinüs ve sinüs slot) bağlı olduğu sonucuna ulaşılmıştır. Bununla birlikte zigomatik implantların başarısı; zigomatik implantın markası, hastanın yaşı, cinsiyeti ve protez çeşidi arasında anlamlı bir ilişki bulunamamıştır.
 
-Doktora erfolimim boyunca bilgi ve deneyimlerini esirgemeyen, destegini daima yanımda hissettigimCEEgerli hocam Prof. Dr. Barı Altug AYDIL'e, doktora erfolimim boyunca bilgi ve deneyimlerini esirgemeyen, destegini daima yanımda hissettigimCEEgerli ikinci tez danışman hocam, Bahçesehir Universitesi Dis Hekimligi Fakultesi Ağüz, Dis ve Çene Cerrahisi Anabilim Dal ügretim üyesiayoin Prof. Dr. Altan Varol'a, ve Ü. Dis Hekimligi Fakultesi Ağüz, Dis ve Çene Cerrahisi Anabilim Dal ügretim üyesiayoin Prof. Dr. Hümeyra Kocaelli'ye doktora erfolimim boyunca beni her yönden destekleyen, sonsuz yardımlarda bulunan Doç. Dr. Ahmet Riza Şahin'e ve Uzm. Dt. Zülfikar Karabık'a, hayatim boyunca bana güvenen ve destigihi hiçbir zaman esirgemeyen babam Mehmet Hakkı Akbas'a, annihil Şükran Akbas'a, abim Mevlüt Akbas'a ve eşim Gizem Akbas'a teşekürlerimi sunarım.
+**Anahtar kelimeler:** Zigomatik implant, implant başarısı, sinüs-slot, intrasinüs teknik, ekstrasinüs teknik
 
-# ICINDEKILER
+## ABSTRACT {#abstract}
 
-BEYAN. II
-ITHAF. 3
-TESEKKUR IV
-ICINDEKILER
-TABLOLAR VE GRAFIKLERIN LISTESI VII
-SEKILLER LISTESI VIII
-SEMBOLLER/KISALTMALAR LISTESI
-ÖZET XI
-ABSTRACT. Xii
-1. GIRIS VE AMAÇ. 13
-2.GENEL BILGILER 15
-2.1.Kemik Dokusu ve Siniflandirmas1 15
-2.2.Dental Implant ile Igili Genel Bilgiler 16
-2.3.Zigomatik Implantarin Tarihcesi 18
-2.4. Maksillada Diszizlik Ile Meydana Gelen Deigismler 18
-
-2.4.1. Maksillanin Anatomisi 18
-2.4.2. Maksillada Rezorbsiyon 19
-2.4.3. Cawood ve Howel Simiflandirması 20
-2.4.4. Rezorbe Olmuş Maxillanin Rekonstruksiyon Yöntemleri 21
-2.4.5. Maksiller Rekonstruktiyonda Kullananan Kemik Greftleri 21
-2.4.6. Maksiller Sinus Tabani Ogmentasyonu 22
-
-2.4.6.1. Maksiller Sinusin Anatomisi 22
-2.4.6.2. Maksiller Sinusun Kanlanmasa 22
-2.4.6.3. Maksiller Sinusun Innervasyonu 23
-2.4.6.4. Maksiller Sinus Epiteli 23
-2.4.6.5. Lateral Pencere Yöntemi ile Sinüs Ogmentasyonu (Açık Sinüş Lift) .....23
-2.4.6.6. Krestal Yöntem ile Sinüs Ogmentasyonyu (Kapali Sinüs Lift) 24
-
-2.5. Atrofik Maksillanin Dental Rehabilitasyonunda Alternatif Czümler 24
-
-2.5.1. Kisa Implantlar 24
-2.5.2.Açilimplantlar 25
-2.5.3.Pterigoid Implantlar 26
-
-2.5.4.Subperiostal Implantlar 26
-2.5.5. Lefort 1 osteotomisi ve interpozisyonel greftleme (Down Grafting) 27
-2.5.6. Distraksiyon Osteogenezi 28
-2.5.7.Zigomatik Implantlar 30
-2.5.8.Zigomatik Kemik Anatomisi 32
-2.5.9.Zigomatik Implant Endikasyonları 35
-2.5.10.Zigomatik Implant kontrrendikasyonlari 37
-2.5.11. Zigomatik Implant Uygulama Teknikleri 37
-2.5.11.1. Zigomatik Implantarin Komplikasyonları 50
-
-# 3. GEREC VE YONTEM 53
-
-3.1.Gerec .53
-3.1.1.Zigomatik Implant Barbara Indeksi 53
-3.2.Yontem 54
-3.3.Istatiksel Degerlendirme 56
-
-# 4.BULGULAR 57
-
-4.1. Istatiksel Bulgular 57
-
-4.1.1.Teknik ve Başari Ülşkisi 57
-4.1.2. Marka ve Başari İlkeşi 60
-4.1.3. Protez ve Başari İlliskisi 61
-4.1.4.Cinsiyet ve Barangl Iliskisi 63
-4.1.5.Yas ve Barga Ilikisi 65
-
-# 5. TARTIŠMA 67
-
-6. SONUÇ 74
-
-KAYNAKLAR 75
-
-HAM VERILER 81
-
-ETIK KURUL KARARI 87
-
-INTIHAL RAPORU ILK SAYFASI. 88
-
-ÖZGEÇMİŞ 89
-
-YAYINLARI/TEBLIGLERI SERTIFIKALARI/ODULLERI 90
-
-# TABOLAR VE GRAFİKLERİN LISTESİ
-
-3.1.1. Zigomatik Başarı İndeksi
-4.1.1. Teknik ve Başari ileşkısi
-4.1.2. Marka ve Başarı Ülkeşimi
-4.1.3. Protez ve Başarı Üliskisi
-4.1.4. Cinsiyet ve Başarı Üliskisi
-4.1.5. Yañs ve Başari Ülliskisi
-
-# SEKILLER LISTESI
-
-Sekil 1: Maksiller demiğin yüzde eklem yaptıg₁ demi kemikler
-Sekil 2: Maksiller alveoler kretin rezorpsiyon siniflandirmasi
-Sekil 3: Impliance zigomatik implant ve uygulama seti
-Sekil 4: Zigoma kemiigi ile iliskili horizontal butresler
-Şekil 5: Zigoma kemişi ile iliskili vertical butresler
-Sekil 6: Zigomanin eklem yaptıg1 kemikler
-Sekol 7: Zigomatik ark
-Şekil 8: Zigomatik implantin intrasinus yerleşimi
-Şekil 9: Sinus slot yerleşimi implant (Şematik gürünüm)
-Şekil 10: Zigomatik implantin extrasinus yerleşimi
-Şekil 11: Zigomatik implantin (Tip 0)şematik ve ağlz ici进展情况
-Şekil 12: Zigomatik implantin (Tip 1) Şematik ve ağüz ile�能:işirsunmū
-Şekil 13: Zigomatik implantin (Tip 2) Şematik ve ağüz ile�能:içirünümü
-Şekil 14: Zigomatik implantin (Tip 3) Şematik ve ağüz ile�能:işirsunmū
-Şekil 15: Zigomatik implantin (Tip 4) Şematik ve ağüz ile�能:içirünümü
-Sekil 16: Lefort 1 insizyonu yapilarak zigoma gövdelerinin açıga çkarımlası
-Şekil 17: Palatinale konumu flep tasarı
-Şekil 18: Infraorbital sinirin, maksillanın inlateralinin ve zigomanin govdesinin açıgaçıkarlması
-Şekil 19: Zigomatik keminin frontal prosesinin medialinin ve lateralinin açıga çikarlması
-Şekil 20: Infrazigomatik bölgede sinüsunlateralinde pencere olusturulması ve zigomatikçukura ekartörün yerleştilmesi
-Şekil 21: Sinümembrannin diseke edilmesi
-Şekil 22: Zigomatik implantin krestal olarak yerleştirolmesinin Şematize edilmesi
-Şekil 23: Zigomatik implantin konumunun belirlenmesi
-
-Şekil 24: Drilin sinüspencesine ve zigomatik(semiğeGRE oryantasyonu
-
-Şekil 25: Zigomatik implantin yerleştirolmesi (şematize edilmesi)
-
-# SEMBOLLER / KISALTMALAR LISTESI
-
-ASA: Amerika Anestezistler Birligi
-
-MS: Maksiller Sinus
-
-$\mathbf{V}_2$  : Maksiller Sinir
-
-DO: Distraksiyon Osteogenezi
-
-MRONJ: Ilaca Baglì Cene Kemigi Nekrozu
-
-# ÖZET
-
-Akbas M. (2024). Farkl Teknikler ile Uygulanan Zigomatik Implantarin Beaşarınin Retrospektif Olarak İncelenmesi. Istanbul Üniversitesi Saglik Bilimleri Enstitüssu, Ağüz Dis Çene Hastalıkları ve Cerrahisi Anabilim Dalı Doktora Tezi. Istanbul.
-
-Hem ileri yaşa®, alarak, hem de dis kaybina®, alarak meydana gelen alveolar kemikteki rezorpsiyon®, özellikle üst®, cene kemişi olarak adlandırilan maksillada dental implant tedavisini®, Güçlestirmektedir. Zigomatik implantlar, ileri cerrahi tedavi yontemleri,gerektirmeden mevcut tedavi suresini kılı saltarak maksillanı dental rehabilitasyonunu®, saglayabilir ve hastada meydana gelebilecek morbititeyi azaltabilir. Son yllarda zigomatik implant uygulamaları popülerlik kazanlışir.
-
-Çalısmamışda 3 farklı yöntemle uygulanıan (intrasinus, sinüsl-slot ve ekstrasinü) zigomatik implantların basarı,) retrospektif olarak incelenmişir. Çalısmamışda zigomatik implantların basarı ile, protetik basariya, implantin markasina, yaşa, cinsiyete,gore ve tercih edilen yönteme,gore (intrasinus, ekstrasinü ve sinüsl-slot)dehyerlendirilmşir. Çalısmaya her iki cinsiyetten 57 hasta, uygulanmı 189 zigomatik implant dahil edilmşir. Zigomatik implantların 78'i ekstrasinü yöntemiley, 44'ü intrasinüyöntemileve 67'si sinüsl-slot yöntemileuygulanmşir.
-
-Çalısmamışda zigomatik implantarı.Beforeşın, zigomatik implantarı uygulama yontemine (ekstrasinü, intrasinü ve sinü slot) baglı oldugu sonucuna ulaşilmışı. Bununla birlikte zigomatik implantarı.Beforeşı; zigomatik implant他们在 markası, hastanı�能i ve protez çeşidi arasindo anlamlı bir ilisi bulunanamong;.
-
-Anahtar kelimeler: Zigomatik implant, implant bestehtısi,sinüss-slot, intrasinüsteknik, ekstrasinüsteknik
-
-# ABSTRACT
-
-Akbas M.(2024). Retrospective Evaluation of the Success of Zygomatic Implants Applied Different Techniques. Istanbul University, Institute of Health Science, Oral and Maxillofacial Surgery Department. Ph.D. Thesis. Istanbul.
+Akbas M.(2024). Retrospective Evaluation of the Success of Zygomatic Implants Applied Different Techniques. Istanbul University, Institute of Health Science, Oral and Maxillofacial Surgery Department. Ph.D. Thesis. İstanbul.
 
 Resorption in the alveolar bone, which occurs both due to advanced age and tooth loss, makes dental implant treatment difficult, especially in the maxilla, which is called the upper jaw bone. Zygomatic implants can provide dental rehabilitation of the maxilla by shortening the current treatment time without requiring advanced surgical treatment methods and reduce the morbidity that may occur in the patient. In recent years, zygomatic implant applications have gained popularity.
 
-In our study, zigomatic implants placed in 3 techniques (extrasinus, intrasinus, sinus slot) were evaluated retrospectively. Success of zigomatic implants was assessed according to prosthetic success, brand of the placed implant, age and gender of the patient and preferred surgical technique. 189 zigomatic implants in 57 patients (78 of 189 implants performed with ekstrasinus approach, 44 of 189 implants performed with intrasinus approach, 67 of 189 implants performed with sinus-slot approach) were placed.
+In our study, zigomatic implants placed in 3 techniques (extrasinus, intrasinus, sinus slot) were evaluated retrospectively. Success of zigomatic implants was assessed according to prosthetic success, brand of the placed implant, age and gender of the patient and preferred surgical technique. 189 zigomatic implants in 57 patients (78 of 189 implants performed with ekstrasinus approach, 44 of 189 implants performed with intrasinus approach, 67 of 189 implants performed with sinüs-slot approach) were placed.
 
 In our study, it was concluded that the success of zygomatic implants depends on the method of application of zygomatic implants (extrasinus, intrasinus and sinus slot). However, no significant correlation was found between the success of zygomatic implants and the brand of zygomatic implant, age, gender and type of prosthesis.
 
-Keywords: Zygomatic implant, implant success, sinus-slot technich, intrasinus technich, ekstrasinus technich
+**Keywords:** Zygomatic implant, implant success, sinus-slot technique, intrasinus technique, ekstrasinus technique
 
-# 1. GIRIS VE AMAÇ
+# 1. GİRİŞ VE AMAÇ
+<a id="markdown-giris-ve-amac" name="giris-ve-amac"></a>
 
-Dis kayipları, travma,:türör rezeksiyonu, periodontal hastalık ve MRONJ (ilaçlara®,çene®, hemi®,nekrozları) gibi sebepler®, hemiklerinde®,rezorpsiyona neden olmaktadır 1.
+Diş kayıpları, travma, tümör rezeksiyonu, periodontal hastalık ve MRONJ (ilaçlara bağlı çene kemiği nekrozları) gibi sebepler çene kemiklerinde rezorpsiyona neden olmaktadır (1).
 
-İleri derecede rezorbe maksillası olan hastaların implant destekli protetik rehabilitasyonu:içın geleneksel yöntemler uygulanmaktadır. Bu yöntemlerarasında; maksiller sinüş ögmentasyonu, otojen ve yapay kemik grefti uygulaması, kimik split uygulaması, distraksiyon osteogenezi ve lefort-1 sandvic osteotomisiayo bilir. Bu cerrahi operasyonlarda kimik alınan bölgce komplikasyonu ve iyileşmeSurecinin uzun olması gibidezavantajlarınvarlı,)atrofik maksilla:içın yeti bir tedavi yöntemi İhtiyacıDOGURMUSTUR2.
+İleri derecede rezorbe maksillası olan hastaların implant destekli protetik rehabilitasyonu için geleneksel yöntemler uygulanmaktadır. Bu yöntemler arasında; maksiller sinüs ogmentasyonu, otojen ve yapay kemik grefti uygulaması, kemik split uygulaması, distraksiyon osteogenezi ve lefort-1 sandviç osteotomisi sayılabilir. Bu cerrahi operasyonlarda kemik alınan bölge komplikasyonu ve iyileşme sürecinin uzun olması gibi dezavantajların varlığı, atrofik maksilla için yeni bir tedavi yöntemi ihtiyacı doğurmuştur (2).
 
-Tümör ve kanser sebebile total yada parsiyel maksillektomi ameliyatı yapilan hastalarda, konvansiyonel dental implant ve implant destekli protezler yapilamamaktadir. Bu hastalara zigomatik implantlar, maksiller:tümör rezeksiyonu sirasindo yerleştinirilebilir ve hemen protetik)yükleme yapilabilinir;GPCi aigiz ve yüz protezlerini kullanmaya olanak saglar ve hastanin rehabilitasyonunu kolaylşirir.
+Tümör veya kanser nedeniyle total ya da parsiyel maksillektomi geçirmiş hastalar, geleneksel dental implant ve implant destekli protez uygulamalarından faydalanamazlar. Bu tür vakalarda zigomatik implantlar, maksiller tümör rezeksiyonu sırasında yerleştirilebilir ve hemen protetik olarak yüklenebilir. Bu yaklaşım, hastaların geçici ağız ve yüz protezlerini kullanmalarına imkan tanıyarak rehabilitasyon süreçlerini kolaylaştırır.
 
-Zigomatik implantlar bu kemik olusturma yontemlerine alternatif olarak 1988,... y倒在地 Branemark tarafindan sunulmustur. Zigomatik implantarin diger yontemlere gore avantajları ikinci cerrahi ve kemik greftlerine gereksinimi olmayı,... daha kısa surende hemen yüzleme imkanına sahip olmasidir  $^{2}$ . Bu avantajlar son yllarda zigomatik implantları popularitesini artirmışır. Zigomatik implantlarin literatürdeki basari orang  $1 \%$  85-100arasindadir  $^{3}$
+Zigomatik implantlar bu kemik oluşturma yöntemlerine alternatif olarak 1988 yılında Brånemark tarafından sunulmuştur. Zigomatik implantların diğer yöntemlere göre avantajları ikinci cerrahi ve kemik greftlerine gereksinimi olmayışı, daha kısa sürede hemen yükleme imkanına sahip olmasıdır (2). Bu avantajlar son yıllarda zigomatik implantların popülaritesini artırmıştır. Zigomatik implantların literatürdeki başarı oranı % 85-100 arasındadır (3).
 
-Zigomatik implant uygulamalarinda dört adet cerraḥi teknik tanımlanmışir. Zigomatik kemik ile maksiller kemikarasindo açı uygulanacak teknişi belirlemektedir. Bu teknikler: 1-Intra-sinüss(klasik branemark teknik) teknişi,2-Ekstra-maksiller teknik, 3-Sinüsslot teknik 4-Bigisayar Destekli Cerraḥi Yaklaşım Teknişi<sup>4</sup>.
+Zigomatik implant uygulamalarında dört adet cerrahi teknik tanımlanmıştır. Zigomatik kemik ile maksiller kemik arasında açı uygulanacak tekniği belirlemektedir. Bu teknikler:1-İntra-sinüs(klasik Brånemark teknik) tekniği,2-Ekstra-maksiller teknik, 3- Sinüs Slot teknik 4-Bilgisayar Destekli Cerrahi Yaklaşım Tekniği (4).
 
-Tezimizde, farkl teknikler ile uygulanan zigomatik implantarin klinik巴斯arisin, uygulanan teknik ilearasindaki iliskinin incelenmesi ve klinik巴斯arinin uygulanan teknik ile ilgili olup olmadigi, eger ilgili ise hangi tekniigin daha üstun oldugunu tespit etmeye calistik.
+Tezimizde, farklı teknikler ile uygulanan zigomatik implantların klinik başarısının, uygulanan teknik ile arasındaki ilişkinin incelenmesi ve klinik başarının uygulanan teknik ile ilgili olup olmadığı, eğer ilgili ise hangi tekniğin daha üstün olduğunu tespit etmeye çalıştık.
 
+Çalışmaya dahil edilecek olan hastalar American Society of Anesthesiologists sınıflamasına göre ASA-1 ve ASA-2 hasta sınıflarından, 18 yaş üzeri ve randomize olarak seçilmiştir. Farklı teknikler ile uygulanan zigomatik implantların başarısının ölçümü için Zigomatik İmplant Başarı İndeksi referans alınmıştır (5,6).
 
-Çalışmaya dahil edilecek olan hastalar American Society of Anesthesiologists sinflamasınaGXe ASA-1 ve ASA-2 hasta sinflarindan, 18 yaş üzeri ve randomize olarak seçilmistir. Farkl teknikler ile uygulanan zigomatik implantlarin besoinırkınl ölcümü icin Zigomatik Implant Beaşarı Indeksi referans alımrstir  $^{5,6}$
+# 2. GENEL BİLGİLER
+<a id="markdown-genel-bilgiler" name="genel-bilgiler"></a>
 
-# 2.GENEL BILGILER
+## 2.1. Kemik Dokusu ve Sınıflandırması
+<a id="markdown-kemik-dokusu-ve-siniflandirmasi" name="kemik-dokusu-ve-siniflandirmasi"></a>
 
-# 2.1. Kemik Dokusu ve Siniflandirması
+Kemik dokusu, özelleşmiş bir bağ dokusu olup, insan vücudunda diş minesinden sonraki en sert tabakayı oluşturur. Bu doku, zengin bir kan ve sinir ağına sahip olmanın yanı sıra, kaslar için bir iskelet görevi görür. Temelde osteoblastlar, osteositler ve osteoklastlar olmak üzere üç tür hücreden ve bu hücreleri çevreleyen kemik matriksinden oluşur. Histolojik açıdan incelendiğinde kemik dokusu, yoğunluğuna göre ayrılan kortikal ve trabeküler olmak üzere iki tabakadan meydana gelir (7).
 
-Kemik dokusu, insan vucudunda disin mine dokusundan sonra en sert tabakasdir ve özelleşmis bag dokusundan meydana gelmektedir. Kemik dokusu, kanlanması ve sinir innervasyonu acisindan zengindir ve kasları yapşması icin bir çatı goremktedir. Kemik dokusu temelde, osteoblast, osteosit ve osteoklast olmak üzere 3 hücreden ve bunlari cevreleyen kimik matriksinden meydana gelmektedir. Kemik dokusu histolojik olarak incelendiğinde ise kortikal ve trabeküler tabakadan olşmaktadir, bu katmanın ayrınimı kimik dokusunun dansitesi belirlemektedir<sup>7</sup>.
+Kemik içi yerleştirilen implantların başarısında, dental implantı çevreleyen kemik dokusunun hem kalitesi hem de kantitesi önemli rol oynamaktadır. Çenenin farklı bölgelerinde kemik dokusunun kalitesi ve kantitesi farklı olduğundan dolayı dental implantın çenede yerleştirildiği bölge, implantın sağ kalımında rol oynayan önemli bir parametredir. Literatürde geçerliliği olan 3 kemik sınıflandırması bulunmaktadır (7).
 
-Kemik ici yerleştiliren implantlarin巴斯arında, dental implantı cevreleyencemik dokusunun hem kalitesi hem de kantitesi onemli rol oynamaktadır. Çenenfarklı bolgerinde kimik doksunun kalitesi ve kantitesi farklı oldugundan dolayı dental implantin Çenepeyerleştiligi bolge, implantin sag kalıminda rol oynayan onemli bir parametredir. Literaturde geleçrligi olan 3 kimik siniflandirması bulunmaktadır7.
+Linkow ve Chercheve kemiği 3 tipte sınıflandırmıştır:
+- **Sınıf 1**: Boşluğu küçük trabekül aralığı eşit olan kemik tipi,
+- **Sınıf 2**: Trabeküllerin daha düzensiz yerleştiği ve trabekül boşluğu daha geniş olan kemik tipi,
+- **Sınıf 3**: Trabeküller arası boşluğun fazla olduğu kemik tipi.
 
-Linkow ve Chercheve kemiigi 3 tipte siniflandirmistir.
+Sınıf 1 kemik, dental implant uygulamaları için ideal kemiği temsil ederken, sınıf 2 kemikte uygulanan implantların daha az başarılı olduğu, sınıf 3 kemiğin ise, dental implant uygulamaları için ideal kemik olmadığı bildirilmiştir.
 
-Sinif 1: Bɔslugu küçuk trabekül aralıgı eşit olan seksik tipl,
+Lecholm ve Zarb, kemiği 4 alt başlık altında sınıflandırmıştır:
+- **Tip 1**:Homojen kompakt kemik,
+- **Tip 2**: Yoğun trabeküler kemik ve etrafında kalın kortikal kemik,
+- **Tip 3**: Yoğun trabeküler kemik ve etrafında ince kortikal kemik,
+- **Tip 4**: Düşük dansiteli trabeküler kemik ve etrafında ince kortikal kemik.
 
-Sinif 2: Trabeküllerin daha dizensiz yerleştigi ve trabekül boşlugu daha genis扩容 kemik tipi,
+Misch ise kemiği 5 alt kategoride tanımlamıştır:
+- **D1**: Yoğun kortikal kemikten oluşur ve genellikle dişsiz mandibulada anterior bölgede izlenir.
+- **D2**: Dış yüzeyinde kalın, yoğun kortikal kemik iç katmanda ise kalın trabeküler kemikten oluşur. Genellikle mandibula anterior bölgede izlenmekte olup, mandibula posterior bölgede ve maksilla anterior bölgede de izlenebilir.
+- **D3**: Dış katmanda daha ince ve poröz kortikal kemik, iç tarafta ise trabeküller arası boşluğun fazla olduğu bir trabeküler kemik izlenmektedir. Genellikle maksilla anterior bölgede, mandibular ve maksillar posterior bölgede izlenir.
+- **D4**: Kortikal kemiğin genellikle bulunmadığı, trabeküller arasında boşlukların bulunduğu ince katmanlı trabeküler kemikten oluşmaktadır. En sık maksilla posterior bölgede izlenir.
+- **D5**: Kalsifikasyonu tam olarak tamamlanmamış, mature olamamış kemiklerdir. Dansitesi çok azdır ve implant yapmaya uygun değildir (7).
 
-Sinif 3: Trabeküllerarasıboslugunfazla oldugu kemic tipi.
+## 2.2. Dental İmplant ile İlgili Genel Bilgiler
+<a id="markdown-dental-implant-ile-ilgili-genel-bilgiler" name="dental-implant-ile-ilgili-genel-bilgiler"></a>
 
-Sinif 1 kemik, dental implant uygulamaları ilein ideal kemigi temsil ederken, sinif 2 kemikte uygulanan implantların daha az basarili oldugu, sinif 3 kemikin ise, dental implant uygulamaları ilein ileal kemik olmadı bildirilmişir.
+Diş kaybı, bireyleri estetik, fonksiyonel, fizyolojik ve psikolojik olarak etkilemektedir. Bu nedenle, tarih boyunca bireyler kaybedilen dişleri rehabilite etmenin yollarını aramışlardır (8).
 
-Lecholm ve Zarb, kemiigi 4 alt baslik aktinda siniflandirmistir.
+Genel olarak implantasyon canlı dokulara yerleştirilen alloplastik materyalleri ifade etmektedir. İmplant kelimesi ise; latince ve ingilizcede 'ekme' manasına gelmektedir. Dental implantlar ise; diş kaybına bağlı olarak meydana gelen çiğneme fonksiyonundaki ve estetikteki kaybı geri kazandıran en güncel tedavi seçeneğidir. Dental implantlar, cerrahi olarak çene kemiğine yerleştirilir, diş kökünü taklit eder genellikle titanyum alaşımından üretilmektedir. Dental implantlar, diş kayıplarında konvansiyonel protezlere iyi bir alternatif tedavi seçeneğidir (9).
 
-Tip 1: Homojen kompakt fremik,
-Tip 2: Yǒgūn trabeküler kemik ve etrafinda kalın kortikal kemik,
-Tip 3: Yogun trabeküler kimik ve etrafinda ince kortikal kimik,
-Tip 4: Düşuk dansiteli trabeküler kimik ve etrafinda ince kortikal kimik.
+Dental implantların bugünkü güncel durumu uzun bir süreçte meydana gelmiştir. Diş kaybınının telafi edilmesinde, tarih süresince çok farklı metodlar kulllanılmıştır. İnsanlar tarih boyunca metotlar arasında deniz kabukları, hayvan dişleri, tahtaları ve taşları kullanarak dişleri rehabilite etmeye çalışmışlardır. M.Ö. Çinde bambu çubukları çivi haline getirilerek kemik içine uygulama yapılmıştır. Mısırlılar ise, deniz kabuklarını kullanarak mandibular dişlerin kaybıyla meydana gelen fonksiyon kaybını tekrar kazandırmaya çalışmışlardır. Mısırlıların deniz kabuklarını kullanarak yaptığı rehabilitasyon, tarihte dental implantın ilk kanıtı olarak gösterilebilir. Hipokrat çıkarılan dişlerin replasmanın gerektiğini ve diğer dişlere altın benzeri bir madde ile bağlanması gerektiğini bildirmiştir. Günümüz yakın döneme kadar (1800 yıllara kadar) hipokratın görüşüne benzer uygulamalar yapılmıştır. Kaybedilen dişlerin altın, platinyum gibi biyouyumlu malzemeler kullanılarak replasmanı yapılmaya çalışılmıştır (8).
 
-Mish isekemigi 5 alt katagoride tanimlamistir.
+İtalyan bilim insanı Maggiolo, 1800'lerin başında intraosseöz metal implant uygulamalarıyla implantoloji alanında öncülük etmiştir. Eksik dişlerin yerine altın elementinden üretilmiş postların kullanılabileceği tezini ortaya atmıştır. Postun kemik içine başarılı bir şekilde yerleştirilebilmesi için, alveolar soketin postun retansiyonunu sağlayacak bir morfolojiye sahip olması gerektiğini savunmuştur. Bu protokolün özellikle anterior ve premolar dişler için uygun olduğunu belirtmiştir. Maggiolo'nun bu tekniği, o dönemin kısıtlı anestezi ve farmakolojik imkanları göz önüne alındığında, günümüz modern implantolojisinin temelini teşkil eden bir yaklaşım olarak kabul edilmektedir (9).
 
-D1: Yogun kortikal kemikten olusur ve genellikle dissiz mandibulada anterior bölgede izlenir.
-D2: Dis yüseyinde kalı, yüzung kortikal kemik ic katmanda ile kalı trabeküler kimikten olşur. Genellikle mandibula anterior bölgede izlenmekte olup, mandibula posterior bölgede ve maksilla anterior bölgede de izlenebilir.
-D3: Dş katmanda daha ince ve poröz kortikal kemik, iç tarafta ise,trabelküller arasi boşlugun fazla oldugu bir trabeküler kemik izlenmektedir. Genellikle maksilla anterior bölgede, mandibular ve maksillar posterior bölgede izlenir.
-D4: Kortikal kemin genellikle bulunmadigi, trabekullerarasinda boşluklarin bulundugu ince katmani trabeküler kemikten olusmaktadir. En srik maksilla posterior bölgede izlenir.
-D5: Kalsifikasyonu tam olarak tamamlanmamış, matures olamamış kemiklerdir. Dansitesiçok azdir ve implant yapmaya uygun degildir 7.
+1900'lü yılların başlarında, çeşitli materyallerden imal edilmiş, doğal diş kökü morfolojisine benzer implant tasarımları ön plana çıkmaya başlamış ve bu tip implantlar çok sayıda araştırmacı tarafından klinik uygulamaya alınmıştır. Payne tarafından silindirik formda tasarlanan ve Sholl tarafından porselen materyalinden üretilen implantlar kullanılmıştır. Porselenden üretilen bu implantların üzerine yerleştirilen restorasyonlar (kronlar), aynı zamanda komşu doğal dişlerden de destek alacak şekilde stabilize edilmiştir (9).
 
-# 2.2. Dental Implant ile Ilgili Genel Bilgiler
+1900'lü yılların başında, iridyum ve platinyum elementleri kullanılarak Greenfield tarafından bir dental implant geliştirilmiştir. Bu implant, kemik preparasyonu gerçekleştirilerek intraosseöz olarak yerleştirilmiştir. Bu implantın üzerine uygulanan protetik restorasyon, iki parçalı implant sistemlerinin ilk örneğini teşkil etmiştir. Moses Strock ve Alvin ise krom, kobalt ve molibden alaşımı kullanarak diş morfolojisine sahip implant tasarımları oluşturmuşlardır. Çekilmiş dişlerin alveol soketlerine yivli implantların yerleştirilmesiyle soket içerisinde kemik oluşumunun gerçekleştiği rapor edilmiştir. Bu çalışmada kullanılan yivli implantın hasta tarafından yaklaşık 17 yıl boyunca fonksiyon gördüğü belirtilmiştir. 1938 yılında Gustac Dahl ise subperiostal implant konseptini tanımlamıştır. Mandibulada denenen subperiostal implantlar, dört adet abutment üzerine protetik restorasyonun yapılmasına olanak sağlamıştır. Subperiostal implant uygulamaları başarılı klinik sonuçlar ortaya koymuştur (10).
+Modern implantolojinin temelleri, 1960'lı yıllarda Per-Ingvar Brånemark tarafından oluşturulmuştur. Bu dönemde, titanyum elementinin osseöz doku ile yüksek biyouyumu bilimsel olarak açıklanmış ve osseointegrasyon kavramı dental literatüre kazandırılmıştır. Brånemark, osseointegrasyonu, _in vivo_ koşullarda canlı kemik dokusu ile fonksiyonel yükleri aktaran dental implant arasındaki yapısal ve işlevsel bir bağlantı olarak tanımlamıştır. Teknolojik ilerlemelerle paralel olarak, dental implant materyali, implant çeşitleri ve yüzey özellikleri açısından önemli gelişmeler kaydedilmiştir. İmplantların yüzey morfolojilerinde kritik modifikasyonlar gerçekleştirilmiştir. Günümüzde klinik uygulamada kullanılan dental implant sistemleri, dental implant uygulamalarının başlangıç yıllarına (1982) kıyasla farklı makro ve mikro tasarımlar ile sunulmaktadır (10).
 
-Diş kaybı, bireyleri estetak, fonksiyonel, fizyolojik ve psikolojik olarak etkilemektedir. Bu nedenle, tarih boyunca bireyler kaybedilen disleri rehabilitite etmenin yolların aramşlardır 8.
+## 2.3. Zigomatik İmplantların Tarihçesi
+<a id="markdown-zigomatik-implantlarin-tarihcesi" name="zigomatik-implantlarin-tarihcesi"></a>
 
-Genel olarak implantasyon canl dokulara yerleştilen alloplastik materyalleri ifade etmektedir. Implant kelimesi ise; latince ve ingilizcede 'ekme' manasina gelmektedir. Dental implantlar ise; dis kaybina bagl olarak meydana gelen cigneme fonksiyonundaki ve estetakteki kayb1 geri kazandiran en guncel tedavi secenegidir. Dental implantlar, cerrahi olarak cene kemigine yerleştilirir, dis kokunu taklit eder genelliklet titanyum alasimindan ureilmektedir. Dental implantlar, dis kayiplarinda konvansiyonel protezlere iyi bir alternatif tedavi secenegidir 9.
+İleri derecede atrofiye uğramış maksillanın dental rehabilatasyonunda alternatif çözüm olarak zigoma kemiğinin kullanılması 1980'li yıllara dayanmaktadır. Brånemark ve ark. malign sebeblerle maksilla rezeksiyonu yapılmış hastalarda zigomatik kemiğe dental implant yerleştirerek hastaların yaşam kalitesini arttırmayı hedeflemişlerdir. Brånemarktan sonra Weishcer ve ark. zigoma kemiğinin implantlar için ankraj noktası olabileceğine dair çalışmalar yapmıştır (11).
 
-Dental implantlarin bugunkuGPCel durumu uzun bir sureçte meydana gelmişir. Dis kaybinnin telafi edilmesinde, tarih suresinceçok farkı metodlar kullanilmşir. Insanlar tarih boyunca metodlararasinda deniz kabukları, hayvan disleri, tahtaları ve taşları kullanarak disleri rehabilitite etmeyeçalismşlardır. MÖ. Cinde bambuçubukları;civi haline getirilerek kemik icine uygulama yapilmşir. Mırırlar ise, deniz kabuklarıkullanarak mandibular dislerin kaybvi l meydana gelen fonksiyon kaybini tekrar kazandirmayaçalismşlardır.Mırırların deniz kabuklarıkullanarak yaptı rehabilitasyon, tarihte dental implantin ilk kanı Olarak gosterilebilir. Hipokratçikaran dislerin replasmanin gerektigini ve diger dislere altin benzeri bir madde ile baglanması gerektigini bildirmiştir. Gümümuz)yakın)döneme kadar (1800 yllara kadar) hipokratin gürüşüne benzer uygulamalar yapilmostiţr. Kaybedilen dislerin altin, platinyum gibi biyouumlu malzemeler kullanırar replasmanı yapilmaya calisilmostiţr 8.
+## 2.4. Maksillada Dişsizlik İle Meydana Gelen Değişimler
+<a id="markdown-maksillada-dissizlik-ile-meydana-gelen-degisimler" name="maksillada-dissizlik-ile-meydana-gelen-degisimler"></a>
 
+### 2.4.1. Maksillanın Anatomisi
+<a id="markdown-maksillanin-anatomisi" name="maksillanin-anatomisi"></a>
 
-1800'lu yllarin basinda Italyan bilim insani Maggiolo kemiki ci metal implantlar uygulayarak, implant uygulamalarici inci oncu olmustur. Altin elementinden uretilen postları, cekilen dislerin yerine koyulabileceegini bildirmistir. Postun kim icine uygulabilmesi inci alveoler soketin, postun ankraj almasina olanak saglaması gerekliligi inis savunmustur. Anterior dislerin ve premolar dislerin bu uygulamaya uygun oldugu bildirmistir. Maggiolo'nun onerdigi bu teknik zamanina gore degerlendirildiginde anestezik ajanlardan ve medikamanlardan eksik bir donem olarak duşünuldügündeGNUmüzdeki modern implantolojinin temeli olarak gosterilmektedir 9.
+Maksillofasyal gelişim embriyonik hayatın 4\. haftasında başlar. Birinci faringeal ark ve nöral krest hücreleri yüz çıkıntılarının (maksiller, mandibular, frontonasal çıkıntıların) oluşmasına yardımcı olur. Maksiller çıkıntı; damağı ve maksillayı meydana getirir. 4\. haftanın sonunda frontonasal çıkıntı nasal plakaları, nasal plakalar ise lateral ve medial çıkıntıları meydana getirir. 8\. haftada her iki maksillar çıkıntı birleşerek intermaksiller segmenti meydana getirir. Maksilla orta yüzün çatısını oluşturan, viskokranyum için destek oluşturan bir kemiktir. Maksilla iki parçadır ve orta hatta intermaksilar sütur vasıtasıyla birleşir. Korpus, zygomatik, alveolar, palatinal ve frontal çıkıntılardan meydana gelmektedir. Nasal ve oral kaviteyi birbirinden ayırır ve maksiller sinüsü içermektedir. Maksiller sinüsün tavanı, orbital kavitenin tabanını oluşturur. Maksillanın ön duvarı, priform aperturanın inferior ve lateral kısmını oluşturur. Maksiler kemik süperiorda frontal kemik, lateralde zygomatik kemikle, posteriorda palatinal kemikle eklem yapar. Maksiller kemiğin mediali burun boşluğunun lateralini oluşturmaktadır. Maksiller kemiğin inferiorunda ise, alveolar proses vasıtasıyla dişler konumlanmaktadır (12).
 
-1900'lu yllarin baslarinda ise degisik materyallerden diq koku formuna benzer implantlar on plana cikmaya baslamistr ve bu tir implantlar bir cok arastirmacitarafindan uygulanmistir. Payne'nin silindir formunda tasarladig, Sholl'un iseporselenden urettigi implant uygulamaya konulmustur. Porselenden uretilen bu implantlarin uzerine yerseştililen kronlar aynizamanda komsu dislerden de destek almiistir 9.
+### 2.4.2. Maksillada Rezorbsiyon
+<a id="markdown-maksillada-rezorbsiyon" name="maksillada-rezorbsiyon"></a>
 
-1900'lu yllarin basinda iridyum ve platinyum elementleri kullanilarak Greenfield tarafindan uretilen implant, kemik preperasyonu yapilarak kimik icine yerleşirilmistir. Bu implant üzerine yapilan protez ise, iki parçali implant sisteminin ilk örneğini olusturmustur. Moses Strock ve Alvin ise; krom, kobalt ve molibden alasimiyla dis formunda implantlar tasarlamşlardır. Çekilmiş dis soketlerine yivli implantlarıyleşirerek sosette kimik olusumu oldugunu bildirmşlerdir. Bu calismada kullanın yivli implant hasta tarafindan yaklaşık olarak 17 yüz kullanilmşır. Gustac Dahl, 1938 yüznde ise, subperiostal implantı tanımamşır. Subperiostal implantlar mandibulada denenmiş ve 4 adet abutment üzerine protez yapilmşır. Subperiostal implantlar basarili sonuçlar vermşir<sup>10</sup>.
+İnsan vücudundaki her kemikte olduğu gibi maksiller kemikte de fizyolojik olarak remodelasyon meydana gelmektedir. Bu remodelasyonu etkileyen faktörler sistemik ve lokal faktörler olarak sınıflandırılabilir. Sistemik faktörler, bireyin metabolizması, kemik ile ilişkili hastalıklar, endokrin rahatsızlıklar, demografik faktörler olarak sınıflandırılır. Maksiller kemiğin rezorpsiyonu ile ilişkili lokal faktörler ise çene kemiğine etki eden kuvvetlerin yönü ve şiddeti, hastanın hareketli protez kullanması, ilgili bölgeden diş çekimi, kist- tümör varlığı ve travma ile ilişkilidir (13).
 
-1960'lıyllarda zaman modern implantolojinin temeli Branemark tarafindan atilmıştr. Titanyum elementinin kemik dokusuna olan biyouyumunu açıklamış ve tarihte ilk defa osseointegrasyon kavramın tanımlamıştr. Branemark osseointegrasyonu, canl doku ile kuvveti kemeğ ileten implantarasındaki,islevsel baglantı olarak tanımlamıştr. Teknolojideki gelismelere parallel olarak implant, implant ceşitleri ve yüzey Özellikleri açisindan gelismelerGPCklesmişir. Implantarin yüzeylerinde modifikasyonlar yapilmşir. Günümüzde kullanın implantlar, dental implantin uygulandigiklk yllara gore (1982 yìli) farkl tasarimlar ile kullanıma sunulmştr 10.
+Diş varlığı rezorpsiyonunu önleyen bir faktördür. Maksilladaki rezorpsiyon, hastanın dişsiz geçirdiği süre ile doğru orantılıdır. Diş çekimi sonrası rezorpsiyon en çok birinci yılda meydana gelmektedir. Diş kaybıyla ilişkili olarak ilişkili bölge fonksiyon görmez, kemik turnover (kemik döngüsü) olarak adlandırılan kemik yapım/yıkım dengesi, yıkım yönüne kayar ve kemik rezorpsiyonu ile sonuçlanır. Kemik döngüsü programlı olarak devam eden ve kemik dokusunun canlılığının devamı için gerekli olan fizyolojik bir süreç olup, sistemik ve lokal birçok faktör bu süreci etkilemektedir. Rezorpsiyonu etkileyen diğer faktör ise, vaskülarizasyondaki azalmadır. Hem diş çekimiyle hem de yaşla ilişkili olarak maksillada vaskülarizasyonda azalmalar meydana gelmektedir. Vaskülarizasyondaki azalmalar osteblastik aktivitenin azalmasına neden olarak, rezorpsiyon ile sonuçlanır. Maksiller çene kemiğinde fizyolojik rezorpsiyon miktarının yılda 0.1 mm olduğu bildirilmiştir (13).
 
+Maksiller kemikteki fizyolojik rezorpsiyon miktarı anteriordan posteriora doğru artış göstermektedir. Rezorpsiyonun hızı ise bukko-lingual düzlemde, mandibuladaki rezorpsiyon hızına kıyasla daha yüksektir.
 
-# 2.3. Zigomatik Implantarin Tarihçesi
+Alveolar kemikteki rezorpsiyon Cawood ve Howell tarafından sınıflandırılmıştır (14).
 
-İleri derecede atrofiye uğramı maksillanın dental rehabilitatasyonunda alternatif Çozüm olarak zigoma keminin kullanilması 1980'li yyllara dayanmaktadır. Branemark ve ark. malign sebeblerle maksilla rezeksiyonu yapım;, hastalarda zigomatik kemeş dental implant yerleşirerek hastaların Yaşam kalitesini artirmayı hedeflem,islerdir. Branemarktan sonra Weishcer ve ark. zigoma keminin implantlar,—çın ankraj noktası olabileceğine dair calışmalar yapımıstır  $^{11}$ .
+### 2.4.3. Cawood ve Howell Sınıflandırması
+<a id="markdown-cawood-ve-howell-siniflandirmasi" name="cawood-ve-howell-siniflandirmasi"></a>
 
-# 2.4. Maksillada Dişssizlik ile Meydana Gelen Değişimler
+Cawood ve Howell tarafından mandibula ve maksilladaki alveolar rezorpsiyon, altı aşamalı bir sınıflandırma sistemi ile kategorize edilmiştir (14).
 
-# 2.4.1. Maksillanin Anatomisi
+- **Sınıf I:**: Dişin olduğu kret
+- **Sınıf II:**: Diş çekiminden hemen sonraki kret
+- **Sınıf III:**: Yüksekliği ve genişliği yeterli konveks kret
+- **Sınıf IV**: Yüksekliği yeterli, genişliği yetersiz bıçak sırtı kret
+- **Sınıf V** : Yüksekliği ve genişliği yetersiz düz kret
+- **Sınıf VI**: Bazal kemik kaybı olan negatif formda kret (Şekil 2) (4).
 
-Maksillofasyal gelism embrionik hayatin 4. haftasinda baslar. Birinci faringeal ark ve noral krest hcreleri yuz Çıktiların (maksiller, mandibular, frontonasal Çıktiların) olusmasina yardimcı olur. Maksiller Çıktı; damag ve maksillay meydana getirir. 4. haftanın sonunda frontonasal Çıktı nasal plakaları, nasal plakalar iselateral ve medial Çıktiları meydana getirir. 8. haftada her iki maksillar Çıktı birleşerek intermaksiller segmenti meydana getirir. Maksilla orta yüzün Çatısinı olusturan, viskokranyum icin destek olusturan bir kemiktir. Maksilla iki parçadır ve orta hatta intermaksiler sūtur vasıtasıyla birleşir. Korpus, zygomatik, alveolar, palatinal ve frontal Çıktilardan meydana gelmektadir. Nasal ve oral kaviteyi birbirinden ayirir ve maksiller sinüsun icermektadir. Maksiller sinüsun tavanı, orbital kavitenin tabanı olusturur. Maksillanın on duvarı, priform aperturanı inferior ve lateral kistemı olusturur. Maksiler kemik superiorda frontal kemik, laterale zygomatik kemikle, posteriorda palatinal kemikle eklem yapar (Şekil 1). Maksiller kimimin mediali burun boşluğunun lateralini olusturmaktadır. Maksiller kimimin inferiorunda ise, alveolar proses vasıtasıyla disler konumlmanmaktadır 12.
-Şekil 1. Maksiller(semiğin yüzde eklem affirmativekemikler
+### 2.4.4. Rezorbe Olmuş Maxillanın Rekonstrüksiyon Yöntemleri
+<a id="markdown-rezorbe-olmus-maxillanin-rekonstruksiyon-yontemleri" name="rezorbe-olmus-maxillanin-rekonstruksiyon-yontemleri"></a>
 
-# 2.4.2. Maksillada Rezorbsiyon
+Cawood ve Howell'in tanımladığı sınıf IV, V ve VI tip kret rezorpsiyonunda horizontal ve vertikal kemik kaybına bağlı olarak rekonstrüksiyon gerekir. Sınıf IV rezorpsiyonda, alveoler kemiğin genişliğini arttırmak amaçlanır. Sınıf V rezorpsiyon tipinde horizontal yetersizlikle birlikte vertikal olarak da kemik yetersizliği vardır. Sınıf IV ve V'de yönlendirilmiş doku rejenerasyonu ve onley greftler, çene kemiklerinin rekonstrüksiyonda kullanılabilir. Sınıf VI tip rezorpsiyonda ise, alveoler kemik oluşturmak amacıyla yönlendirilmiş doku rejenerasyonu ve onley greftlere ek olarak interark ilişkiyi düzenlemek amacıyla osteotomi yapılabilir. Maksillanın posteriorunda ise, sinüs membranının pnömatizasyonu ve alveoler kemik rezorpsiyonu ile ilişkili olarak bu bölgeye dental implant yerleştirilmesi zorlaştırmaktadır. Dental implantların bu bölgeye yerleştirilmesi için sinüs lifting (açık veya kapalı) işlemi posterior maksillada yapılabilir (13).
 
-İnsan vucudundaki her kemikte oldugu gibi maksiller kemikte de fizolojik olarak remodelasyon meydana gelmektedir. Bu remodelasyonu etkileyen faktörler sistemik ve lokal faktörler olarak siniflandırilabilir. Sistemik faktörler, bireyin metabolizması, kimik ile ilşkı hastalıklar, endokrin rahatsüzkılar, demografik faktörler olarak siniflandırilr. Maksiller kemin rezorbsiyonuyla ilşkı lokal faktörler ise çene keminğine etki eden kuvvetlerin yönü ve siddeti, hastanın hareketli protez kullanması, ilgili bölgeden disçekimi, kist- tümör varlıgün ve travma ile ilşkılidir 13.
+### 2.4.5. Maksiller Rekonstrüksiyonda Kullanılan Kemik Greftleri
+<a id="markdown-maksiller-rekonstruksiyonda-kullanilan-kemik-greftleri" name="maksiller-rekonstruksiyonda-kullanilan-kemik-greftleri"></a>
 
-Diş varlıkırezorpsiyonunu onleyen bir faktörduğ. Maksilladaki rezorpsiyon, hastanın dişşiz geleçirdğiSure ileDOGRU orantıldir.Dişçekimi sonrasırezorpsiyon ençok 1.yildameydana gelmektedir.Diş kaybıyla ilşkili olarak ilşkili bolge fonksiyon görmez, kemik turn-over'1 (kemik dongüusü) olarak adlandırilan kemik yapim/yiçm dengesi, yikim yönüneKayar ve kemikrezorpsiyonulesonuçlanir.Kemik dongüusüprograml Olarak devam eden ve kemik dokusunun canlügenin devam icin gerekli olan fizolojik bir sureç olup,sistemik ve lokalbirçok faktürbu sureci etkilemektedir.Rezorpsiyonu etkileyen diger faktür isec, vaskularizasyondaki azalmadir.Hem disçekimiyle hem de yaşa ilşkili olarak maksillada vaskularizasyonda azalmalar meydana gelmektedir.Vaskularizasyondaki azalmalar osteblastik aktiviten azalmasina neden olarak, rezorpsiyon ilesonuçlanir.Maksillercene kemeiginde fizolojikrezorpsiyon miktarinin ylda0.1mmolduğubildirilmıstir13.
+Kemik greftleri, alveolar kemikte herhangi nedenle (periodontal hastalık, diş çekimi, travma, kist, tümör, alveolar yarık vb.) meydana gelen defektleri onarmak için kullanılır. Kökenine göre kemik greftleri 3 başlık altında incelenebilir.
 
-Maksiler kemikde fizolojik rezorpsiyon miktari anteriordan posterioraogrui artmaktadir. Rezorpsiyon hizı ise; bukko-lingual yonde mandibuladaki rezorpsiyon hizina dhe daha fazladir. Cawood ve Howel alveolar kemikteki rezorbsiyonu siniflandirmiştr 14.
+- **Otojen kemik greftleri**, bireyin kendisinden elde edilen greftlerdir (İliak kanat grefti, ramus grefti, simfiz grefti, koronoid greft, kalvarya grefti, fibula grefti, tibia grefti, kostokondral grefti).
+- **Allojen kemik greftleri**, aynı türden fakat alıcıyla genetik açıdan farklı canlıdan elde edilen greftlerdir (taze kadavra greftleri, demineralize dondurulmuş greftler).
+- **Ksenojen kemik grefti**, donörden farklı türdeki canlıdan elde edilen greftlerdir (sığır,at, domuz gibi farklı türlerden elde edilen greftler).
 
-# 2.4.3. Cawood ve Howel Siniflandirmasi
+Otojen greftler osteojenik yani yeni kemik oluşturma özelliğinden dolayı rekonstrüksiyonda altın standarttır. İliak kanat grefti ekstraoral bir greft olmasına rağmen maksillanın rekonstrüksiyonunda sıklıkla tercih edilmektedir. İliak kanat grefti uygulamasının hospitalizasyon gerektirmesi, ilgili bölgede hipoestezi,kalıcı ağrı, seroma, peritonel perforasyon, üretik yaralanma, stres kırığı, uygulandığı bölgede rezorpsiyona uğraması dezavantajıdır (13).
 
-Cawood ve Howel mandibula ve maksilladaki rezorbsiyonu 6 alt baslik-altinda siniflandirmihtar14.
+Otojen kemik olarak ramus greftlerinin iliak kanat greftlerine göre kortikal içeriği yüksektir, rezorpsiyona karşı daha dirençlidir ancak hacim olarak daha büyük grefte ihtiyaç duyulduğunda ramus grefti yerine daha fazla miktarda greft almaya imkan sağlayan iliak kanat greftinden faydalanılır. Ağız içi donör yani verici saha olarak seçilecek bölgeyi, rekonstrüksiyon yapılacak bölgedeki kemik defektinin boyutu belirler. Ramus greftinde meziodistal olarak simfiz greftine göre daha uzun bir greft elde edilebilir. Simfiz greftinde ise, daha kalın bir greft elde edilebilir (13).
 
-Smf I:: Disin oldugu kret
+Günümüzde teknolojik gelişmelerin artması, yapay greftlerin klinikte kullanımını mümkün kılmıştır. Otojen greftler yerine yapay greftlerin insanlarda kullanımı kanıtlansa da; pahalı olması, otoimmün reaksiyon oluşturma riskinin olması, rejenerasyon miktarının öngörülememesi, enfeksiyona karşı direncinin olmaması gibi olumsuz yönleri bulunmaktadır (13).
 
-Sinf II: DisCEDiminden hemen sonraki kret
+### 2.4.6. Maksiller Sinüs Tabanı Ogmentasyonu
+<a id="markdown-maksiller-sinus-tabani-ogmentasyonu" name="maksiller-sinus-tabani-ogmentasyonu"></a>
 
-Smif III: Yükbekligi ve genisişi yeterli konveks kret
+### 2.4.7. Maksiller Sinüsün Anatomisi
+<a id="markdown-maksiller-sinusun-anatomisi" name="maksiller-sinusun-anatomisi"></a>
 
-Sinf IV: Yüksekligi yeterli, genisligi yetersiz bıçak sirtı kret
+Maksiller Sinüs (MS), embriyonik gelişimin 10\. haftasında oluşmaya başlar. MS paranazal sinüsler arasında en büyük olanıdır ve şekli piramite benzer. 4\. ve 5\. aylarda radyolojik olarak görünür hale gelir ve yaklaşık olarak gelişimi 20 yaşına kadar devam eder. Maksiller sinüs ostium vasıtasıyla orta meatusa açılır. Maksiller sinüsün tavanı orbita tabanını oluşturur, mediali burun boşluğunun lateralini meydana getirir. Maksiller sinüsün posterior sınırı infratemporal fossanın ön sınırını oluşturur iken lateralde ise zigomatik kemik ile komşuluğu bulunmaktadır (12).
 
-SmfV:Yuksekligi ve genisligi yetersizduz kret
+Maksiller sinüsün yeni doğan bireyde anterior-posterior olarak uzunluğu 7 mm, yüksekliği 4 mm ve genişliği 2,7 mm'dir. Maksiller sinüsün boyutlarındaki değişim; süperiordan göz küresinin basısı, lateralden mimik kaslarının çekimi ve inferiordan dişlerinin erüpsiyonu ile ilişkilidir. Yetişkin bir bireyde maksiller sinüsün hacmi yaklaşık olarak 12.5 ml'dir. Anterior-posterior olarak 27,96 mm, genişliği 19,57 mm ve yüksekliği ise 25,33 mm'dir (12).
 
-Sinif VI: Bazal kemik kaybı olan negatif formula kret (Şekil 2)
-Sekil 2. Maksiller alveoler kretin rezorbsiyon siniflandirmasi.
+### 2.4.8. Maksiller Sinüsün Kanlanması
+<a id="markdown-maksiller-sinusun-kanlanmasi" name="maksiller-sinusun-kanlanmasi"></a>
 
-# 2.4.4. Rezorbe Olmug Maxillanin Rekonstruksiyon Yontemleri
+MS'nin (Maksiller Sinüs) vaskülarizasyonu primer olarak maksiller arterin dalları tarafından sağlanmakla birlikte, fasiyal arterin dalları da bu beslenmeye katkıda bulunmaktadır. Maksiller arterin besleyici dalları arasında infraorbital arter, posterior süperior alveolar arter ve sfenopalatin arter yer almaktadır. Venöz drenaj ise anterior bölgede fasiyal ven aracılığıyla gerçekleşirken, posterior bölgede maksiller ven vasıtasıyla sağlanmaktadır (12).
 
-Cawood ve Howel'in tanımladıgium Şınif IV, V ve VI tip kret resorpsiyonunda horizontal ve vertical kemik kaybina®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®,®.
-Sınif IV rezorpsiyonda, alveoler demişin genişligini artirmak amaçlanir. Şınif V rezorpsiyon tipinde horizontal yetersizlikle birlikte vertical olarak da kemik yetersizligi vardu. Şınif IV ve V'de:yönlendirilmigi doku rejenerasyonu ve onley greftler, Çene kemiklerinin rekonstrüksiyonda kullanilabilir. Şınif VI tip rezorpsiyonda ise, alveoler demişin olusturmak amacymiya:yönlendirilmigi doku rejenerasyonu ve onley greftlere ek olarak interark ilisişi:düzenlemek amacymiya osteotomi yapilabilir. Maksillanin posteriorunda ise, sinümembraninn pnömatizasyonu ve alveoler demişin rezorpsiyonuyla ilisişi olarak bu bölgeye dental implant yerleştilmesi zorlaşirmaktadir. Dental implantlarin bu bölgeye yerleştilmesi:için sinüss lifting (açık veya kapalı) işlemi posterior maksillada yapilabilir 13.
+### 2.4.9. Maksiller Sinüsün İnnervasyonu
+<a id="markdown-maksiller-sinusun-innervasyonu" name="maksiller-sinusun-innervasyonu"></a>
 
-# 2.4.5. Maksiller Rekonstruksiyonda Kullanilan Kemik Greftleri
+MS'nin innervasyonu, trigeminal sinirin maksiller dalından (V2) köken alan infraorbital, anterior, orta ve posterior alveolar sinirler vasıtasıyla olmaktadır. MS'nin büyük kısmının innervasyonu posterior süperior alveolar sinir vasıtasıyla olmaktadır. Anterior süperior alveolar dalı MS'in anterior bölümünü, orta süperior alveolar dalı ise sinüs mukozasını innerve eder (12).
 
-Kemik greftleri, alveolar kemikte herhangi nedenle (periodontal hastalık, disçekimi, travma, kist,:türör, alveolar yarık vb.) meydana gelen defektleri onarmak icin kullanlır. Kökenine güre kimik greftleri 3 baslikALTHinda incelenebilir.
+### 2.4.10. Maksiller Sinüs Epiteli
+<a id="markdown-maksiller-sinus-epiteli" name="maksiller-sinus-epiteli"></a>
 
-Otojen kemik greftleri, bireyin kendisinden elde edilen greftlerdir (Iliak kanat grefti, ramus grefti, simfiz grefti, koronoid greft, kalvarya grefti, fibula grefti, tibia grefti, kostokondral grefti).
+Maksiller sinüs çok katlı yalancı respiratuar epitelle çevrilidir. MS epitelinde mukus salgılayan goblet hücreleri vardır ve daha çok ostium etrafında lokalize olmuşlardır. Sinüs epiteli koruyucu özellik gösterir. Solunan havadaki partikül halinde bulunan yabancı cisimler sinüs mukozasında antijenik etki gösterip, immünolojik yanıt oluşmasına neden olur. Bu durum sinüs mukozasının koruyucu özelliği ile ilişkilidir. Diğer bir koruyucu mekanizma ise, MS'de üretilen mukus yıkama özelliği göstererek mekanik olarak sinüs boşluğunun temizlenmesine yardımcı olur (12).
 
-Allojen kemik greftleri,ainen turden fakat aliciyla genetik acidan farkl canlidan elde edilen greftlerdir (taze kadavra greftleri, demineralize dondurulmus greftler).
+### 2.4.11. Lateral Pencere Yöntemi ile Sinüs Ogmentasyonu (Açık Sinüs Lift)
+<a id="markdown-lateral-pencere-yontemi-ile-sinus-ogmentasyonu-acik-sinus-lift" name="lateral-pencere-yontemi-ile-sinus-ogmentasyonu-acik-sinus-lift"></a>
 
-Ksenojen kemik grefti, donörden farklı türdeki canlıdan elde edilen greftlerdir (sığır,at, domuz gibi farklı türlerden elde edilen greftler).
+Açık sinüs lift yöntemi 1975 yılında Tatum tarafından tanımlanmıştır. MS'in lateral duvarından kemik kaldırılır, schneiderian adı verilen sinüs membranına ulaşılır, sinüs membranı kaldırılır. Oluşan subantral boşluğa otojen veya yapay kemik grefti konur ve bölgenin kemikleşmesi beklenir (15).
 
-Otojen greftler osteojenik yani yeti kemik olusturma Özelliginden dolayi rekonstrüksiyonda.altin standartir. Iliak kanat grefti ekstraoral bir greft olmasina ragmen maksillanin rekonstrüksiyonunda siki:lkla tercih edilmektedir. Iliak kanat grefti uygulamasinin hospitalizasyon gerektirmesi, ilgili bölgede hipoesti,kalı agrı, seroma, peritonel perforasyon, üretik yaralanma, stress kiriı, uygulandı bölgede rezorbsiyona uğramasıdezavantajdir 13.
+Açık sinüs lift yöntemi öncesi, maksiller sinüs tomografi vasıtasıyla değerlendirilmelidir. Herhangi bir patoloji varlığı işlem öncesinde teşhiş ve tedavi edilmelidir, gerekliyse hasta kulak burun boğaz hekimine konsülte edilmelidir. İmplant yerleştirilmesi planlanan bölgeye uygun olarak lateral pencerenin yeri belirlenmelidir. Lokal anestezi sağlandıktan sonra mukoperiostal flep kaldırılmalıdır. Sinüs membranına ulaşmak için infrazigomatik bölgede maksiller sinüsün lateal duvarı uygun yöntemlerle kaldırılmalıdır. Sinüs membranı yırtılmayacak şekilde, oluşan pencere çevresindeki kemikten diseke edilir ve yukarı kaldırılır. Oluşan boşluğa greft materyali yerleştirilir. Açılan lateral pencere bölgesi membranla örtülür ve mukoperiostal flep kapatılır. Bu yöntemde en sıklıkla karşılaşılan komplikasyon sinüs membranının perforasyonudur.
 
-Otojen kemik olarak ramus greftlerinin iliak kanat greftlerine gore kortikal icerigi yuksektir, rezorpsiyona karşı daha dirençlidir ancak hacim olarak daha buyuk grefte ihtiyaç duyuldugunda ramus grefti yerine daha fazla miktarsa greft almaya imkan seksilecek bölgeyi, rekonstrüksiyon yapilacak bölgedeki kemik defektinin boyutu belirler. Ramus greftinde meziodistal olarak simfiz greftine gore daha uzun bir greft elde edilebilir. Simfiz greftinde ise, daha kalın bir greft elde edilebilir 13.
+Perforasyon durumunda ilgili bölge membranla kapatılmalıdır. Bu durum greft materyalinin sinüs içerisine dağılmasına engel olarak enfeksiyon riskini azaltır (15).
 
-Günümüzde teknolojik gelismelerin artması, yapay greftlerin klinikte kullanımın mümkınlükkışır. Otojen greftler yerine yapay greftlerin atanlarda kullanımın kanıltansada; pahal olması, oto-immun reaksiyon olusturma riskinin olması, rejuvenerasyon miktarın Öngörülememesi, enfeksiyona seksi direncinin olmaması gibi olumsuz)yönleri bulunmaktadır 13.
+Sinüs lift işlemi yapılmadan önce hastadan doğru anamnez alınmalıdır. Böbrek rahatsızlığı ,diyabeti olan bireyler, baş boyun bölgesine radyoterapi alan bireyler, üst solunum yolu enfeksiyonu olan bireyler dikkatli bir şekilde değerlendirilmelidir, uygun bölümlere konsülte edilmelidir (13).
 
-# 2.4.6. Maksiller Sinus Tabani Ogmentasyonyu
+### 2.4.12. Krestal Yöntem ile Sinüs Ogmentasyonu (Kapalı Sinüs Lift)
+<a id="markdown-krestal-yontem-ile-sinus-ogmentasyonu-kapali-sinus-lift" name="krestal-yontem-ile-sinus-ogmentasyonu-kapali-sinus-lift"></a>
 
-# 2.4.6.1. Maksiller Sinusün Anatomisi
+Krestal yöntemle sinüs tabanı ogmentasyonu lateral yöntemle sinüs ogmentasyonuna göre daha az invazivdir. Bu yöntemin uygulanabilmesi ve implantın aynı anda yerleştirilebilmesi için minimum 5 mm rezidüel kemik olması gerekmektedir. Bu yöntemde implant bölgesinin sinüs tabanındaki kortikal kemik hissedilene kadar implant frezleri ile drilleme yapılır. En son implant çapına uygun osteotom implant yuvasına yerleştirilir ve çekiç kullanılarak sinüs tabanındaki kortikal kemik kırılır. Kortikal kemik kırıldıktan sonra sinüs membranı kontrollü bir şekilde kaldırılır, fakat bu yöntem lateral pencere yöntemine göre kör bir yöntemdir. Sinüs membranı perforasyonu farkedilmeyebilir. Rezidüel kemik yüksekliğinden 2-3 mm uzun implant yerleştirilir. Bu uygulamada greft de kullanılabilir. Bu yöntem lateral pencere yöntemine göre daha az invaziv olmasına rağmen, sinüs membranı sınırlı miktarda yükseltilir (2-3 mm). Krestal yaklaşımlı sinüs lifting operasyonlarından sonra çekiç darbelerine bağlı olarak bulantı, baş dönmesi, ağrı ve benign paroksismal pozisyonel vertigo meydana gelebilir. Krestal yaklaşım sonucu meydana gelen vertigo en fazla 1 ay içinde geçmektedir. Bu durumu önlemek için hastanın başı operasyon esnasında durdurularak tersi tarafa çevrilmelidir, sonra işleme devam edilmelidir. Bu işlem sırasında birkaç kez tekrarlanmalıdır (16).
 
-Maksiller Sinus (MS), embrionik gelisimin 10. haftasinda olusmaya baslar. MS paranasal sinuslerarasinda en buyuk olanirve sekli piramite benzer.4. ve 5. aylarda radyolojik olarak gordinhale gelir ve yaklasik olarak gelisimi 20 yaşa kadar devameder. Maksiller sinus ostium vasitasıyla orta meatusa acilir. Maksiller sinusun tavaniorbita tabanini olusturur, mediali burun boşlugunun lateralini meydana getirir. Maksiller sinusun posterior siniri infratemporal fossanin on siniri olusturur ilen lateralde isezigomatik kemik ile komşuluğu bulunmaktadir  $^{12}$
+## 2.5. Atrofik Maksillanın Dental Rehabilitasyonunda Alternatif Çözümler
+<a id="markdown-atrofik-maksillanin-dental-rehabilitasyonunda-alternatif-cozumler" name="atrofik-maksillanin-dental-rehabilitasyonunda-alternatif-cozumler"></a>
 
-Maksiller sinusün yeniDOGAN bireyde anterior-posterior olarak uzunluğu 7 mm, yüksekligi 4 mm ve genisligi 2,7 mm'dir. Maksiller sinusün boyutlarindakidehyigi; superiordan goz kuresinin bası1, lateralden mimik kaslarinin cekimi ve inferiordan dislerinin erupsiyonu ile iliskilidir. Yetişkin bir bireyde maksiller sinusün hacmi yaktaşlik olarak 12.5 ml'dir. Anterior-posterior olarak 27,96 mm, genisligi 19,57 mm ve yüksekligi ise 25,33 mm'dir 12.
+### 2.5.1. Kısa İmplantlar
+<a id="markdown-kisa-implantlar" name="kisa-implantlar"></a>
 
-# 2.4.6.2. Maksiller Sinusun Kanlanmasi
+Okluzal kuvvetlerin fazla olduğu ve hem kemik miktarı hem de kemik kalitesi düşük olduğu durumlarda uzun ve daha geniş implantların başarısının yüksek olduğu bildirilmiştir. Kısa implantlar uzunluğu 8 mm'den az implantlardır. Nielsen ve Mokcheh, kısa implantların maksiller posterior bölgede, sinüs lift ve uzun implant uygulamasına bir alternatif olabileceğini bildirmiştir. Kısa implant uygulamaları cerrahi riski, maliyeti düşürür ve tedavi süresini azaltır. Bununla birlikte kısa implantların uzun dönem risk faktörleri bilinmemektedir. Anatomik yapılara zarar vermemek amacıyla (Maksiller posterior bölgede sinüs varlığı, mandibula posterior bölgede ise inferior alveolar sinir varlığı) kısa implantların daha çok posterior bölgelerde tercih edilmesine sebep olmuştur. Posterior bölgelerdeki okluzal kuvvetlerin fazla olması, kemik dansitesindeki artış ve kısa implant kullanımına bağlı olarak kron kök oranının değişmesi ve buna bağlı olarak biyomekanik stresler kısa implantlarda başarısızlık nedeni olabilir. Kısa implantlardaki başarısızlığının büyük çoğunluğunun cerrahi işleme bağlı olmadığı, daha çok implantın üst yapısıyla ilişkili olduğu bildirilmiştir. Maksiller posterior bölgede hem kemik kalitesinin hem de miktarının düşük olması kısa implant kullanımında başarısızlığı daha da arttırabilir (17,18).
 
-MS temel olarak maksiller arterin dallarindan beslenirken, fasiyler arterin dallar da MS'nin beslenmesine katkida bulunur. Maksiller arterin dallararasinda infraorbital arter, posterior superior arter, sphenopalatin arter MS’i besler. Venoz drenaj ise anteriordafasiyl ven vasitasilya olurken, posteriorda ise maksiller ven vasitasilya olur 12.
+### 2.5.2. Açılı İmplantlar
+<a id="markdown-acili-implantlar" name="acili-implantlar"></a>
 
+Rezorbe olmuş maksillada rutinde kullanılan yöntemlere (sinüs lift, kemik ogmentasyonları) alternatif olarak açılı implantlar ve açılı implantların hemen yüklenmesi gibi bazı tedavi protokolleri üzerine çalışmalar yapılmıştır. Ogmentasyon yöntemleri güncel olarak rezorbe olmuş maksillanın rehabilitasyonunda kullanılsa da cerrahi işlemlerin karmaşıklığı, tedavi süresinin uzaması, komplikasyon oluşma olasılığı, tedavinin maliyeti gibi dezavantajları vardır. Bu nedenle ogmentasyon yapılmasına alternatif olarak; ptergoid, zigoma, maksiller sinüsün ön duvarı, tüber gibi anatomik bölgelere primer stabilitesi iyi açılı implantlar yerleştirilebilir. Rezorbe olmuş maksillada, rezidüel kemiğe yerleştirilen bu tip açılı implantlar, yeteri kadar uzun olduğunda (13 yaklaşık olarak) kemik ogmentasyonları gibi karmaşık işlemlere gerek kalmadan yüksek bir primer stabiliteye sahip olur. İmplantların posteriora doğru açılı yerleştirilmesi protezin anterior-posterior mesafesini optimize ederek düz yerleştilen implantlara göre kantilever uzunluğunu azaltabilir ve molar bölgeye gelebilecek oklüzal kuvveti daha öngörülebilir seviyede karşılar (19,20).
 
-# 2.4.6.3. Maksiller Sinusün Innervasyonu
+Gherlone ve ark. 60 hastada yaptıkları çalışmada atrofik maksiller posterior bölgeyi lateral pencere yöntemi, transkrestal yöntem ve açılı yöntemle yerleştirilen implantlar ile rehabilite etmişlerdir. Bu çalışmada açılı implantların konvansiyonel yöntemlerle yapılan implantlar kadar başarılı olduğu sonucuna varılmıştır (19). Lin ve ark. yaptıkları sistematik derlemede aksiyel ve açılı olarak yerleştirilen implantları karşılaştırmışlardır. İki grup arasında marjinal kemik kaybı, implant sağkalımı ve protetik komplikasyonlar gibi parametreleri karşılaştırılmıştır. İki grup arasında istatistiksel olarak farklılık bulunmamıştır (21).
 
-MS'nin innervasyonu, trigeminal sinirin maksiller dalindan (V2) köken alan infraorbital, anterior, orta ve posterior alveolar sinirler vasıtasıyla olmaktadır. MS'nin��k kistemınin innervasyonu posterior supremior alveolar sinir vasıtasıyla olmaktadır. Anterior supremior alveolar dalı MS'in antiober böllumünü, orta supremior alveolar dalı ise sinü mukozasin innerve eder 12.
+### 2.5.3. Pterigoid İmplantlar
+<a id="markdown-pterigoid-implantlar" name="pterigoid-implantlar"></a>
 
-# 2.4.6.4. Maksiller Sinus Epiteli
+Pterigoid implantlar ilk olarak Tulasne tarafından rezorbe olmuş maksillanın en posteriorundan destek alınarak ve posterior kantilever miktarını azaltarak, okluzal kuvvetleri aksiyel olarak kemiğe iletmek için dizayn edilmiştir. Pterigoid bölgeye yerleştirilen implanlar, maksilladan ve sfenoid kemiğin ptergoid kısmından destek alır. Pterigoid tabakadan destek alan implantlar, pterigomaksiller bölgeye yerleştirilen implantlardan daha uzundur ve daha açılılardır. Bölge anatomisinde vital yapılar olduğundan dolayı cerrahi splint (rehberli cerrahi) uygulaması komplikasyon oranını düşürebilir. Anatomik landmark olarak hamular çentiğin kullanılması, pterigoid implant cerrahisinde komplikasyon oranını düşürdüğünü bildirilmiştir. Araujo ve ark. yaptıkları sistematik derleme ve meta-analizde, ileri derecede atrofiye uğramış maksiller posterior bölgeye sahip hastaların rehabilitasyonunda pterigoid implant uygulayarak toplamda 634 hastada 1893 adet pterigoid implantı değerlendirmeye almışlardır. Bu çalışmaya göre pterigoid implantların sağ kalım oranının %94,87 olduğu ve atrofik maksiller posterior bölgenin rehabilitasyonunda pterigoid implantların başarılı olduğu sonucuna varılmıştır (22).
 
-Maksiller sinus cok katı yalancı respiratuar epitelle cevrilidir. MS epitelinde mukus salgilayan goblet hücreleri vardu ve daha cok ostium etrafinda lokalize olmuşlardır. Sinus epiteli koruyucu Özellik gosterir. Solunan havadaki partikel halinde bulunan yabancı cisimler sinus mukozasında antijenik etki gosterip, immunolojik yanı olusması neden olur. Bu durum sinus mukozasin mukuyucu özelliği ile iliskilidir. Digerbirkoruyucu mekanizma ise, MS'de üretilen mukus)yikama özelliği gostererek mekanik olarak sinus boşlugunun temizlenmesine yardımcı olur 12.
+Bidra ve ark. yaptıkları sistematik derlemede 911 implantı 6 yıllık takip sürecinde değerlendirmişlerdir. Bu takip sürecinde 39 pterigoid implantın başarısız olduğu sonucuna varmışlardır. Bu başarısız implantlardan 37'sinin 1\. yılda başarız olduğu tespit edilmiştir. Başarısız implantlardan 30'unun ise üst yapı yapılmadan başarısız olduğu sonucuna varılmıştır. Bu çalışmada pterigoid implantların sağ kalım oranının 6 yıllık takip sürecinde %95.5 olduğu rapor edilmiştir (23).
 
-# 2.4.6.5. Lateral Pencere Yöntemi ile Sinüs Ogmentasyonu (Açık Sinüş Lift)
+### 2.5.4. Subperiostal İmplantlar
+<a id="markdown-subperiostal-implantlar" name="subperiostal-implantlar"></a>
 
-Açık sinüs lift yontemi 1975 yüzanda Tatum tarafindan tanımlanlışir. MS'in lateral duvarindan seksik kaldırilir, schneiderian adı verilen seksis membranına ulasir, seksis membrani kaldırilir. Olusan subantral boşluga otojen veya yapay seksik grefti konur ve bölgentin semesi beklenir 15.
+Subperiostal dental implantlar, mukozanın altına yerleştirilen ve kemiğin üzerine vidalarla sabitlenen metal çerçevesi olan maksillada ileri cerrahi işlemler yapılmasına gerek kalmadan dental rehabilitasyonu mümkün kılar. Subperiostal implantlar, kobalt, krom ve titanyum gibi bileşenlerden oluşur ve biyoetkisizdir. Subperiostal implantlarda mastikatör kuvvetler, çene kemiği ile daha fazla yüzey teması halinde olduğu için, daha geniş yüzeyde aktarılır. Subperiostal implantların, mukozanın altında ve mukozanın üzerinde olmak üzere iki bileşeni vardır. Mukoza altındaki yapı, kemiğin üzerinde protezin desteğinden sorumludur ve çerçeve olarak adlandırılır.Bu çerçeve çene kemiği ile osteoentegre olarak üzerine yapılan proteze ankraj sağlar. Abutmentler ise, mukozadan çıkar ve proteze bağlanır (24).
 
-Açık sinüss lift yontemi öncesi, maksiller sinüss tomografi vasıtasıyla değerlendirilm edir. Herhangi bir patoloji varlıgün ilem öncesinde tşhis ve tedavi edilmelidir, gerekliyse hasta kulak burun bogaz hekimine konsülte edilmedir. Implant yerleştinilmesi planlanan bölgeye uygun olarak lateral pencerenin yi bilirenmelidir. Lokal anestezi-SAlandiktan sonra mukoperiostal flep kaldirilmaldir. Sinüss membranı nulaşmak icin infrazigomatik bölgede maksiller sinüsunlateal duvarı uygun yöntemlerle kaldirilmaldir. Sinüss membranı yirtilmayacak sekilde, olşanan pencere cevresindeki kemikten diseke edilir ve yukari kaldirilir. Olşanan boşluğa greft materyali yerleştinilir. Açınan lateral pencingere bölgesi membranla ortülür ve mukoperiostal flep kapatilir. Bu yöntemde en sikkıkla karşılasılan komplikasyon sinüss membranın perforasyonudur.
+### 2.5.5. Lefort 1 osteotomisi ve interpozisyonel greftleme (Down Grafting)
+<a id="markdown-lefort-1-osteotomisi-ve-interpozisyonel-greftleme-down-grafting" name="lefort-1-osteotomisi-ve-interpozisyonel-greftleme-down-grafting"></a>
 
-Perforasyon durumunda ilgili bölgemembranla kapatilmadir. Bu durum greft materyalinin sinus icerisine dagilmasona engel olarak enfeksiyon riskini azaltir 15.
+Diş kaybına bağlı olarak sadece mandibular anterior bölgede diş varlığında anterior maksillada rezorpsiyon olur. Bu hastalarda maksilla anterior bölgede atrofiye bağlı olarak Sınıf 3 oklüzyon meydana gelir. Sınıf 3 kapanışa ek olarak bu hastalarda artmış intermaksiller mesafe ve çökmüş bir orta yüz profili açığa çıkabilir. İlerleyen yaşla beraber bu atrofi yani ileri derecedeki kemik rezorpsiyonu, yüz profilinde değişikliğe neden olur. Bu durumda sadece dental implantlar için greftleme yapılması optimal bir dental rehabilitasyona olanak sağlamaz. Yüz profilindeki değişimin ortadan kaldırılması, maksillomandibular ilişkinin tekrar sağlanması ve atrofiye bağlı olarak kaybolan yüzdeki mimik hareketlerinin tekrar kazanılması için vertikal yüksekliğin artırılması gerekmektedir. Lefort 1 osteotomisi ve genellikle hacim olarak daha fazla greft imkanı sağlayan posterior iliak kanaldan alınan greft ile yapılan interpozisyonel greftleme, atrofiye bağlı olarak meydana gelen vertikal düzeydeki kaybın tekrar kazanılmasına yardımcı olmaktadır (25).
 
-Sinus lift islemi yapilmadan once hastadanogr uanamnez alinmalidir. Bobrek rahatsizligi ,diyabeti atan bireyler, bas boyun bolgesine radyoterapi alan bireyler, ust solunum yolu enfeksiyonu atan bireyler dikkatli bir sekilde degerlendirilmelidir, uygun böllumere konsülte edilmelidir 13.
+İleri derecede atrofiye uğramış maksiller alveolar atrofide (Cawood & Howell Sınıf VI) lefort 1 osteotomisi ve interpozisyonel greftleme diğer bir tedavi seçeneğidir. Bu tip atrofide transvers, sagittal, vertikal ve horizontal yönde intermaksiller ilişki değişmiştir. Bununla birlikte maksiller sinüsün pnemotizasyonu implantın hem ideal estetikte ve konumda yerleştirilmesi için mevcut durumu daha da zorlaştırmaktadır. Bu durumda Lefort 1 osteotomisi ile anterior-posterior ve transvers yetersizlikler; interpozisyonel greftleme (inley nasal ve sinus ogmentasyonları) ile de maksilla 3 boyutlu olarak rekonstrükte edilebilir. Böylelikle implantlar 3 boyutlu olarak uygun pozisyonda yerleştirilebilir (26).
 
-# 2.4.6.6. Krestal Yöntem ile Sinüs Ogmentasyonu (Kapali Sinüs Lift)
+### 2.5.6. Distraksiyon Osteogenezi
+<a id="markdown-distraksiyon-osteogenezi" name="distraksiyon-osteogenezi"></a>
 
-Krestal yontemle sinus tabani ogmentasyonu lateral yontemle sinus ogmentasyonuna gore darauf az invazivdir. Bu yontemin ogyulanabilmesi ve implantin aynanda yerleştilirebilmesi icin minimum  $5\mathrm{mm}$  residuel kemik olması gerekmektedir. Bu yontemde implant bolgesinin sinus tabanindaki kortikal kemik hissedilene kadar implant frezleriyle dirilme yapilir. En son implant capina uygun osteotom implant yuvasina yerleştilirir ve cekiç kullanırar sinus tananindaki kortikal kemik kırilir. Kortikal kemik kırildıktan sonra sinus membranı kontrollü bir sekilde kaldirilir, fakat bu yontem lateral pencinge yontemine gore körbir yontemdir. Sinus membranı perforasyonu farkedilmeyebilir. Residüel kemik yuksekliginden  $2 - 3\mathrm{mm}$  uzun implant yerleştilir. Bu uygulamada greft de kullanilabilir. Bu yontem lateral pencinge yontemine gore darauf az invaziv olmasına ragmen, sinus membranı siniri miktarda yükseltilir  $(2 - 3\mathrm{mm})$  . Krestal yaklassimi sinus lifting operasyonlarindan sonra cekiç darbelerine baglı olarak bulanti, basdonmesi, agrvebenign paroksismal pozisyonel vertigo meydana geblebir. Krestal yaklassim sonucu meydana gelen vertigo en fazla 1 ay icinde gezemektedir. Bu durumu onlemek icin hastanı bası operasyon esnasinda durdurularak tersi tarafa cevrilmelidir, sonra isleme devam edilmelidir. Bu islem sirasinda birkac kez tekrarlanmalidir 16.
+Distraksiyon osteogenezi (DO), kemikde yapay olarak bir fraktür oluşturarak bir alet aracılığı ile fragmanların birbirinden yavaş yavaş uzaklaştırılması, fragmanların arasında boşluk oluşturulması ve daha sonra bu boşlukta kemik oluşturulmasını amaçlamaktadır. DO'da kemik oluşumu fragmanlara gerilme kuvveti uygulandığında başlar. Gerilme kuvveti, distraksiyon vektörüne paralel kemik oluşumunu uyarır. DO ile kemik uzatılması tekniği ilk olarak 1905 yılında Codivilla tarafından femura uygulanmıştır. Daha sonra 1950'li yıllarda İlizarov ekstremitelerde distraksiyon osteogenezini uygulayarak kemik oluşumu başarılı bir şekilde gözlemlemiştir. Distraksiyon osteogenezinde temel özellik kemik dokusuyla beraber, damar, kas, sinir ve mukoza gibi dokularda da eş zamanlı olarak doku kazanımının sağlanmasıdır. Yumuşak dokularda gerilme kuvveti sonucu meydana gelen bu değişiklikler distraksiyon histogenezi olarak adlandırılır. Maksillofasiyal bölgede ilk distraksiyon osteogenezi, 1992 yılında McCarty ve arkadaşları tarafından hemifasiyal mikrozomili bir hastada gerçekleştirilmiştir. Bu tekniğin kullanımı, son yirmi yılda kraniyomaksiller bölgede yaygınlaşarak sıklıkla uygulanan bir prosedür haline gelmiştir (27).
 
-# 2.5. Atrofik Maksillann Dental Rehabilitasyonunda Alternatif Cözümler
+**Distraksiyon Osteogenezi Aşamaları**
 
-# 2.5.1. Kisa Implantlar
+Distraksiyon osteogenezinin aşamaları, preoperatif dönem, operatif dönem, latent dönem, distraksiyon dönemi, konsolidasyon ve retansiyon döneminden oluşmaktadır.
 
-Okluzal kuvvetlerin fazla oldugu ve hem kemik miktari hem de kemik kalitesi tatsächık oldugu durumlarda uzun ve daha genis implantlarin巴斯arınin:yüksek oldugu bildirilm次会议. Kısa implantlar uzunluğu 8 mm'den az implantlardır. Nielsen ve Mokcheh, kısa implantlarin maksiller posterior bölgede, sinüs lift ve uzun implant uygulamasına bir alternatif olabileşinci bildirm次会议. Kısa implant uygulamaları cerraşi riski, maliyeti tatsächık ve tedavi suresini azaltır. Bununla birlikte kısa implantlarin uzun:dönem risk faktörleri bilinmemektedir. Anatomik yapılara zarar vermemek amacıyla (Maksiller posterior bölgede sinüss varılgı, mandibula posterior bölgede ile inferior alveolar sinir varılgı) kısa implantarin daha;cok posterior bölgelerde tercih edilmesine sebep olm,DBur. Posterior bölgelerdeki okluzal kuvvetlerin fazla olması, kimik dansitesindeki artış ve kısa implant kullanımina baglı olarak kron koki oranınndehyşmesi ve buna baglı olarak biyomekanik stresler kısa implantarda basarısz;lık nedeni olabilir. Kısa implantardaki basarızlımn bilçük oğunlugunun cerraşi isleme baglı olmadı,g,daha;cok implantin üst yapıslıyla ilşkili oldugu bildirilmistir. Maksiller posterior bölgede hem kimik kalitesinin hem de miktarınnduşuk olması kısa implant kullanınde basarıszligrada da hartaartırabilitir 17,18
+**Preoperatif Dönem:** Bu dönemde hastanın planlaması yapılır. Hastanın fotoğraflarının ve röntgenlerinin değerlendirilmesi klinik inceleme yapılır. Hastanın yaşı, büyüme potansiyeli, dişlerin durumu, oral hijyen, distraksiyon yapılacak bölgenin durumu, hastanın genel durumu ve distraksiyon miktarı değerlendirilir (27).
 
+**Operatif Dönem:** Distraksiyon osteogenezinin bu fazında kemik kesileri yapılır ve distraksiyon aygıtı yerleştirilir. Kemik kesileri elde edilmesi istenen kemiğin miktarına göre yapılmalıdır. Kemik kesileri yapılırken, ilgili bölgedeki anatomik yapılara dikkat edilmelidir. Bukkal taraftaki kesiler önce tamamlanmalıdır, daha sonra lingual taraftaki kemik osteotomlarla yavaş bir şekilde ayrılarak yeşil ağaç kırığı meydana getirilmelidir. Fakat maksillofasyal bölgede kanlanma iyi olduğundan dolayı direkt olarak kesiler de önerilmektedir (27).
 
-# 2.5.2. Açılı Implantlar
+**Latent Dönem:** Kemik kesileri oluşturulduktan sonra, distraksiyon aletinin aktive edilmeden bekletildiği dönemdir. Genel olarak bu süre ortalama 5-7 gündür. Fragmanlar ayrılmaya başlamadan önce iyileşmenin başlaması amaçlanmaktadır. Latent dönemdeki bekleme, hastanın yaşına göre değişmektedir. Latent dönem uzun veya kısa tutulduğunda komplikasyonlar meydana gelebilir. Kallusun olgunlaşması için latent dönem büyük bir önem arz etmektedir. Distraksiyon beklenenden erken zamanda olursa, kallus olgunlaşmadığından kallusa kıkırdak elementler eşlik edebilir. Buna bağlı olarak oluşan kemikte mekanik dayanıklılık az olabilir. Bununla birlikte, latent periyod beklenenden uzun olursa kallus kemiğe benzer bir yapıya dönüşebilir ve distraksiyon aleti fragmanları ayıramayabilir (27).
 
-Rezorbe olmuş maksillada rutinde kullananan yontemlere (sinüs lift, kemik ogmentasyonları) alternatif olarak açılı implantlar ve açılı implantlarin hemen)yüklenmesi gibi bazı tedavi protokolleri üzerine calışmalar yapilmalıkın. Ogmentasyon yontemleri güncel olarak resorbe olmuş maksillanin rehabilitasyonunda kullanılsa da cerraşi ilemlerin karmasıklı,g, tedavi süresinin uzaması, komplikasyon olusma olaskı, tedavinin malyeti gibidezavantajlarıvardır. Bu nedenle ogmentasyon yapilmuması alternative olarak; ptergoid, zigoma, maksiller sinüsun on duvarı, tüber gibi anatomik bölgelere primer stabilitesi iyi açılı implantlar yerleştirol bilir. Resorbe olmuş maksillada, residüel(semige yerleştirolen bu tip açılı implantlar, yeteri kadar uzun olduğunda (13 yaklaşık olarak) kemik ömgentasyonları gibi karması islemlere gerek kalmadan yüksek bir primer stabiliteye sahip olur. Implantlarin posteriora.Doğru açılı yerleştirolmesi protezin anterior-posterior mesafesini optimize ederek diz yerleştilen implantlara gökantilever uzunluğunu azaltabilir ve molar bölgeye gelebilecek oklüz al kuvveti daha öngörulebilir seviyede karışı 19,20.
+**Distraksiyon dönemi:** Distraksiyon aletinin aktive edildiği kemik fragmanlarının birbirinden ayrıldığı dönemdir. Bu fazda dikkat edilmesi gereken 3 parametre vardır. Bunlar; distraksiyon hızı, distraksiyon ritmi ve distraksiyon süresidir. Distraksiyon hızı genel olarak günde 0.5 ile 1 mm arasında önerilmektedir. Pediatrik hastalarda metabolizma hızı yüksek olduğundan distraksiyon hızı ve ritmi yükseltilebilir. Maksillofasyal bölgede günde 2 kez 0.5 mm olarak tanımlanmıştır (27).
 
-Gherlone ve ark. 60 hastada yaptikları calismada atrofik maksiller posterior bölgeyi lateral pencere yontemi, transkrestal yontem ve açilı yontemle yerleştilen implantlar ile rehabilitite etmisperdir. Bu calismada açilı implantlarin konvansiyonel yontemlerle yapilan implantlar kadar basarili oldugu sonucuna varilmıstir  $^{19}$ . Lin ve ark. yaptikları/systematik derlemede aksiyel ve açilı olarak yerleştilen implantları karılaşirmıslardır. İki gruparasınde marjinal kemik kaybı, implant sap kalıme ve protetak komplikasyonlar gibi parametreleri karşilastirilmıştr. İki gruparasindo istatistiksel olarak farklık bulunmamıştr 21.
+**Konsolidasyon Dönemi:** Bu dönemde distraksiyon aleti deaktive edilir, kazanılan kemiğin maturasyonu sağlanır. İstenilen miktarda kemik kazanımı sağlandıktan sonra alet kilitlenir ve bir süre beklenir. Bu süreçte matür olmayan kemiğin matürasyonu sağlanır ve genel olarak bu süre 6-8 haftadır. Distraktör iyileşme süresince fragmanların iyileşmesini sağlayacak şekilde rijit olmalıdır (27).
 
+**Retansiyon Dönemi:** Distraksiyon aletinin çıkarılmasından sonraki dönemi kapsamaktadır. Distraksiyon osteogeneziyle meydana gelen kemiğin remodelasyonu yaklaşık olarak 2 yıl devam eder.
 
-# 2.5.3. Pterigoid Implantar
+DO'nin endikasyonları oldukça geniştir. Çeşitli kraniyofasial, dentofasial ve dentoalveolar deformitelerin tedavisinde kullanılabilir. İmplant yerleştirilmesi için uygun olmayan alveolar kemik, distraksiyon osteogenezi ile implant için uygun hale getirilebilir.
 
-Pterigoid implantlar ilk olarak Tulasne tarafindan rezorbe olmuş maksillanin en posteriorundan destek alınarık ve posterior kantilever miktarın azaltarak, okluzal kuvvetleri aksiyl olarak(semiğe iletmek)içın dizayn edilmşir. Pterigoid bölgeye yerleştiliren implantlar, maksilladan ve sfenoid semigin ptergoid kismindan destek alır. Pterigoid tabakadan destek alan implantlar, pterigomaksiller bölgeye yerleştiliren implantlardan daha uzundur ve daha acilillardir. Bölgce anatomisinde vital yapılar olduğundan dolaycerrahi splint (rehberli cerrahi) uygulaması komplikasyon oranıduşurebilir. Anatomik landmark olarak hamular centiğin kullanıması, pterigoid implant cerrahisinde komplikasyon oranıduşurdugu bildirilmşir. Arajuo ve ark. yaptiklari sistematik derleme ve meta-analizde, ileri derecede atrofiye uğramış maksiller posterior bölgeye sahip hastaların rehabilitasyonunda pterigoid implant uygulayarak toplamda 634 hastada 1893 adet pterigoid implantı degerlendirmeye almışlardır. Bu calışmaya gö pterigoid implantların sag kalım oranınn %94,87 olduğu ve atrofik maksiller posterior bölgénin rehabilitasyonunda pterigoid implantların basarı olduğu sonucuna varilmşir 22.
+Bu yöntem alveolar split yöntemine benzemektedir. Distraksiyon osteogenezinde vertikal defektler çözülebilirken, horizontal defektlerin çözümünde yetersiz kalabilir ve ek tedavi (greftleme) gerekebilir. Alveolar distraksiyonda midkrestal olarak insizyon yapılır flep kaldırılır, defektin bazalinden ve distraktörün anterior posteriorundan kesi yapılır, fragmanlar osteotomla serbestleştirilir, distraktör yerleştirilir.Yaklaşık olarak bir hafta beklenir (konsolidasyon) daha sonra distraktör aktive edilir. Hasta distraktörü evde kendisi her gün aktive edebilir. Yeterli miktarda kemik kazanımı olduktan sonra implant uygun pozisyonda yerleştirilebilir. Bu yöntemin avantajı kemik ogmentasyonları olmadan kemik miktarının artırılması ve kemikle beraber yumuşak dokunun da artırımının sağlanmasıdır (28).
 
-Bidra ve ark. yaptikları/systematik derlemede 911 implantı 6yticık takip surecindedehyerlendirmişlerdir. Bu takip surecinde 39 pterigoid implantin巴斯ırız oldugu sonucuna varışlardır. Bu巴斯ırız implantlardan 37'sinin 1. yilda巴斯ırız oldugu tespit edilm次会议.巴斯ırız implantlardan 30'unun ise üst yapı yapilmadan巴斯ırız oldugu sonucuna varışkı. Bu calısmada pterigoid implantların sag kalı orangınin 6yticık takip surecinde %95.5 oldugu rapor edilm次会议
+### 2.5.7. Zigomatik İmplantlar
+<a id="markdown-zigomatik-implantlar" name="zigomatik-implantlar"></a>
 
-# 2.5.4. Subperiostal Implantar
+Atrofiye uğramış maksilla, sabit bir dental protetik planlama için hem yerleştirilecek implant sayısını hem de implantların lokalizasyonunu etkilemektedir. Protetik planlamaya uygun sayıda ve lokalizasyonda atrofik maksillaya implant yerleştirmek için kemik ogmentasyonları yapılması gerekebilir. Kemik ogmentasyonlarının maliyetli ve tedavi sürelerinin uzun olmasından dolayı, hastalar bu süreci kabul etmeyebilir. Atrofik maksillanın rehabilitasyonunda yukarıda belirtilen tedavi seçeneklerine (ogmentasyonlar, kısa implantlar, sinüs tabanı greftlemesi, açılı implantlar, tüber ve pterigoid implantlar) ek olarak zigomatik kemikten ankraj alınarak yerleştirilen implantlar son yıllarda popularite kazanmıştır. Zigomatik implantlar, ileri kemik ogmentasyon işlemlerine gerek kalmadan atrofik maksillanın kısa sürede sabit protetik rehabilitasyonuna yardımcı olur (29). Zigomatik implantların, rekonstrüksiyon yapılarak konvansiyel implant uygulanan hastalarda, hasta açısından daha az maliyetli ve hastada daha az morbititeye neden olabileceği bildirilmiştir (30).
 
-Subperiostal dental implantlar, mukozanın alta yerleşirilen ve kemin üzerine vidalarla sabitlenen metal Çergevesiolean maksillada ileri cerraşi ilemler yapilmasinagerek kalmadan dental rehabilitasyonu mumkün kilar. Subperiostal implantlar, kobalt, krom ve titanyum gibi bileşenlerden olusur ve bioinerttir. Subperiostal implantlarda mastikatör kuvvetler,çene kemin ile[daha fazla yüzey teması halinde oldugu icin,daha geni yüzeyde aktarı. Subperiostal implantarin, mukozanın-altinda ve mukozanın üzerinde olmak üzere iki bileşeni yardı. Mukoza altindaki yapı, kemiğin üzerinde protezin desteginden sorumludur ve;cereve olarak adlandırilir.Bu;cereve cene kemiği ile osteoentegre olarak üzerine yapilan proteze ankraj saglar. Abutmentler ise, mukozadançikar ve proteze baglanı 24.
+Zigomatik implantlar ilk olarak 1990'lı yıllarda Brånemark tarafından kullanıldı. Daha sonra implantlar üzerinde modifikasyonlar yapıldı. Zigomatik implantların uzunluğu 35-55 mm arasında değişmektedir. Bu implantlar alveolar kret ve zigomatik kemiğin flap kaldırılarak açığa çıkarılması yoluyla intraoral olarak yerleştirilmektedir. Zigomatik implantlar, alveolar ve zigomatik kemiğin medialine yerleştirilir ve osseointegrasyonu standart implantlarla benzerdir. Zigomatik implantların zigomatik kemik ile birleşen 2/3'lük bölümünde çapı 4 mm iken, alveolar kemikle birleşen 1/3'lük kısmında ise yaklaşık olarak 5 mm'dir (13).
 
+Zigomatik implant uygulama setleri, dental implant setleri ile benzerlik göstermekte olup drilleme frezleri daha uzun ve zigomatik implant ameliyatında yanak bölgesinde travma olmaması için zigomatik dril koruyucu bulunur.
 
-# 2.5.5. Lefort 1 osteotomisi ve interpozisyonel greftleme (Down Grafting)
+### 2.5.8. Zigomatik Kemik Anatomisi
+<a id="markdown-zigomatik-kemik-anatomisi" name="zigomatik-kemik-anatomisi"></a>
 
-Dis kaybina®, Olarak sadece mandibular anterior boli gede dis varligrinda anterior maksillada rezorpsiyon olur. Bu hastalarda maksilla anterior boli gede atrofiye®, Olarak Sinif 3 okluzyon meydana gelir. Sinif 3 kapani#, ak Olarak bu hastalarda artmisi, intermaksiller mesafe ve cokm#, bir orta yuz profili aig#a cikabilir. Ilerleyen yaşla beraber bu atrofi yani ileri derecedeki kemik rezorpsiyonu, yuz profilindedehyigiğene neden olur. Bu durumda sadece dental implantlar için greftleme yapilmasi optimal bir dental rehabilitasyona olanak saglamaz. Yuz profilindekidehyimin ortadan kaldirilmasi, maksillommandibular iliskinin tekrar saglanması ve atrofiye®, olarak kaybolan yüzdeki mimik hareketlerinin tekrar kazaniması için vertical yüksekligin artirilmasi,gerekmektedir. Lefort 1 osteotomisi ve genellikle hacim olarak daha fazla greft imkanı,saglayan posterior iliak kanatdan alinan greft ile yapilan interpozisyonel greftleme, atrofiye®, olarak meydana gelen vertikal dizeydeki kaybin tekrar kazanimması yardimcı olmaktadır 25.
+Zigomatik kemik, yüz iskeletine hem vertikal hem de horizontal destek sağlar ve yüz projeksiyonunda önemli bir role sahiptir (Şekil 4,5). Kalın bir kemik olan zigoma yanak tarafında iç bükey, temporal tarafta ise dış bükey kontüre sahiptir ve dörtgen şeklindedir (31).
 
-İleri derecede atrofiye uğramı maksiller alveolar atrofide (Cawood &Howel Şinf VI) lefort 1 osteotomisi ve interpozisyponel greftleme diger bir tedavi seçeneğidir. Bu tip atrofide transvers, sagittal, vertical ve horizontal yondere intermaksiller ilishidehyşmişir. Bununla birlikte maksiller sinüsun pnemotizasyonu implantin hem ideal estetekte ve konumda yerleştirilmesi icin mevcut durumu daha da zorlaşirmaktadir. Budurumda Lefort 1 osteotomisi ile anterior-posterior ve transvers yetersizlikler; interpozisyonel greftleme (inley nasal ve sinus ogmentasyonları) ile de maksilla 3 boyutlu olarak rekonstrukte edilebilir. Böylelikle implantlar 3 boyutlu olarak uygun pozisyonda yerleştirolibilir  $^{26}$ .
+Zigomatik kemik, dört kemikle eklem yapan pramide benzeyen bir kemiktir. Zigoma, frontal kemiğin zigomatik çıkıntısı vasıtasıyla frontal kemikle, temporal kemiğin zigomatik çıkıntısıyla temporal kemikle, sfenoid kemiğin zigomatik çıkıntısıyla, sfenoid kemikle ve maksillanın zigomatik çıkıntısı vasıtasıyla maksilla ile eklem yapar (Şekil 6).** Zigomatik kemik böylelikle lateralde zigomatik arkı anteriorda yüzün ön duvarını meydana getirir. Süperiorda ise göz küresinin lateral desteğini oluşturur (32).
 
-# 2.5.6. Distraksiyon Osteogenezi
+Zigomatik kemik, maksillanın anterioru ve orbitanın tabanına destek verecek şekilde maksiller kemikle geniş alandan eklem yaparak yüzün ön duvarının desteklenmesinde önemli bir rol oynar Zigoma, maksilla ile birlikte göz tabanını oluşturur. Bu iki kemik geniş bir yüzeyde, infraorbital foramenin lateralinde eklem yapar. Zigomatik kemiğin frontal kemikle eklem yaptığı çıkıntı diğer komşuluklara göre daha kalındır.Fasiyal, orbital ve temporal yüzeyleri üçgen şeklindedir. Zigomanın frontal kemikle eklem yaptığı bölge, kırık fiksasyonunda plak yerleştirilen bölgelerdendir. Zigomatik kemiğin temporal çıkıntısı düzdür ve arkaya doğru uzanarak temporal kemiğin zigomatik çıkıntı ile eklem yapar. Bu yapı zigomatik arkı oluşturur (Şekil 7). Zigomatik ark incedir ve genellikle lateralden gelen kuvvetler nedeniyle kırılmaktadır. Zigomanın temporal yüzeyi, zigomatikofasiyal forameni içerir. Maseter kası, zigomatik kemiğinin gövdesi ve zigomatik arktan köken alır. Bununla birlikte temporal ve zigomatik kaslar için yapışma alanı sağlar (32).
 
-Distraksiyon osteogenezi (DO), kimikde yapay olarak bir fraktur olusturarak bir alet araciligi ile fragmanlarin birbirinden yavaş yavaş uzaklassirilması, fragmanlarinarasinda boşluk olusturulması ve daha sonra bu boşlukta kimik olusturulması amaçlamaktadır. DO'da kimik olusumu fragmanlara gerilme kuvveti uygulanışında baslar. Gerilme kuvveti, distraksiyon vektörüne parallel kimik olusumunu uyarı. DO ilekemik uzatilması teknişi ilk olarak 1905 yüzanda Codivilla tarafindan femurauygulankışir. Daha sonra 1950'li yllarda Ülizarov ekstremiterde distraksiyonosteogenezini uygulayarak kimik olusumu basarı bil bir sekilde gozlemlekışir. Distraksiyon osteogenezinde temel Özellik kimik dokusuyla beraber, damar, kas, sinir ve mukoza gibi dokularda da es zamanlı olarak doku kazanimın saglanmasidir. Yumuşak dokularda germe kuvveti sonucu meydana gelen budehyşiklikler distraksiyon histogeneziolarak adlandırkışir. Maksillofasiyal bölgede ilk distraksiyon osteogenezi 1992 yüzandaMcCarty ve ark. tarafindan hemifasyal mikrozomili bir hastaya uygulankışir. Son 20ylda ise, distraksiyon osteogenezi uygulamaları kraniymaksiller bölgede sikikılauygulanmaktadır 27.
+### 2.5.9. Zigomatik İmplant Endikasyonları
+<a id="markdown-zigomatik-implant-endikasyonlari" name="zigomatik-implant-endikasyonlari"></a>
 
-# Distraksiyon Osteogenezi Aşamaları
+Zigomatik implantlar; diş çekimine, travmaya ve enfeksiyona bağlı olarak ileri derecede rezorbe olmuş, vertikal ve horizontal olarak yeterli olmayan olgularda tercih edilir (33). Bununla birlikte, ileri derecede pnömatize olmuş maksiller sinüs varlığında, sinüs ogmentasyonları gibi komplike işlemlere alternatif olarak zigomatik implantlar yapılabilmektedir. Maksillada herhangi bir nedenle meydana gelmiş defektler, oral kavite ve nazal kavitenin ilişkisine neden olabilir. Zigomadan destek alınarak yapılacak implantlar, oral kavite ve nazal kavite ilişkili olan bireylerde, kaybedilen çiğneme, konuşma, fonasyon ve yutkunma fonksiyonunu geri getirebilir ve estetik problemleri ortadan kaldırabilir. Maksillektomi yapılan hastalarda, rutinde kullanılan obturatörlerin stabilizasyonu artırmak amacıyla zigomatik implantlar kullanılabilir ve hastanın yaşam kalitesi artabilir (34).
 
-Distraksiyon osteogenezinin aşamaları, preoperatif DONEM, operatif DONEM, latent DONEM, distraksiyon DONEMi, konsodilasyon ve retansiyon DONeminden olusmaktadir.
+Aşırı derecede rezorbe olmuş maksiller olgularda; sinüs tabanı ogmentasyonu, yönlendirilmiş doku rejenerasyonu (GBR), Lefort 1 osteotomisi ve iliak kemikle interpozisyonel greftleme, pterigoid bölgeye yerleştirilen implantlar ve açılı yerleştirilen implantlar gibi aşamalı tedavi gerektirebilir. Tedavi aşamasında meydana gelebilecek komplikasyonlar tedavi başarısını etkileyebilir (sinüs membran ekspozu, donör saha morbiditesi). Sinüsün geniş alanda pnömatize olduğu ve rezidüel kemiğin yetersiz olduğu olgularda zigomatik implantların tercih edilmesi, greftleme ve iki aşamalı tedavi gereksinimini ortadan kaldırır (35).
 
-# A) Preoperatif Dönen
+Zigomatik implantlar, maksillektomi sonrası meydana gelen defektleri ve ileri derecede rezorbe olmuş maksillayı rehabilite etmek amacıyla tercih edilir. Bununla birlikte sistemik bir rahatsızlığa bağlı olarak meydana gelen maksiller atrofide de zigomatik implantlar rehabilitasyonda kullanılabilir (36,37).
 
-Bu dōnemde hastanīn planlaması yapilr. Hastanīn fotograflarin ve röttgenlerinin degerlendirilmesi klinik inceleme yapilr. Hastanīn yaşi, buyüme potansiyeli, dislerin durumu, oral hijyen, distraksiyon yapilacak bölgınin durumu, hastanīn genel durumu ve distraksiyon miktari degerlendirilir 27.
+Brånemark ve ark. 1980'li yıllarda zigomatik implantları tümör rezeksiyonu sonrası meydana gelen defektleri ve konjenital defektleri tedavi etmek amacıyla kullanmıştır. Fakat günümüzde kullanım amaçları daha da artmıştır. Aşırı derecede atrofik maksillanın (Tip 4 kemik) rehabilitasyonunda günümüzde sıklıkla tercih edilmektedir (38).
 
-# B) Operatif Dönen
+Maksillada anterior bölge ileri derecede atrofik ve 10 mm'den az rezidüel kemik olgularında 'quad zigoma' konsepti tercih edilmektedir. Anterior bölgeye kısa implant ve posterioru ise zigomatik implantlar ile rehabilite etme tedavinin başarısını düşürebilir.
 
-Distraksiyon osteogenezinin bu fazinda kemik kesileri yapilir ve distraksiyon aygiti yerleştilirir. Kemik kesileri elde edilmesi istenen kemiğin miktarı gore yapilmaldir. Kemik kesileri yapilırken, ilgili bölgedeki anatomik yapilara dikkat edilmelidir. Bukkal taraftaki kesiler.Once tamamlanmaldir, daha sonra lingual taraftaki kimik osteotomlarla yavaş bir sekilde ayrilarak yeşil açaçkııriage meydana getirilmelidir. Fakat maksillofasyal bölgede kanlanma iyi olduğundan dolayı direkt olarak kesiler de önerilmektedir 27.
+Maksiller anterior bölgede kısa implantı, posteriorda zigomatik implant ile provizyonel bir bar vasıtasıyla bağlamak kısa implant üzerinde uygun olmayan bir kuvvet dağılımına neden olabilir ve tedavi başarısını düşürebilir. Bu nedenle anteriorda 10 mm'den az rezidüel kemik olgularında quad zigoma konsepti tedavi başarını artırabilir (39,40).
 
-# C) Latent Donem
+Zigomatik implantların genel endikasyonları ise;
+1. Aşırı rezorbe olmuş maksiller posterior bölgede premolar veya molar bölgede diş olmaması,
+2. Maksillektomi yapılan bireylerde (parsiyel veya total) meydana gelen defektlerin rehabilitasyonunda,
+3. Maksiller anterior bölgede implant yerleştilmesine olanak sağlayan (minimum 2 implant) fakat maksiller posterior bölgede ogmentasyon yapılmadan aksiyel açılı implant yapılması mümkün olmayan olgular,
+4. Maksiller anterior bölgede greftlemeyi takiben aksiyel açılı implant yapılması mümkün olan fakat posterior bölgede de ogmentasyon gerektiren olgularda zigomatik implant endikasyonu vardır (5).
 
-Kemik kesileri olusturulduktan sonra, distraksiyon aletinin aktive edilmeden bekletildigi)dinemdir. Genel olarak bu sure ortalama 5-7 gundir. Fragmanlar ayrilmaya baslamadan once iyileşmenin baslaması amaçlanmaktadir. Latent donemdeki bekleme, hastanın yasına goredehyismektedir. Latent donem uzun veya kisa tutulduğunda komplikasyonlar meydana gelebilir. Kallusun olgunlasması icin latent donem buyuk bir onem arz etmektdir. Distraksiyon beklenenden erken zamanda olursa, kallus olgunlassmadından kallusa kırkıdk elementler eşlik edebilir. Buna baglı olarak olusan kemikte mekanik dayaniklilik az olabilir. Bununla birlikte, latent periyod beklenenden uzun olursa kallus keme genber bir yapıya donuşebilir ve distraksiyon aleti fragmanlari ayiramayibilir  $^{27}$ .
+Residüel kemik miktarına göre rezorbe olmuş maksillada tedavi türü değişmektedir. Tedavi planlanırken anterior ve posteriordaki kemik değerlendirilmelidir. İşlem öncesinde konik ışınlı dental tomografi (CBCT) zigomatik implant planlanan ve etrafindaki anatomik yapılar (maksiller sinüs) ve patoloji varlığı değerlendirilmelidir (5).
 
-# D) Distraksiyon donemi
+Maksilla kendi içerisinde 3 alt bölgeye (premaksiller, promolar ve molar bölgeye) ayrılarak değerlendirilebilir ve her bölgeye tedavi protokolü önerilebilir.
 
-Distraksiyon aletinin aktive edildigi kemik fragmanlarinin birbirinden ayrildigi donemdir. Bu fazda dikkat edilmesi gereken 3 parametre vardir. Bunlar; distraksiyon hizi, distraksiyon ritmi ve distraksiyon suresidir. Distraksiyon hizi genel olarak gunde 0.5 ile  $1\mathrm{mm}$ arasinda onerilmektedir. Pediatrik hastalarda metabolizma hizi yuksek oldugundan distraksiyon hizi ve ritmi yukteltilebilar. Maksillofasyal bolgede gunde 2 kez  $0.5\mathrm{mm}$  olarak tanimlanmistr.[27].
+- 1\., 2\. ve 3\. bölgede yeteri kadar rezidüel kemik varlığında aksiyel implantlar yerleştirilebilir.
+- 1\. ve 2\. bölgelerde yeteri kadar rezidüel kemik varlığından yaklaşık 6 implant yerleştilebilir, 3\. bölgede kemik yetersiz olduğundan en distaldeki implant distale açılı yerleştirilebilir.
+- Sadece 1\. bölgede yeteri kadar rezidüel kemik varlığında anterior bölgeye konvansiyonel implantlar, posteriora ise zigomatik implantlar yerleştirilebilir.
+- 1\., 2\. ve 3\. bölgede yeteri kadar rezidüel kemik yoksa, 'quad zigoma' prensibiyle rehabilitasyon yapılabilinir.
 
-# E) Konsodilasyon Dönemi
+  Bölge 1'de rezidüel kemik yeterli değilse, bölge 2 ve 3'te yeteri kadar rezidüel kemik varsa anterior bölge zigomatik implantlarla posterior bölge ise; aksiyel implantlarla rehabilite edilir (41).
 
-Bu dinemde distraksiyon aleti deaktive edilir, kazananlemkemigin maturasyounu saglanir. Istenilen miktarda kemik kazanimi saglandiktan sonra alet kilitlenir ve bir sure beklenir. Bu sureçte matür olmayan kemigin maturasyounu saglanir ve genel olarak buSure 6-8 haftadir. Distraktör iyileşme suresince fragmanlarin iyileşmesini saglayacak sekilde rijit olmaldir 27.
+### 2.5.10. Zigomatik İmplant kontrendikasyonları
+<a id="markdown-zigomatik-implant-kontrendikasyonlari" name="zigomatik-implant-kontrendikasyonlari"></a>
 
-# F) Retansiyon Dönemi
+Akut sinüs enfeksiyonu olan hastalara, üst solunum yolu enfeksiyonu olan hastalara, maksiller ve zigomatik kemikteki patolojileri olan hastalara, kontrol altında olmayan sistemik rahatsızlığı olan hastalara ve malign tümör hastalığı olan bireylere, baş boyun bölgesine herhangi bir nedenle radyoterapi almış, bifosfonat kullanmış bireylere, zigomatik implant yapmak kontrendikedir (38,42).
 
-Distraksiyon aletinin Çikarımasından sonraki denominmi kapsamaktadır. Distraksiyon osteogeneziyle meydana gelen(semiğin remodelasyonu)yaklaşık olarak 2 yil devam eder.
+### 2.5.11. Zigomatik İmplant Uygulama Teknikleri
+<a id="markdown-zigomatik-implant-uygulama-teknikleri" name="zigomatik-implant-uygulama-teknikleri"></a>
 
-DO'nin endikasyonları oldukça genişir. Çeşitli kraniyofasial, dentofasial ve dentoalveolar deformiterin tedavisinde kullanı bilir. Implant yerleştinilmesi icin uygun olmayan alveolar kemik, distraksiyon osteogenezi ile implant icin uygun hale getirilebilir.
+Zigomatik implant cerrahisinde 4 teknik tanımlanmıştır. Her tekniğin kendine özgü avantajı ve dezavantajı vardır. Hangi tekniğin seçileceğine zigomatik implant planlanan bölgenin anatomisine göre karar verilir.
 
-Bu yontem alveolar split yontemine benzemektedir. Distraksiyon osteogenezinde vertical defektleroczulebilarken, horizontal defektlerinoczumunde yetersiz kalabilir ve ek tedavi (greftreme) gerekebilir. Alveolar distraksiyonda midkrestal olarak insizyon yapilr flep kaldirilir, defektin bazalinden ve distraktorun anterior posteriorundan kesi yapilir, fragmanlar osteotomla serbestleştilirir, distraktör yerleştilirir.Yaklask olarak bir hafta beklenir (konsolidasyon) daß sonra distraktör aktive edilir. Hasta distraktör evde Kendisi hergün aktive edebilir. Yeterli miktarda kemik kazanim olduktan sonra implant uygun pozisyonda yerleştilirebilir. Bu yontemin'avantaji kemik ögmentasyonlari olmadan kemik miktarin artirilmasi ve kemikle beraber yumusak dokunun da artiriminin saglanmasidir 28.
+Zigomatik implant cerrahisinde ilk olarak 1980'lerde intrasinüs tekniği tanımlanmıştır. Diğer teknikler intrasinüs tekniği üzerinde modifikasyonlar yapılarak tanımlanmıştır. **İntra Sinüs** tekniğinde insizyon alveolar kretin palatinalinden başlanarak her iki tarafta birinci molarlar arası insizyon yapılır, flep maksillanın laterali ve zigomatik çıkıntı açığa çıkarılarak, Lefort-1 osteotomisindeki benzer bir şekilde kaldırılır. İnfraorbital sinir görülmeli, kretin palatinali ve bukkali mutlaka açığa çıkarılmalıdır. İntrasinüs tekniğinde sinüs membranının kaldırılması gerektiğinden, zigomatik kretin inferiorundan piezo veya döner uçlu aletler kullanılarak sinüs liftingte kullanılan pencereye benzer bir şekilde osteotomi yapılır. Sinüs penceresinin boyutu, zigomatik implant drilinin ve implantın sinüsün içerisinden zigomatik kemiğe girişinin görülmesine izin veren bir boyutta olması gerekmektedir. Tavsiye edilen boyut 10×5 mm'dir. Lateral pencere oluşturulduktan sonra sinüs membranı inferiordan, lateralden ve süperiordan dikkatli bir şekilde diseke edilmelidir. İntrasinüs tekniğinde sinüs membranının kaldırılması zigomatik implantın başarısı için gerekli değildir, fakat oroantral fistül oluşumu ve sinüzit oluşma olasılığını azaltabilir. Sinüs membranı kaldırılarak, drilleme ve implantın yerleştirilmesi sırasında sinüs membranının perforasyonu önlenir. Böylelikle komplikasyon olasılığı azaltılır. Protetik ve cerrahi planlamaya göre, implantın başının çıkacağı noktadan osteotomiye başlanır. Osteotomi süperior, lateral ve posterior yönde olmalıdır. Osteotomi alveolar kretten başlanarak sinüsün içerisinden zigomatik kemiğin süperior kortikal tabakasında sonlanır. Drilleme aşamasında komşu yumuşak dokulara zarar vermemek için drill guide kulanılmalıdır. Konvansiyonel implantlarda olduğu gibi, ısınmayı engellemek için bol irrigasyon yapılmalıdır, planlanan implant çapına kadar drilleme yapılır. Derinlik ölçer ile osteotomi uzunluğu teyit edilmelidir. Döner aletle yavaş hızda zigomatik implant yerleştirilmelidir, implantın apeksi zigomanın süperior korteksine ulaşmalıdır. Daha sonra implant başı, alveolar kretle uygun pozisyonda olması için konumlandırılır (Şekil 8) (38,43).
 
-# 2.5.7. Zigomatik Implantlar
+İntrasinüs tekniği Stella ve Warner tarafından modifiye edilerek **Sinüs-Slot** tekniği tanımlanmıştır (Şekil 9). Bu teknikte de implant sinüs içerisinde ilerlemektedir. Bu teknikte alveolar kemiğin 5 mm süperiorundan plot drillemeye başlanır, zigomatik kemiğin butresinin üst kısmında drilleme sonlanır. Daha sonra implant için yapılacak drillemeler plot drill üzerinden olmaktadır. Bu teknikte implant maksiller kemiğin lateral duvarından direk olarak zigomatik kemiğe yerleştirilir. Bu teknikte lateralden pencere açılmaz, sinüs membranı perforasyonu riski azalır. Sinus-Slot tekniğinde İntra Sinüs tekniğine göre implant daha lateralde olduğundan dolayı implantın başı alveolar kret tepesindedir, bu durum palatinal kantilever mesafesini azaltır (38).
 
-Atrofiye uğramı maksilla, sabit bir dental protetik planlama icin hem yerleşirilecek implantayoınin hem de implantların lokalizasyonunu etkilemektedir. Protetik planlamaya uygünayoıda ve lokalizasyonda atrofik maksillaya implant yerleşirmek icin kemik ogmentasyonları yapilması gerekebilir. Kemik ömgentasyonların maliyetli ve tedavi sürelerinin uzun olmasından dolayı, hastalar bu sürekı kabul etmeyebilir. Atrofik maksillanı rehabilitasyonunda yukarı belirtelen tedavi seçeneklerine (ömgentasyonlar, kırı implantlar, sinü tabanı greftlemesi, açılı implantlar, tüber ve pterigoid implantlar) ek olarak zigomatik kemikten ankraj alınarak yerleştinlen implantlar son yüzlerde popularite kazananlı. Zigomatik implantlar, ileri kemik ömgentasyon ilemlerine gerek kalmadan atrofik maksillanı kırı surende sabit protetik rehabilitasyonuna yardımcı olur 29. Zigomatik implantları, rekonstrüksiyon yapilRAR konvansiyel implant uygulanan hastalarda, hasta açılından daha az maliyetleri ve hastada daha az morbititeye neden olabilececi bildirilmışı 30
+Bazı hastalarda maksillanın lateral duvarındaki konkaviteye bağlı olarak intrasinüs veya sinüs slot tekniğinin uygulanması zigoma implantının palatinalde konumlanmasına neden olarak protezin daha palatinalde konumlanmasına neden olabilir. Bu durum protezin damak yapısının büyük olmasına neden olabilir. Protezin konumuna bağlı olarak fonasyon ve protezin temizlenme problemi ortaya çıkar. Maksiller sinüsün duvarında konkavite olduğunda implantı doğru konumda yerleştirmek amacıyla **Ekstra Sinüs** tekniği tanımlanmıştır. Ekstra Sinüs yönteminde, zigoma implantı konkaviteye bağlı olarak sinüsün lateral duvarıyla temas etmez, fakat implantın başı alveolar kret tepesinde lokalize olur. İmplant alveolar kemikten çıktıktan sonra direkt olarak zigomatik kemikten ankraj alır (Şekil 10) (38,44).
 
-Zigomatik implantlar ilk olarak 1990'lıllarda Branemark tarafindan kullanıldı. Daha sonra implantlar üzerinde modifikasyonlar yapıldı. Zigomatik implantarı uzunluğu 35-55 mmarasındadehyşmektedir. Bu implantlar alveolar kret ve zigomatik keminflap kaldirılucka açıgaçınarıması yoluyla intraoral olarak yerleştinilmektedir. Zigomatik implantlar, alveolar ve zigomatik keminin medialine yerleştinirilir ve osseointegrasyonu standart implantlarla benzerdir. Zigomatik implantarı zigomatik kemik ile birleşen 2/3'luk böllumände capi 4 mm ilken, alveolar kemikle birleşen 1/3'luk kisminda ise yaklasik olarak 5 mm'dir  $^{13}$ .
+Zigoma implantının yerleştirilmesinde diğer teknik ise **Ekstra Maksiller** yaklaşımdır. Ekstrasinüs tekniğinde olduğu gibi, bu yöntemde de implantın sinüsle ilişkisi yoktur. Bu yöntemde implant alveolar kemiğin tepesinde temas eder ve zigoma temasından önce bir yol oluşturur. Böylelikle zigomatik implant protetik olarak uygun bir pozisyonda yerleştirilebilir. Bu yöntemde implant sadece zigomatik kemikten ankraj almaktadır. Protezin boyutu bu teknikte küçüktür. Buna bağlı olarak konuşmada ve ağız hijyeninde problemlere neden olabilir. Protezin yeteri kadar okluzal kuvvetlere maksiller destek olmadığından dolayı rezistans gösteremez (38).
 
+Aparicio ve ark. her bireyin anatomisi farklı olduğundan dolayı anatomi-rehberli cerrahi (Zgomatic-Anatomy Guided Approach-ZAGA) konseptini tanımlamışlardır. ZAGA konseptine göre implant gövdesi, sinüsün lateral duvarı ve zigomanın gövdesi arasında 5 çıkış profili ortaya konulmuştur.
 
-Zigomatik implant uygulama setleri, dental implant setleri ile benzerlik gostermekte olup drilleme frezleri daha uzun ve zigomatik implant ameliyatinda yanak bolgesinde travma olmaması icin zigomatik drill koruyucu bulunur.
-Sekil 3. Implane marka zigomatik implant ve uygulama seti
+1. **ZAGA TİP 0:** Maksillanın anterior duvarı düzdür**.** Osteotomi maksillanın lateral duvarında ilerler. İmplant zigomatik kemiğe sinüs içerisinden ilerler (Şekil 11).
+2. **ZAGA TİP 1:** Maksillanın ön duvarında hafif bir konkavite vardır. Osteotomi alveolar kemik içerisinde başlar. Proteze doğru konum vermek için zigomatik butrese doğru ilerken maksillanın ön duvarı perfore edilir, zigomatik kemikten ankraj alınır (Şekil 12).
+3. **ZAGA TİP 2:** Maksillanın ön duvarı tip 1'e göre daha konkavdır. İlk osteotomi alveolar kret üzerindedir. Protezin doğru konumlanabilmesi için implant lateral duvarı perfore eder. İmplant gövdesinin büyük kısmı sinüs dışarısındadır.
+4. **ZAGA TİP 3:** Maksillanın anterior duvarı çok konkavdır. Osteotomi palatinalden başlar, maksillanın lateralini perfore eder ve zigomaya ulaşır. İmplantın gövdesiyle maksillanın laterali arasında boşluk vardır.
+5. **ZAGA TİP 4:** İmplant başı çok atrofik maksillada çok ince palatinal kemiği perfore etmeden implant ideal pozisyona ekstramaksiller olarak yerleştirilir (Şekil 15).
 
-# 2.5.8. Zigomatik Kemik Anatomisi
+Zigomatik implant cerrahisinde farklı flep tasarımları yapılabilir. Zigomatik implant cerrahisi genellikle genel anestezi altında, hasta nazal olarak entübe edilerek yapılır. Lefort 1 insizyonu yapılarak mukoperiostal flepin kaldırılması zigomatik implant cerrahisinde geniş bir bölgenin açığa çıkarılması açısından önemlidir. Lefort 1 insizyonu yapılarak mukoperiostal flepin manipüle edilmesi zigoma gövdesinin açığa çıkarılması açısından önem arz etmektedir, post-operatif dönemde flepin açılma riskini azaltır (Şekil 16).
 
-Zigomatik kemik, yüz iskeletine hem vertical hem de horizontal destek saglar ve yüz projeksiyonunda onions bir role sahiptir (Şekil 4,5). Kalın bir kemik onion zigomayanak tarafinda ic[bükey, temporal tarafta ise dis[bükey kontüre sahiptir ve dörtgenseklindedir  $^{31}$
-Sekil 4. Zigomatik kemik ile iliskili horizontal butresler
-Şekil 5. Zigomatik kemik ile iliskili vertical butresler
+Lefort 1 insizyonuna alternatif olarak midkrestal veya palatinale konumlu insizyon yapılarak mukoperiostal flep kaldırılır, zigomatik kemiğin gövdesi açığı çıkarılır (Şekil 17).
 
-Zigomatik kemik, dört kemikle eklem:yapan pramide benzeyen bir kemiktir. Zigoma, frontal kemigin zigomatik Çıktınsı vasıtasıyla frontal kemikle, temporal kemigin zigomatik Çıktınsıya temporal kemikle, sfenoid kemigin zigomatik Çıktınsıya, sfenoid kemikle ve maksillanin zigomatik Çıktınsı vasıtasıyla maksilla ile eklem:yapar (Şekil 6). Zigomatik kemik böylelikle lateralde zigomatik arkı anteriorda:yüzün on duvarın meydana getirir. Süperiorda ise goz küresinin lateral destegini olusturur  $^{32}$
+Zigomatik implant cerrahisinde mukoperiostal flep kaldırıldıktan sonra infraorbital sinirin ve cerrahi yapılacak maksillanın lateral yüzü ve zigomanın gövdesi açığa çıkarılır, cerrahi oryantasyon sağlanır (Şekil 18).
 
-Zigomatik kemik, maksillanın anterioru ve orbitanın tabanova destek verecek seksilde maksiller kemikle geniş alandan eklem yaparak yüzün on duvarındesteklenmesinde onions bir rol oynar Zigoma, maksilla ile birlikte goz tabananı olusturur. Bu iki kemik geniş bir yüseyde, infraorbital foramenin lateralinde eklem yapar. Zigomatik kemin frontal kemikle eklem yaptı�能kıntı dioşkanlindedir. Zigomanın frontal kemikle eklem yaptı�能kıntı bölgce, kırık fiksasyonunda plank yerleşhirilen bölgelerdendir. Zigomatik kemin temporal�能kıntıduzdür ve arkayaDOGU uzanarak temporal kemin zigomatik�能kıntıyla eklem yapar. Bu yapızigomatik arı olusturur (Şekil 7). Zigomatikark incdir ve genellikle lateralden gelen kuvvetler nedeniyle kırilmaktadir. Zigomanıntemporal yüseyi, zigomatikofasiyal foramen icerir. Maseter kası, zigomatik keminingovdesi ve zigomatik arktan köken alir. Bununla birlikte temporal ve zigomatik kaslar,—çın yapişma alanı saglar  $^{32}$
-Şekil 6. Zigomatik(semiğin eklem yaptı semikler
-Sekol 7. Zigomatik Ark
+Zigoma implantı cerrahisinde oryantasyonun kaybedilmemesi önem arz etmektedir. İatrojenik olarak orbital penetrasyonu engellemek amacıyla referans noktaları şeçilmelidir. Bu referans noktaları, zigomatik kemiğin frontal prosesinin mediyalini ve zigomatik çukurunu açığa çıkaracak şekilde olmalıdır. Sinüs membranının diseke edilmesi için infrazigomatik bölgede pencere açılır, sinüs mebranı diseke edilir (Şekil 19,20,21).
 
-# 2.5.9. Zigomatik Implant Endikasyonlari
+Zigomatik implantın başının mümkün olduğunca kret tepesinde ve posteriorda konumlanması hem protetik açıdan hem de molar bölgede çiğneme kuvvetin optimal olması açısından önem arz etmektedir (Şekil 22).
 
-Zigomatik implantlar; dis cekimine, travmaya ve enfeksiyona bagl olarak ileri derecede rezorbe olmus, vertical ve horizontal olarak yeterli olmayan olgularda tercih edilir 33. Bununla birlikte, ileri derecede pnomatize olmus maksiller sinus varliginda, sinus ogmentasyonlari gibi komplike islemlere alternatif olarak zigomatik implantlar yapilabilmektedir. Maksillada herhangi bir nedenle meydana gelmis defektler, oral kavite ve nazal kavitenin iliskisine neden olabilir. Zigomadan destek alinarak yapilacak implantlar, oral kavite ve nasal kavite iliskili alan bireylerde, kaybedilen cigneme, konusma, fonasyon ve yutkunma fonksiyonunu geri getirebilir ve estetak probleleri ortadan kaldirabilir. Maksillektomi yapilan hastalarda, rutinde kullan olburatorerin stabilizasyonu artirmak amacyla zigomatik implantlar kullanilabilir ve hastanin yaşam kalitesi artabilir 34.
+Zigomatik implantın giriş yerini belirlemek amacıyla kret tepesinde nokta belirlenir. Zigomatik kemiğin ve sinüsün lateral duvarınının anatomise bağlı olarak implantın konumu belirlenir (Şekil 23).
 
-Aşırı derecede rezorbe olmuz,maksiller olgularda;sinüstabani ömgentasyonu, yönlendirilmış doku rejenerasyonu (GBR), Lefort 1 osteotomisi ve iliak kemikle interpozisyonel greftleme, pterigoid bölgeye yerleştileren implantlar ve açılıyerleştilen implantlar gibi asamalı tedavi gerektirebilir. Tedavi asamasindo meydana gelebilecek komplikasyonlar tedavi basarışı etkileyebilir (sinüsmembran ekspozu,donor saha morbititesi). Sinusün geni alanda pnömatize oldugu ve residüel kemin yetersiz oldugu olgularda zigomatik implantlarin tercih edilmesi, greftleme ve iki asamalı tedavi gereksinimini ortadan kaldirir  $^{35}$
+İmplant yuvasının hazırlanması sırasında dirilleme yaklaşık olarak 2000 rpm devirde yapılmalıdır. Dirilleme sırasında kemiğin ısınmasını önlemek amacıyla bol miktarda serumla irrigasyon yapılmalıdır. Zigomatik implantın drilleri uzun olduğundan dolayı, etraftaki yumuşak dokulara zarar vermemek için dokular yeteri kadar ekarte edilmelidir. Rond frezle palatinal bölgede işaretleme yapılarak implantın giriş noktası belirlenir. Rond frezle sinüse doğru osteotomi yapılır. Frezin konumu sinüs penceresine ve zigomatik çukura yerleştilmiş olan ekartöre göre belirlenir (Şekil 24).
 
-Zigomatik implantlar, maksillektomi sonrası meydana gelen defektleri ve ileri derecede rezorbe olmş maksillayı rehabilitite etmek amacıyla tercih edilir. Bununla birlikte/systemik bir rahatsizlügen baglı olarak meydana gelen maksiller atrofide de zigomatik implantlar rehabilitasyonda kullanilabilir 36,37.
+Zigomatik kemiğe penetrasyon, sinüsün posteriordan süperiora doğru pilot frez kullanılarak zigomanın dış korteksine kadar gerçekleştirilir. Bu aşamada, çevre dokuların hasar görmesinden ve zigomanın dış korteksinin perfore edilmesinden kaçınılmalıdır. Ardından, oluşturulan kavite, son drill (final matkap) kullanılarak genişletilir. Osteotomi derinliği, derinlik ölçer ile saptanır. Yerleştirilmesi planlanan implantın uzunluğu teyit edildikten sonra zigomatik implant uygulaması gerçekleştirilir. Zigomatik implantın yerleştirilmesi sırasında üç kritik faktör dikkate alınmalıdır:
 
-Branemark ve ark. 1980'li yollarda zigomatik implantleri:tumor rezeksiyonu sonrası meydana gelen defektleri ve konjenital defektleri tedavi etmek amacyla kullanıstir. Fakat).(204) kullanımamaçları daha da artıstir. Aşırı derecede atrofik maksillanin (Tip 4 kemik) rehabilitasyonunda).(205)).(206)。(207)。(208) edilmektedir 38.
+1. İmplantın sinüs boyunca konumunun radyografik veya klinik olarak doğruluğu teyit edilmelidir.
+2. Eğer drillenen uzunlukta implant yerleştirilmeden önce dahi en az 45 N/cm<sup>2</sup>'lik bir sıkışma kuvveti (insertional torque) elde ediliyorsa, bu durum osteotominin tam olarak tamamlanmadığını işaret eder. İmplantı yerleştirmek için aşırı zorlama yapılmamalıdır; aksi takdirde taşıma parçası (implant carrier) kırılabilir. İmplant çıkarılmalı ve osteotomi işlemi yeniden yapılmalıdır.
+3. Altıgen formdaki zigoma implant başının, oklüzyon ile uyumlu bir şekilde angulasyonu sağlanmalıdır.
 
-Maksillada anterior bölgé ileri derecede atrofik ve  $10\mathrm{mm}$  den az rezidüel kemik olgularinda 'quad zigoma' konsepti tercih edilmektedir. Anterir bölgeye kisa implant ve posteriori ise zigomatik implantlar ile rehabilitite etme tedavinin besoinınsı)dusürebilir.
+Zigomatik implantın sinüs kavitesinden geçirilerek zigomatik kemikteki hazırlanan yuvaya yerleştirilmesi sırasında implantın doğru açılanması (angulasyonu) esastır (Şekil 25).
 
-Maksiller anterior bölgede kisa implanti, posteriorda zigomatik implant ile provizyonel bir bar vasitasıyla baglamak kisa implant üzerinde uygun olmayan bir kuvvetDAQlimumna neden olabilir ve tedavi basarısinı)dusürebilir. Bu nedenle anteriorda  $10\mathrm{mm}$  den az residüel kemik olgularinda quad zigoma konsepti tedavi basarını artırabilir 39,40.
+### 2.5.12. Zigomatik İmplantların Komplikasyonları
+<a id="markdown-zigomatik-implantlarin-komplikasyonlari" name="zigomatik-implantlarin-komplikasyonlari"></a>
 
-Zigomatik implantarin genel endikasyonları ise;
+Zigomatik implant cerrahisi süresince ve sonrasında gözlemlenen komplikasyonlar literatürde şu şekilde tanımlanmıştır (38,45):
+- Yumuşak doku enfeksiyonları (apse formasyonu)
+- Sinüs mukozasının perforasyonu (Schneider membran perforasyonu)
+- Oroantral bağlantı oluşumu (oroantral fistül)
+- Maksiller sinüs enfeksiyonu (sinüzit)
+- Peri-orbital ve konjonktival bölgede ekimoz/hematom oluşumu
+- Gingival doku proliferasyonu (diş eti hiperplazisi)
+- İmplantın üzerini örten diş etinde açılma (gingival dehissens)
+- Orbita tabanının veya infratemporal fossanın penetrasyonu/perforasyonu
+- Yanak bölgesinde duyu kaybı (parestezi/hipoestezi)
+- Epistaksis (burun kanaması)
+- Zigoma bölgesinde amfizem (subkutanöz amfizem) oluşumu
+- Peri-implantitis
+- İmplantın çıkarılması (eksplantasyon), osseointegrasyon başarısızlığına veya enfeksiyona sekonder olarak
+- Zigomatik implant bileşenlerinin fraktürü
+- Protetik başarısızlıklar/komplikasyonlar
 
-1) Aşırı rezorbe olmugas,maksiller posterior bölgede premolar ve ya molar bölgede dis olmaması,
-2) Maksillektomi yapilan bireylerde (parsiyel ve ya total) meydana gelen defektlerin rehabilitasyonunda,
-3) Maksiller anterior bölgede implant yereştilmesine olanak saglayan (minimum 2 implant) fakat maksiller posterior bölgede ögmentasyon yapilmadan aksiyel açılı implant yapilması mMkün olmayan olgular,
-4) Maksiller anterior bölgede greftlemeyi takiben aksiyel açılı implant yapilması mümkınan fakat posterior bölgede de ögmentasyon gerektiren olgularda zigomatik implant endikasyonuvardir<sup>5</sup>.
+Zigomatik implant cerrahisi ile ilişkili olarak en sık rapor edilen komplikasyon sinüzit ve maksilller sinüs enfeksiyonudur (30). Sinüzit gelişme nedenleri arasında; meydana gelen cerrahi debrisin ostiumu tıkaması, sinüs membranının perforasyonuna bağlı olarak oral kavitedeki bakterilerin sinüs kavitesine geçmesi, cerrahi öncesi hazırlık protokollerin uygun yapılamaması (asepsi \- antisepsi), zigomatik implantın fonksiyonu sırasında horizontal yöndeki hareketlerin sinüsün havalanma mekanizmasını değiştirmesi sayılabilir. Sinüzit değerlendirmesinde, ilgili tarafta sinüsün CBCT görüntülemesinde radyoopak bir görüntü vermesi sinüzit tanısında önemlidir. Hastadan alınan anamnezde ise, sinüste doluluk hissetmesi, postnazal akıntı, ilgili tarafta baş ağrısı, kötü koku gibi bulgular sinüzit olgusunu açıklar (46). Zigomatik implantlarla ilişkili olarak sinüs enfeksiyonunun gelişmesi implant gövdesinin sinüs membranından yabancı bir madde reaksiyonu oluşturması olabilir (5). Zigomatik implanlara bağlı olarak gelişen sinüs enfeksiyonların yönetiminde medikal ve cerrahi tedavi uygulanır 46–48. Ostiumun tıkanmasına bağlı olarak meydana gelen sinüzitte medikal tedaviye yanıt alınamımışsa, fonksiyonel endoskopik sinüs cerrahisi yapılarak ostiumun açılması sağlanır (46).
 
-Residüel kemik miktarına gore rezorbe olmugas,maksillada tedavi Türüdehyşmekestdir. Tedavi planlanirken anterior ve posteriordaki kemik degerlendirilmelidir. Üslem öncesinde konik ünlı dental tomografi (CBCT) zigomatik implant plananan ve etrafindaki anatomik yapılar (maksiller sinü) ve patoloji varlığıdehyerlendirilmelidir 5.
+Zigomatik implant cerrahisinin oroantral açıklık ve fistül oluşumuna neden olduğuna dair literatürde çalışmalar vardır. Zigomatik implant yapılan hastalarda alveolar kemik ileri derecede rezorbe, maksiller sinüsün pnemotizasyonu ve palatinal kemik ince olduğundan dolayı oroantal ilişki oluşma olasılığı artmaktadır. Ameliyat sırasında oluşan oro-antral ilişki iyileşme süresince oro-antal fistüle dönüşebilir, zigomatik implantın kaybı ile sonuçlanabilir. Bu nedenle işlem sırasında meydana gelen oroantral ilişkinin bişat yağ dokusuyla kapatılması önerilmektedir. Zigomatik implantın kaybıyla oluşan oro-antral fistül vakarında bişat yağ dokusuyla onarımda fistülün tekrar oluşmadığı bildirilmiştir. Zigomatik implanta bağlı olarak meydana sinüs enfeksiyonlarında primer olarak implant eksplante edilmez, medikal tedaviye başlanır. Medikal tedavi yeterli olmadığında endoskopik sinüs cerrahisi uygulanır. Eğer endoskopik sinüs cerrahisinden de sonuç alınmazsa implant explante edilir (5).
 
-Maksilla kendi icerisinde 3 alt bölgeye (premaksiller, promolar ve molar bölgeye) ayrilarak degerlendirilebilir ve her bölgeye tedavi protokolü onerilebilir.
+Zigoma bölgesinde yumuşak dokuların diseksiyonu ve işlem sırasında dokuların ekartasyonuna bağlı olarak infraorbital sinirde travmanın derecesine göre geçici veya kalıcı his kaybı oluşabilir (49). Vrielinck ve ark. 302 hastada 940 zigomatik implant yerleştirmişlerdir. Bu çalışmada 8 hastada geçici parestezi oluştuğu, 4 hastada ise kalıcı parestezi olduğu bildirilmiştir (50).
 
-$>$  1, 2 ve 3. bölgede yeteri kadar rezidüel kemik varliginda aksiyl implantlar yerleşirilebilir.
-1. ve 2. bölgelerde yeteri kadar rezidüel kemik varligindan yaklaşık 6 implant yerleştilebilir, 3. bölgede kemik yetersiz oldugundan en distaldeki implant distale转载请 bilir.
-> Sadece 1. bölgede yeteri kadar rezidüel kemik varlügennda anterior bölgeyekovansiyonel implantlar, posterioria ise zigomatik implantlar yerleştirilebilir.
-$>$  1., 2. ve 3. Bölgede yeteri kadar rezidüel kemik yoksa, 'quad zigoma' prensibiylerehabilitasyon yapilabilinir.
+Orbital kavitenin zigomatik kemiğe yakın komşuluğu olduğundan dolayı, zigomatik implantlar ile ilişkili olarak orbital komplikasyonlar meydana gelebilir (51). Krauthammer ve ark. yaşlı bir hastadan zigomatik implantın oküler penetrasyonu sonucu lateral kantustan kan gelmesi ve hastanın gözlerini abdüksiyon hareketlerinde bozulma meydana geldiğini gözlemlemiştir. İmplantın eksplante edilmesi yapılan göz ameliyatına rağmen gözün hareketlerinin uzun dönemde normale dönmediğini bildirmişlerdir (52).
 
-$\succ$  Bölgge 1'de residüel kemik yeterli degilse, bölgge 2 ve 3'te yeteri kadar rezidüel kemik varsa anterior bölgge zigomatik implantlarla posterior bölgge ise; aksiyel implantlarla rehabilitite edilir  $^{41}$ .
+# 3. GEREÇ VE YÖNTEM
+<a id="markdown-gerec-ve-yontem" name="gerec-ve-yontem"></a>
 
-# 2.5.10. Zigomatik Implant kontrendikasyonlari
+## 3.1. Gereç
+<a id="markdown-gerec" name="gerec"></a>
 
-Akut sinüs enfeksiyonu atan hastalara, üst solunum yolu enfeksiyonu atan hastalara, maksiller ve zigomatik kemikteki patolojileri atan hastalara, kontrol.altinda olmayan sistemik rahatsizligr'an atan hastalara ve malign:tümör hastalırgan bireylere, bas boyun bölgesine herhangi bir nedenle radyoteri almış, bifosfonat kullanmış bireylere, zigomatik implant yapmak kontrendikedianr 38,42.
+Çalışmamız 29/12/2020 tarih ve 48670771-514.10 sayılı İstanbul Prof. Dr. Cemil Taşçıoğlu Şehir Hastanesi Etik Kurulu'nun toplantısında alınan kararla retrospektif olarak planlanmıştır.
 
-# 2.5.11. Zigomatik Implant Uygulama Teknikleri
+Aparicio ve arkadaşları 2020 yılında zigomatik implant başarı kriterlerini revize etmiş olup, sonuç olarak bu implantları; Success (I-II-III), Survive, Failure (Başarılı, Sağkalan, Başarısız) olarak kategorize etmişlerdir. Başarı kriterlerini ise 2014 yılında yayınladıkları gibi 1- Protetik ofset (alveolar krete olan uzaklık ), 2-Rinosinüs patoloji varlığı (sinüzit), 3-İmplant çevresi yumuşak doku sağlığı 4-İmplant stabilitesi derecesine göre belirlemişlerdir. Çalışmamız bu başarı kriterlerine göre yapılmıştır.
 
-Zigomatik implant cerrahisinde 4 teknik tanımlanmethir. Her tekgün kende Özgü avantaj vedezantaj vardu. Hangi tekgün seçileceğine zigomatik implant plananan bölgın anatomisine gore karar verilir.
+### 3.1.1. Zigomatik İmplant Başarı İndeksi
+<a id="markdown-zigomatik-implant-basari-indeksi" name="zigomatik-implant-basari-indeksi"></a>
 
-Zigomatik implant cerrahisinde ilk olarak 1980'lerde intrasinus tekniqi tanimlanmstir. Diger teknikler intrasinus tekniqi uzerinde modifikasyonlar yapilarak tanimlanmstir. Intra Sinus tekniğinde insizyon alveolar kretin palatinalinden baslanarak her iki tarafa birinci molarlararası insizyon yapilr, flep maksillanınlaterali ve zigomatik Çkıntı açıga Çıkariilarak, Lefort-1 osteotomisindeki benzerbir Şekilde kaldirilir. Infraorbital sinir gürümeli, kretin palatinali ve bukkali mutlaka açıga Çıkariilmalir. Intrasinus tekniğinde sinus membranınn kaldirilması gerektiginden, zigomatik kretin inferiorundan piezo veya doner uçlu aletler kullanlarak sinus liftingte kullanlan pencereye benzerbir Şekilde osteotomi yapilir. Sinus pencingerin boyutu, zigomatik implant drilinin ve implantin sinusün icerisinden zigomatik keme geşi din gürülmesine izin veren bir boyutta olması gerekmektedir. Tavsiye edilen boyut  $10\times 5\mathrm{mm}^{\prime}$  dir. Lateral pencere olusturulduktan sonra sinus membranı inferiorordan, lateralden ve superiordan dikkatli bir Şekilde diseke edilmelidir. Intrasinus tekniğinde sinus membranınkaldırilması zigomatik implantin basarı icin gerekli degildir, fakat oroantral fistül olusumu ve sinuzit olusma olasılgını azaltabilir. Sinus membranı kaldirilarak, drilmeve implantin yerleşirilmesi sirasinda sinus membranın perforasyonu onlenir. Böylelikle komplikasyon olasılgı azaltılır. Protetik ve cerrahi planlamaya,gre, implantin basını Çkıcağı noktadan osteotomiye baslanir. Osteotomi superior, lateral ve posterior yonde olmaldir. Osteotomi alveolar kretten baslanarak sinusün icerisinden zigomatik kemigin superior kortikal tabakasinda sonlanir. Drilleme aşamasindo komşu yumusak dokulara zarar vermemek icin drill guide kulanilmaldir. Konvansiyonal implantlarda oldugu gibi, isinmayi engellemek icin bol irrigasyon yapilmaldir, plananan implant capina kadar drilleme yapilir. Derinlik ölçer ile osteotomi uzunluğu teyit edilmelidir. Döner aletle yavaş hizda zigomatik implant yerleşirilmelidir, implantin apeksi zigomanin superior korteksine ulaşmaldir. Daha sonra implant bası, alveolar kretle uygun pozisyonda olması icin konumlandırilir (Şekil 8)  $^{38,43}$ .
+Zigomatik İmplant Başarı Kriterlerinde 1.2.ve 3\. (I,II ve III) grupta olan implantlar Success (Başarılı), 4\. (IV) grupta olanlar Survive (Sağkalan), 5\. (V) grupta olanlar ise Failure (Başarısız) olarak değerlendirilir. Bu değerlendirmede zigomatik implantlar herbir başarı kriteri için ayrı ayrı değerlendirilir.
 
-Şekil 8. Zigomatik implantin Intrasinus Teknigi ile uygulanması
+**ORIS kriterleri** olarak adlandırılan (O:Prosthetic Offset, R:Rhinosinus associated patology, I: Peri-implant soft tissue condition, S:Stability) zigomatik implant başarı indeksi 4 kriteri barındırır. 1\. başarı kriteri olan protetik offset ;zigomatik implantın, alveolar kretin orta hattından ne kadar uzakta olduğu, yani sapma miktarı mm cinsinden ölçülerek bulunur. Zigomatik implantın baş kısmı palatinalde ise artı (+), bukkalde yer almışsa eksi (-) olarak değerlendirilir. Bu değer sayısal olarak arttıkça zigomatik implantın başarı oranı azalır ve palatinalde 15 mm veya bukkalde 5 mm den daha fazla protetik ofset var ise zigomatik implant başarısız olarak değerlendirilir. 2\. başarı kriteri ise, rinosinüs patoloji varlığı, yani sinüslerde var olan enfeksiyon varlığı ile ilgili olup bu patolojinin varlığı (ilaç ve cerrahi tedavi ile geçmeyen), zigomatik implantın başarı oranını azaltır ve bu durumda zigomatik implant başarısız olarak değerlendirilir. 3\. başarı kriteri olan implant çevresi yumuşak doku sağlığı; diş eti çekilmesi, enflamasyon ve enfeksiyon varlığını kapsar ve bu durumda (zigomatik implantın çevresindeki tedavi ile sağlıklı hale gelmeyen yumuşak doku varlığı) zigomatik implantın başarı oranı azalır ve zigomatik implant başarısız olarak değerlendirilir. 4\. başarı kriteri olan zigomatik implant stabilitesi ise zigomatik implantdaki mobilite, ağrı ve rotasyon ile ilişkili olup bu semptomların varlığı, zigomatik implantın başarı oranını azaltır ve bu durumda zigomatik implant başarısız olarak değerlendirilir (6).
 
-Intrasinüs teknişi Stella ve Warner tarafindan modifiye edilerek Sinüsslot teknişi tanımlanlışir (Şekil 9). Bu teknikte de implant sinüss icerisinde ilerlemektedir. Bu teknikte alveolar kemiğin 5 mm supeiorundan plot drillemeye baslanır, zigomatik kemiğin butresinin üst kisminda drilleme sonlanır. Daha sonra implant icin yapılacak drillemeler plot drill üzerinden olmaktadır. Bu teknikte implant maksiller kemiğin lateral duvarından direk olarak zigomatik kemiğe yerleşbirilir. Bu teknikte lateralden pencere açilmaz, sinüss membrani perforasyonu riski azalır. Sinus-Slot teknişinde İntra Sinüss teknişine güre implant[daha lateralde oldalıkundan dolayı implantın bası alveolar kret tepesinedir, bu durum palatinal kantilever mesafesini azaltır 38.
-Şekil 9. Sinüsslot yerleşimi implant (Şematik).(Semenik).(Semenik).(Semenik)
+## 3.2. Yöntem
+<a id="markdown-yontem" name="yontem"></a>
 
-Bazi hastalarda maksillanin lateral duvarindaki konkaviteye baglı olarak intrasinü veya sinü slot tekniğinin uygulanması zigoma implantin palatinalde konumlanması neden olarak protezin Dana palatinalde konumlanması neden olabilir. Bu durum protezin damak yap,isin bil yüz olması neden olabilir. Protezin konumuna baglı olarak fonasyon ve protezin temizlenme problemi ortaya çikar. Maksiller sinüsun duvarinda konkavite oldugunda implantı.Doğru konumda yerleşirmek amacıyla Ekstra Sinüteknişi tanımlanmistr. Ekstra Sinüyönteminde, zigoma implantı konkaviteye baglı olarak sinüsun lateral duvarıla temas etmez, fakat implantin bası alveolar kret tepesinde lokalize olur. Implant alveolar kemiktençıktıkan sonra direkt olarak zigomatik kemikten ankraj alir (Sekil 10)38,44.
-Şekil 10. Zigomatik implantin extrasinus yerleşimi.
+Çalışmamıza, zigomatik implant uygulamalarında kullanılan 4 yöntemden biri olan ancak sayıca az olan (istatiksel olarak anlamlı sonuç çıkmasını engelleyen) Bilgisayar destekli cerrahi yaklaşım tekniği dahil edilmemiştir. Diğer 3 yöntem (İntrasinüs teknik, Sinus-slot teknik, Ekstrasinüs teknik) ve 3 başarı kategorisi (Başarılı, Sağ kalan, Başarısız) için yapılan güç analizinde örneklem büyüklüğü, n=189 (zigomatik implant) bulunmuştur. Çalışmamızda 189 adet zigomatik implant dahil edilmiştir.
+Çalışmamızda primer hipotezi test etmek için 4 serbestlik dereceli Ki-kare analizi, 0.05 birinci tip hata, 0.80 test gücü ve medium (0,3) etki büyüklüğü esas alınarak gerekli örneklem büyüklüğü 189 hesaplanmıştır (n=189 adet zigomatik implant).
+Çalışmamıza Mart 2019 ve Şubat 2021 tarihleri arasında yapılan zigomatik implantlar dahil edilmiştir. Bütün cerrahi işlemler genel anestezi altında, çene cerrahları tarafından uygulanmıştır. Çalışmamıza 18 yaşından büyük, ileri derecede atrofik maksillaya, maksillofasiyal travmadan sonra ileri derecede maksiller kemiğinde kaybı olan, konjenital defekleri olan, başarısız sinüs lifting sonrası konvansiyonel implant uygulaması yapılmış, maksiller sinüste patoloji varlığı olmayan ve oral kavitesinde akut- kronik hastalığı olmayan hastalar dahil edilmiştir.
 
-Zigoma implantin'n yerlestirilmesinde diger teknik ise e
-
-Ekstra Maksiller yaklaşimi dir. Ekstrasinü tekniğinde oldugu gibi, bu yöntemde de implantin sinüsse iliskisi yoktur. Bu yöntemde implant alveolar kemiğın tepesinde temas eder ve zigoma temasindan önce bir yol olusturur. Boylelikle zigomatik implant protetik olarak uygunbir pozisyonda yerleştrilebilir. Bu yöntemde implant sadece zigomatik kemikten ankraj almaktadir. Protezin boyutu bu teknikte küçuktür. Buna baglı olarak konusmada ve ağüz hijyeninde problemlere neden olabilir. Protezin yeteri kadar okluzal kuvvetlere maksiller destek olmadıngindan dolayı rezistans gosteremez. 38.
-
-Aparicio ve ark. her bireyin anatomisi farklı olduğundan dolayı anatomi-rehberli cerraşi (Zgomatic-Anatomy Guided Approach-ZAGA) konseptini tanımlamışlardır. ZAGA konseptine güvdesi, sinüsun lateral duvarı ve zigomanın güvdesiarasında 5çıkış profili ortaya konulmustur.
-
-ZAGA TIP 0: Maksillanin anterior duvarı)düzdir. Osteotomi maksillanin lateral duvarında ilerler. Implant zigomatik(semi ge sinü icerisinden ilerler (Sekil 11).
-Type 0
-Şekil 11. Zigomatik implantin (Tip 0) Şematik ve ağüz ile gırúnümü.
-
-ZAGA TIP 1: Maksillanın on duvarında hafif bir konkavitevardır. Osteotomi alveolar kemik icerisinde beschär. Proteze.Doğru konum vermek icin zigomatik butrese dokru ilerken maksillanın onduvarı perfor edilir, zigomatik kemikten ankraj alınır (Şekil 12).
-Type 1
-Şekil 12. Zigomatik implantin (Tip 1) Şematik ve ağüz ile�能:içirünümü.
-
-ZAGA TIP 2: Maksillanin on duvarı tip 1'e,gore daha konkavdir. Elk osteotomi alveolar kret üzerindir. Protezin.Doğru konumlanabilmesi icin implant lateral duvarı perfor eder. Implant govdesinin��k kismı sinüşkışindadir (Sekil 13).
-Type 2
-Şekil 13. Zigoma implantin (Tip 2) Şematik ve ağüz ile�能:içirünümü.
-
-ZAGA TIP 3: Maksillanın anterior duvarıçok konkavdir. Osteotomi palatinalden besteht, maksillanın laterali perfore eder ve zigomaya uları. Implantin güvdesiyle maksillanın lateraliarasında boşlukvardir (Şekil 14).
-Type 3
-
-Şekil 14. Zigomatik implantin (Tip 3) Şematik ve ağüz ile�能:içirünümü.
-
-ZAGA TIP 4: Implant basıçok atrofik maksilladaçokince palatinal kemiği perfore etmeden implant ideal pozisyona ekstramaksiller olarak yerleştinirir (Şekil 15).
-
-Şekil 15. Zigomatik implantin (Tip 4) Şematik ve ağüz ile�能:içirünümü.
-
-Zigomatik implant cerrahisinde farkl flep tasarimlar yapilabilir. Zigomatik implant cerrahisi genellikle genel anestesi altinda, hasta nazal olarak entube edilerek yapilir. Lefort 1 insizyonu yapilaruk mukoperiostal flepin kaldirilması zigomatik implant cerrahisinde genis bir bölginen açıga Çikarilması aç,isindan onemlidir. Lefort 1 insizyonu yapilarak mukoperiostal flepin manipüle edilmesi zigoma güvdesinin açıga Çikarilması aç,isindan onem arz etmektedir, post-operatif dōnemde flepin açılma riskini azaltır (Sekil 16).
-
-# Şekil 16. Lefort 1 insizyonu yap行李ak zigoma güvdelerinin acıga çikarlması
-
-Lefort 1 insizyonuna alternatif olarak midkrestal veya palatinale konumlu insizyon yapilarak mukoperiostal flep kaldirilir, zigomatik kemiigin govdesi açıgün Çıkarlir (Şekil 17).
-Sekil 17. Palatinale konumlu flep tasarimi.
-
-Zigomatik implant cerrahisinde mukoperiostal flep kaldirildiktan sonra infraorbital sinirin ve cerrahi yapilacak maksillanin lateral yuzu ve zigomanin govdesi açıga Çikarlir, cerrahi oryantasyon saglanir (Sekil 18).
-Şekil 18. Infraorbital sinirin, maksillannin lateralinin ve zigomanin güvdesinin açıga çikarlması.
-
-Zigoma implanti cerrahisinde oryantasyonun kaybedilmemesi onem arz etmektedir. İatrojenik olarak orbital penetrasyonu engellemek amaciyla referans noktaları seksilmelidir. Bu referans noktaları, zigomatik(semiğin frontal prosesinin mediyalini ve zigomatik*cukurunu açaşa;cıkaracak sekilde olmaldir. Sinümembranın diseke edilmesi icin infrazigomatik bölgede pencere açır,lsinü mebranı diseke edilir (Sekil 19,20,21).
-Şekil 19. Zigomanin frontal prosesinin medialinin ve lateralinin aciğa çikarilmasi
-Şekil 20. Infrazigomatik bölgede (sinüsun lateralinde) pencinge olusturulması ve zigomatik;cukura ekartörün yerleştilmesi.
-Şekil 21. Sinümembrannin diseke edilmesi
-
-Zigomatik implantin basinm mumkun oldugunca kret tepesinde ve posteriorda konumlmanmas hem protetak acidan hem de molar bolgede cigneme kuvvetin optimal olmas aqisindan onem arzetmektedir (Sekil 22).
-Şekil 22. Zigomatik implantin krestal olarak yerleştilmesinin Şematize edilmesi.
-
-Zigomatik implantin giriş yerini belirlemek amacíyla kret tepesinde nokta belirlenir. Zigomatik(semiin ve sinusün lateral duvarinin anatomise baglı olarak implantin konumu belirlenir (Sekil 23).
-Şekil 23. Zigomatik implantin ideal konumu
-
-Implant yuvasının hazirlanması sirasindo dirilleme)yaklaşık olarak 2000 rpm devirde yapilmalidır. Dirilleme sirasindo kemigin,isinması onlemek amacıyla bol miktarda seruma irrigasyon yapilmalidır. Zigomatik implantin drilleri uzun olduguundand dolayı, etraftaki yumusak dokularara zarar vermemek icin dokular yeteri kadar ekarte edilmelidir. Rond frezle palatinal bölgede isaretleme yapilarak implantin giri noktasibelirlenir. Rond frezle sinüse.Doğru osteotomi yapilr. Frezin konumu sinüspenceresine ve zigomatikçukura yerleşilmigi olan ekartore gore belirlenir (Sekil 24).
-Sekil 24. Drilin sinus pencesine ve zigomatik demiğe gore oryantasyonu.
-
-Zigomatik kemeğe penetrasyon, sinüsun posterior ve superiorundan pilot frezle zigomanin dş korteksine kadar yapilir. Bu esnada Çevre dokulara zarar vermek ve zigomanin dş korteksini perfore etmek ünemlidir. Daha sonra son drill kullanıralak açilan kavite genisletilir. Osteotomi derinligi derinlik ölçurile Ölcülür. Yeleştilmesi plananan implant uzunluğu teyit edildikten sonra zigomatik implant yerleştilirilir. Zigomatik implantin yeleştilmesinde 3 faktör yüz ünlne alınmaldir.
-
-1) Implantin sinus boyunca dogru konumda oldugu teyit edilmelidir.
-2) Drillenen uzunlukta implant yerleştirolmeden en az 45 N/cm²lik seksima kuvveti aliniyorsa bu durum osteotominin tam olarak yapilmadügen gosterir. Implanti yerleşirmek icin zorlanilmamaldir, taşima parçasi kırilabilir. Implant Çikarilmaldir, tekrar osteotomi yapilmaldir.
-3) Altigena seklindeki zigoma implantinin basinin, okluzyona uygun bir sekilde konumlanması gerekmektedir.
-
-Zigomatik implantin sinus icerisindenGPCirilip zigomatik kemikteki yuvaya yerleştilmesi sirasinda implantin açısitogrulu olmaldir (Sekil 25).
-Şekil 25. Zigomatik implantin yerleşirilmesi (şematize edilmesi)
-
-# 2.5.11.1. Zigomatik Implantarin Komplikasyonlari
-
-Literaturde zigomatik implant cerrahisi sirasinda ve sonrasinda meydana gelen komplikasyonlar  $^{38,45}$ ;
-
-Yumusak doku enfeksiyonları (apse)
-$\checkmark$  Sinus membraninn perforasyonu
-✓ Oro-antral fistül olusumu
-✓ Maksiller sinus enfeksiyonu (sinüzit)
-$\checkmark$  Peri-orbital ve konjuktival bölgede hematom olusumu
-$\checkmark$  Diş eti dokusunda��üme (hiperplazi)
-√ Implantin uzerini orten dis etinde dehissens
-✓ Orbita tabani veya infratemporal fossanin perforasyonu
-Yanak bolgesinde his kaybi
-$\checkmark$  Epitaksis
-
-$\checkmark$  Zigoma bolgesinde amfizem olusmasi
-$\checkmark$  Periimplantitis
-√ Implantin eksplantasyonu (ossseointegrasyonunun olmaması veya enfeksiyona,—bag)— Olarak
-$\checkmark$  Zigomatik implantin herhangi bir parcasinin kiriImasi
-$\checkmark$  Protetik komplikasyonlar
-
-Zigomatik implant cerrahisi ile iliskili olarak en srik rapor edilen komplikasyon sinuzit ve maksiller sinus enfeksiyonudur  $^{30}$ . Sinuzit geleşme nedenleriarasinda; meydana gelen cerrahi debrisin ostiumu tikaması, sinus membranın perforasyonuna®,,... Olarak oral kavitedeki bakterilerin sinus kavitesine geleçmesi, cerrahi oncesi hazirlik protokollerin uygun yapilamaması (asepsi - antispsi), zigomatik implantin fonksiyonu sirasinda horizontal yondeki hareketlerin sinusun havalanna mekanizmasındeğistirmesi,... Saylabilir. Sinuzit degerlandirmesinde, ilgili tarafta sinusun CBCT görtüntülemesinde radyoopak bir,göruntü vermesi sinuzit tanında,... Onemlidir. Hastadan alanan anamnezde isle, sinuste doluluk hissetmesi, postnazal akıntı, ilgili tarafta bas,ağrisı, kottu koku gibi bulgular sinuzit olgusunu,... Zigomatik implantlarla iliskili olarak sinus,... Enfeksiyonunun,... gelismesi implant,... vo'desinin sinus membranindan yabancıbir madde reaksiyonu olusturması Olabilir.  $^{5}$ . Zigomatik implantları,... Zifeksiyonları,... Yönetiminde medikal ve cerrahi tedavi uygulanı  $^{46-48}$ . Ostiumn tikanması,... Olarak meydana gelen sinuzitte medikal tedaviye yanı alınmimi,... fonksiyonel endoskopik sinus cerrhisi yapilarok ostiumun açilması,... Sağlanı  $^{46}$ .
-
-Zigomatik implant cerrahisinin oroantral açıkık ve fistül olusumuna neden olduğuna dair literatürde calışmalarVBr. Zigomatik implant yapilan hastalarda alveolar kemik ileri derecede rezorbe, maksiller sinüsun pnemotizasyonu ve palatinal kemik ince oludgünDan dolay1 oroantal ilisi olusma olasiligi artmaktadir. Ameliyat sirasinda olusan oro-antral ilisi iyileme sresince oro-antal fistule donüsebilir, zigomatik implantin kayb1 ile sonuçlanabilir. Bu nedenle islem sirasinda meydana gelen oroantral iliskinin bişat yag dokusuyla kapatilmase onerilmektedir. Zigomatik implantin kaybyla olusan oro-antral fistul vakarinda bişat yag dokusuyla onarimda fistulun tekrar olusmadigi bildirilmistir. Zigomatik implanta bagl1 olarak meydana sinus enfeksiyonlarinda primer olarak implant eksplante edilmez, medikal tedaviye baslanir. Medikal tedavi yeterli olmadıgium endoskopik sinüss cerrahisi uygulanı. Eşer endoskopik sinüss cerrahisinden de sonuc alınmazsa implant explante edilir 5.
-
-
-Zigoma bölgesinde yumusak dokularin diseksiyonu ve ilem sirasinda dokularin ekartasyonuna baglı olarak infraorbital sinirde travmanın derecesine gore geleçici veya kalı his kaybı olusabilir 49. Vrielinck ve ark. 302 hastada 940 zigomatik implant yerleşirmişlerdir. Bu calismada 8 hastada geleçici parestezi olustugu, 4 hastada ise kalı parestezi oldugu bildirilmışı 50.
-
-Orbital kavitenin zigomatik kemeğe)yakınkomşuluğu oldugundan dolayı, zigomatik implantlar ile iliskili olarak orbital komplikasyonlar meydana gelebilir 51. Krauthammer ve ark.yaşi bir hastadan zigomatik implantin oküler penetrasyon sonucu lateral kantustan kan gelmesi ve hastanin gozlerini abduksiyon hareketlerinde bozulma meydana geldigini gozlemlemişir. Implantin eksplante edilmesi yaplan goz ameliyatina ragmen gozün hareketlerinin uzun)dönemde normale dönmedigi bildirmislerdir 52.
-
-# 3. GEREC VE YONTEM
-
-# 3.1. Gereç
-
-Çalışmamüz 29/12/2020 tarih ve 48670771-514.10ayoılı İstanbul Prof. Dr. Cemil Taşçioğlu Şehir Hastanesi Etik Kurulu'nun toplantında alınan kararla retrospektif olarak planlanmiş.
-
-Aparicio ve arkadaslari 2020 yüzanda zigomatik implant骨折 kriterlerini revize etmiş olup, sonuc olarak bu implantlar; Success (I-II-III), Survive, Failure (骨折), Sağkalan,骨折); olarak kategorize etmisperdir.骨折 kriterlerini ise 2014 yüzanda yayınladıkları gibi 1-Protetik offset (alveolar krete GPLan uzaklik), 2-Rinosinus patoloji varlıgün (sinüzit), 3-Implant çevresi yumusak doku-SAimplant stabilitesi derecesine güre belirlemislerdir. Çalşmamız bu骨折 kriterlerine güre yapilmışı.
-
-# 3.1.1. Zigomatik Implant Barangı Indeksi
-
-<table><tr><td colspan="6">\( Zygomatic implant condition \)</td></tr><tr><td rowspan="2">ORIS \( ^a \) criteria</td><td>I</td><td>II</td><td>III</td><td>IV</td><td>V</td></tr><tr><td colspan="3">Success</td><td>Survival</td><td>Failure</td></tr><tr><td>O Prosthetic offset \( ^b \)(mm)</td><td>0 ≤ d ≤ 6-3 ≤ d ≤ 0</td><td>6 ≤ d ≤ 10-4 ≤ d ≤ -3</td><td>10 ≤ d ≤ 15-5 ≤ d ≤ -4</td><td>Implant not tested following ORIS criteria</td><td>d &gt; 15d &lt; -5</td></tr><tr><td>R Rhinosinus -associated pathology \( ^c \)</td><td>L-K (-)ML-M(-)</td><td>L-K (+) or ML-M(+)</td><td>L-K (+) and ML-M(+)Occasional rhinosinusitis responding positively to medical or surgical treatment</td><td></td><td>L-K (+) and ML-M (+)Persistent or recurrent rhinosinusitis refractory to treatment</td></tr><tr><td>I Peri-implant soft tissue condition \( ^d \)</td><td>No recessionNo signs of inflammation or infection</td><td>Stable recessionNo signs of inflammation or infection</td><td>Progressive recessionOccasional signs of inflammation or infection responding positively to treatment</td><td></td><td>Recession +Permanent or recurrent signs of soft tissue inflammation or infection refractory to treatment or no esthetic acceptance</td></tr><tr><td>S Stability (individually tested)</td><td>No mobilityNo painNo rotation</td><td>Light mobilityNo painNo rotation</td><td>Clear mobility (no evidence of disintegration of the apex of the implant)No painNo rotation</td><td></td><td>Clear mobility (evidence of disintegration of the apical part of the implant)Rotation and/or pain</td></tr></table>
-
-Zigomatik Implant Barangı Kriterlerinde 1.2.ve 3. (I,II ve III) grupta olan implantlar Success ( Barangı), 4. (IV) grupta olanlar Survive (Sagkalan), 5. (V) grupta olanlar ise Failure ( Barangı), olarakdehyerlendirilir. Budehyerlendirmede zigomatik implantlar herbir Barangı kriteri,—çın,—ayr,—ayr,—dehyerlendirilir.
-
-ORIS kriterleri olarak adlandırilan (O:Prosthetic Offset, R:Rhinosinus associated pathology, I: Peri-implant soft tissue condition, S:Stability) zigomatik implant骨折i indeksi 4 kriteri barindirir. 1.骨折i kriteri GPLan protetik offset ;zigomatik implantin , alveolar kretin orta hattindan ne kadar uzakta oldugu, yani sapma miktari mm cinsinden olçülerek bulunur. Zigomatik implantin bas kism palatinalde ise arti (+) , bukkalde yer almissa eksi (-) olarak degerlendirilir. Bu deger saysal olarak arttikca zigomatik implantin骨折i orani azalir ve palatinalde  $15\mathrm{mm}$  veya bukkalde  $5\mathrm{mm}$  den daha fazla protetik offset var ise zigomatik implant骨折isiz olarak degerlendirilir. 2.骨折i kriteri ise, rinosinus patoloji varligi, yani sinuslerde varilan enfeksiyon varligi ile ilgili olup bu patolojinin varligi (ilaç ve cerrahi tedavi ile gezmeyen), zigomatik implantin骨折i oranini azaltir ve bu durumda zigomatik implant骨折isiz olarak degerlendirilir. 3.骨折i kriteri GPLan implant cevresi yumusak doku sagligi; diş eti seksilmesi, enflamasyon ve enfeksiyon varligimi kapsar ve bu durumda (zigomatik implantin cevresindeki tedavi ile saglikh l Hale gelmeyen yumusak doku varligi ) zigomatik implantin骨折i orani azalir ve zigomatik implant骨折isiz olarak degerlendirilir. 4.骨折i kriteri GPLan zigomatik implant stabilitesi ise zigomatik implantdaki mobilite, ağr ve rotasyon ile ilişkili olup bu semptomlarin varligi, zigomatik implantin骨折i oranini azaltir ve bu durumda zigomatik implant骨折isiz olarak degerlendirilir. 6.
-
-
-# 3.2. Yontem
-
-Çalışmamıza, zigomatik implant uygulamalarindo kullanı 4 yöntemden biri olan:noç sayıca az olan (istatiksel olarak anlamlı sonuc çıkmasını engelleyen) Bilgisayar destekli cerrahi yaklassim teknişi dahil edilmemeşir. Düz 3 yöntem (Intrasinüteknik, Sinus-slot teknik, Ekstrasinüteknik) ve 3 basarı kategorisi (Başarlı, Sağ kalan, Başarı)—içın yanpanylan Güç analizinde örneklem yüzüncü, n=189 (zigomatik implant) bulunmustur. Çalışmamızda 189 adet zigomatik implant dahil edilmalık.
-
-Çalısmamışda primer hipotezi test etmek ilen 4 serbestlik dereceli Ki-kare analizi, 0.05 birinci tip haha, 0.80 test güü ve medium (0,3) etki��klügü esas alınarak gerekli örneklem��klügü 189 hesaplanmışı.(n=189 adet zigomatik implant)
-
-Çalısmamıza Mart 2019 ve Şubat 2021 tarihleriarasında yapilan zigomatik implantlar dahil edilm次会议. Bütün cerraşiylemler genel anestezi altinda,çene cerrahlari tarafindan uygulanmistr. Calismamiza 18 yaşindan buyuk, ileri derecede atrofik maksillaya, maksillofasiyal travmadan sonra ileri derecede maksiller demiğinde kaybı olan, konjenital defekleri olan, basarısinus lifting sonrası konvansiyonel implant uygulaması yapilmış, maksiller sinüste patoloji varlı olmayan ve oral kavitesinde akut-kronik hastalı olmayan hastalar dahil edilmiştr.
-
-
-Calismamizdaki dahil edilmeme kriterleri ise;
-
-- Amerikan anestezi derneeginin siniflandirmasina gore ASA III, IV, V ve VI olan bireyler,
-- Immun system rahatsizligi olan bireyler,
-- Ilac bagimlilig1 olan bireyler (legal olmayan ilaclar ve alkolik bireyler),
+Çalışmamızdaki dahil edilmeme kriterleri ise;
+- Amerikan anestezi derneğinin sınıflandırmasına göre ASA III, IV, V ve VI olan bireyler,
+- İmmun sistem rahatsızlığı olan bireyler,
+- İlaç bağımlılığı olan bireyler (legal olmayan ilaçlar ve alkolik bireyler),
 - Radyoterapi ve kemoterapi almış bireyler,
-- Ilaca baglì cene kemişi nefrozu (MRONJ) atan bireyler,
-- Iyileşmeyi bozabilecek sistemik rahatsızlıgün olan bireyler (Diyabet),
-- Epilepsisi ve Parkinson hastalı olan bireyler,
-- Hamile olan bireyler calisma disinda birakilmistir.
+- İlaca bağlı çene kemiği nekrozu (MRONJ) olan bireyler,
+- İyileşmeyi bozabilecek sistemik rahatsızlığı olan bireyler (Diyabet),
+- Epilepsisi ve Parkinson hastalığı olan bireyler,
+- Hamile olan bireyler çalışma dışında bırakılmıştır.
 
-Hastalardan elde edilen verilerarasinda, cinsiyet, yaş, implant markası, komplikasyonlar, yapilan protezin Türü (hibrit, sabit) ve uygulanan implantayoşi gibi veriler istastiksel olarakdehyerlendirmeye alinmistr. Çalısmamüzda, hastalara Nobel biocare, Impliance ve Southern olmak üzere 3 farklı zigomatik implant Türü uygulanmistr. Bütün implantlar zigomatik ve maksiller kemin'anatomisine, kemiklerin niteligne ve miktarın uygūn olarak yerleşirilmistr. Implantlarim makro dizaynı, implantlarin sadece zigomatik kemikten vya hem zigomatik kemik hem de alveolar kemikten destek alınmasına gö tercih edilmiştr. İkifarklı dizaynda zigomatik implantlar tercih edilmiştr (standart zigomatik implant ve atrofik zigomatik implant). Onkolojik zigomatik implantlar calışmaya dahil edilmemeştr.
+Hastalardan elde edilen veriler arasında, cinsiyet, yaş, implant markası, komplikasyonlar, yapılan protezin türü (hibrit, sabit) ve uygulanan implant sayısı gibi veriler istastiksel olarak değerlendirmeye alınmıştır. Çalısmamızda, hastalara Nobel biocare, İmplance ve Southern olmak üzere 3 farklı zigomatik implant türü uygulanmıştır. Bütün implantlar zigomatik ve maksiller kemiğin anatomisine, kemiklerin niteliğine ve miktarına uygun olarak yerleştirilmiştir. İmplantların makro dizaynı, implantların sadece zigomatik kemikten veya hem zigomatik kemik hem de alveolar kemikten destek alınmasına göre tercih edilmiştir. İki farklı dizaynda zigomatik implantlar tercih edilmiştir (standart zigomatik implant ve atrofik zigomatik implant). Onkolojik zigomatik implantlar çalışmaya dahil edilmemiştir.
 
-Çalışmamüzda, anabilim dalı Dennis; Dennis merkezlerde (çesitli üniversiteler) zigomatik implantlar ile tedavi edilmiş hastaların dosyaları incelenmişir.
+Çalışmamızda, anabilim dalı dışında; dış merkezlerde (çeşitli üniversiteler) zigomatik implantlar ile tedavi edilmiş hastaların dosyaları incelenmiştir.
 
-# 3.3. Istatiksel Deogerlendirme
+## 3.3. İstatiksel Değerlendirme
+<a id="markdown-istatiksel-degerlendirme" name="istatiksel-degerlendirme"></a>
 
-İstatistikseldehydlirme, IBM SPSS 23.0 paket programı kullanıRAR yapilidı. Normal seksilimaya uygunluk, Kolmogorov- Smirnov ve Shapiro- Wilk testi ve Normal Q-Q Plot iledehydlirildi. Tanımlayüncü istatistik olarak niteldehyşkenler icin ortalamavestandart sapma; niteldehyşkenler icin sikiç ve yüzde verildi. Niteldehyşkenler icin grafikolarak çubukgrafigi, niteldehyşkenler icinçüzgi grafigi kullanıMbpsı. İstatistiksel hata miktari (Tip I Hata)  $\alpha = 0,05$  alindı. Cok gozlü/boyutlu capraz tablolarda grupararasındaki farkın anlamılık testi icin; bekelen sikiğlı 5'tenkıçsaysıtoplamgoz sayisi icinde payin\%20 sinirini aşkı durumda kullananan Monte Carlo (10000 Örneklem)yaklassimi Pearson Ki-Kare testi kullanıMbpsı. Bu test her yapıldışında virgülden sonra iki basamak +/- 1 olmak üzere simülasyon gereşi farkılık österebilir. Bu test, birdehyşken duzeyinin Dennis değ;liden duzyeri ilearasında bagintı olup olmadıni ifade etmektdir. Cok gozlü/boyutlu capraz tablolarda grupararasındaki düzeylerin dokrusallık testi icin, Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi kullanıMbpsı.Bu testi uygulamak icin bekelen sikiğlı 5'tenkıçsaysıtoplamgoz sayisi icinde payin\%20 sinirini aşkı durum sö konusu olduğu icin bu duruma sebepolanbirdehyşdenüzeyleri birleşirilerek tek duzey olusturulur. Bu calismada basarı duzeyi "Success I", "Success II" ve "Success III+ Survive+ Failure" seklinde 3 seçenek olarak birleşirilmı. Ikidençok bagımsiz grupları ortalamalarıarasındaki farkın anlamılık testi icin Kruskal-Wallis testi kullanıMbpsı.
+İstatistiksel değerlendirme, IBM SPSS 23.0 paket programı kullanılarak yapıldı. Normal dağılıma uygunluk, Kolmogorov-Smirnov ve Shapiro-Wilk testi ve Normal Q-Q Plot ile değerlendirildi. Tanımlayıcı istatistik olarak nicel değişkenler için ortalama ve standart sapma; nitel değişkenler için sıklık ve yüzde verildi. Nitel değişkenler için grafik olarak çubuk grafiği, nicel değişkenler için çizgi grafiği kullanılmıştır. İstatistiksel hata miktarı (Tip I Hata) α=0,05 alındı. Çok gözlü/ boyutlu çapraz tablolarda gruplar arasındaki farkın anlamlılık testi için; beklenen sıklığı 5'ten küçük göz sayısının toplam göz sayısı içinde payının %20 sınırını aştığı durumda kullanılan Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi kullanılmıştır. Bu test her yapıldığında virgülden sonra iki basamak ± 1 olmak üzere simülasyon gereği farklılık gösterebilir. Bu test, bir değişken düzeyinin diğer değişken düzeyi ile arasında bağıntı olup olmadığını ifade etmektedir. Çok gözlü/ boyutlu çapraz tablolarda gruplar arasındaki düzeylerin doğrusallık testi için, Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi kullanılmıştır. Bu testi uygulamak için beklenen sıklığı 5'ten küçük göz sayısının toplam göz sayısı içinde payının %20 sınırını aştığı durum söz konusu olduğu için bu duruma sebep olan bir değişkenin düzeyleri birleştirilerek tek düzey oluşturulur. Bu çalışmada başarı düzeyi "Success I", "Success II" ve "Success III+ Survive+ Failure" şeklinde 3 seçenek olarak birleştirilmiştir. İkiden çok bağımsız grupların ortalamaları arasındaki farkın anlamlılık testi için Kruskal-Wallis testi kullanılmıştır.
 
-# 4.BULGULAR
+# 4. BULGULAR
+<a id="markdown-bulgular" name="bulgular"></a>
 
-# 4.1. Istatiksel Bulgular
+## 4.1. İstatiksel Bulgular
+<a id="markdown-istatiksel-bulgular" name="istatiksel-bulgular"></a>
 
-Monte Carlo (10000 örneklem))yaklaşimiL Pearson Ki-Kare testi sonucuna gore teknik Türü ile besoinıduzeyleriarasında istatistikselacdidan onemli 若要yde bagintlıvardir  $p = 0,000 < \alpha = 0,05$  .Digerbir deyiisle,tekniklerin besoinıduzeyleri birbirlerinden onemli 若要yde farklɪdɪr.
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre teknik türü ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı vardır p= 0,000\< α=0,05. Diğer bir deyişle, tekniklerin başarı düzeyleri birbirlerinden önemli düzeyde farklıdır.
 
-Monte Carlo (10000 örneklem))yaklaşimiLipPearson Ki-Kare testi sonucuna Göre markalar ile.Beforei Düzyleriarasinda istatistiksel açidan onemli Düzyde baginti yoktur  $p = 0,538 > \alpha = 0,05$  .Linear by Linear Association (Mantel-Haenszel)Ki-Kare testi sonucuna Göre markalar ile.Beforei Düzyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,867 > \alpha = 0,05$
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,538\> α=0,05. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,867\> α=0,05.
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,140\> α=0,05. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,097\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklaşimiL Pearson Ki-Kare testi sonucuna gore protez sekli ile.Beforei Düzyleriarasinda istatistiksel açidan onemli Düzyde baginti yoktur  $p = 0,140 > \alpha = 0,05$  .Linear by Linear Association (Mantel-Haenszel)Ki-Kare testi sonucuna gore protez sekli ile.Beforei Düzyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,097 > \alpha = 0,05$
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,975\> α=0,05. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,766\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklaşimiL Pearson Ki-Kare testi sonucuna CWE cinsiyet ile.Beforei duzyeryleriarasinda istatistiksel açidan onemli duzeyde baginti yoktur  $p = 0,975 > \alpha = 0,05$  .Linear by Linear Association (Mantel-Haenszel)Ki-Kare testi sonucuna CWE cinsiyet ile.Beforei duzyeryleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,766 > \alpha = 0,05$
+Kruskal-Wallis testi sonucuna göre yaş ile başarı düzeyleri arasında istatistiksel açıdan önemli ilişki yoktur p= 0,766\> α=0,05.
 
-Kruskal-Wallis testi sonucuna gore yas ile巴斯ari duzeyleriarasinda istatistiksel açidan onemli ilisi yoktur  $p = 0,766 > \alpha = 0,05$
+### 4.1.1. Teknik ve Başarı İlişkisi
+<a id="markdown-teknik-ve-basari-iliskisi" name="teknik-ve-basari-iliskisi"></a>
 
-# 4.1.1. Teknik ve Başarı ileşkısi
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre teknik türü ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı vardır p= 0,000\< α=0,05. Diğer bir deyişle, tekniklerin başarı düzeyleri birbirlerinden önemli düzeyde farklıdır. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre teknik türü ile başarı düzeyleri arasında; İntrasinüs tekniğinde Ekstra sinüs tekniğine kıyasla başarı durumunda istatistiksel açıdan önemli düzeyde artış gözlenmiştir p=0,034\< α=0,05. Sinüs-Slot tekniğinde İntrasinüs tekniğe kıyasla başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde artış gözlenmiştir p=0,034\< α=0,05. Bu artış "Success III+ Survive+ Failure" düzeyinden "Success I" düzeyine doğrudur.
 
-Monte Carlo (10000 örneklem))yaklaşimiPearson Ki-Kare testi sonucuna gore teknik Türü ilebaraıduzeyleriarasında istatistikselacdidanönemliduzeydebagintivardir
+|          |               |  Başarı Düzeyi  |          |              |          |               |          |           |           |           |          |           |          |          |  p değeri  |
+| :------- | :------------ | --------------- | :------- | ------------ | :------: | ------------- | :------: | --------- | --------- | --------- | :------: | --------- | :------: | :------- | :--------- |
+|          |               |  Success I      |          |  Success II  |          |  Success III  |          |  Survive  |           |  Failure  |          |  Toplam   |          |          |            |
+|          |               |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans      |  Yüzde   |  Frekans  |  Yüzde    |  Frekans  |  Yüzde   |  Frekans  |  Yüzde   |          |            |
+|  Teknik  |  Extra Sinus  |  49             |  57,00%  |  17          |  24,30%  |  10           |  43,50%  |  0        |  0,00%    |  2        |  40,00%  |  78       |  41,30%  |  34,549  |  0,000     |
+|          |  Intra Sinus  |  10             |  11,60%  |  25          |  35,70%  |  6            |  26,10%  |  0        |  0,00%    |  3        |  60,00%  |  44       |  23,30%  |          |            |
+|          |  Sinus Slot   |  27             |  31,40%  |  28          |  40,00%  |  7            |  30,40%  |  5        |  100,00%  |  0        |  0,00%   |  67       |  35,40%  |          |            |
 
-$p = 0,000 < \alpha = 0,05$ . Düzir birdehyile, tekniklerin bestehtarily dizeyleri birbirilerinden onionsl duzyeyde farklvdir. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna,gore teknik turi ileoustari duzyeyleriarasinda; Intrasinus tekniiginde Ekstra sinus tekniğine klyaşaoustari durumunda istatistiksel açidan onionsl duzyeyde artş gozlenmişir  $p = 0,034 < \alpha = 0,05$  .Sinus-Slot tekniiginde Intrasinus tekniğe klyaşaoustari duzyeyleriarasinda istatistiksel açidan onionsl duzyeyde artş gozlenmişir  $p = 0,034 < \alpha = 0,05$  .Bu artis "Success III+ Survive+ Failure"duzeyinden "Success I"duzeyine dokrudur.
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre teknik türü ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı vardır p= 0,000\< α=0,05. Diğer bir deyişle, tekniklerin başarı düzeyleri birbirlerinden önemli düzeyde farklıdır.
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="11">Başari Düzeyi</td><td rowspan="2">χ2P</td><td rowspan="3">p değeri</td><td></td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III</td><td colspan="2">Survive</td><td colspan="2">Failure</td><td>Toplam</td><td></td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td></td></tr><tr><td rowspan="3">Teknik</td><td>Extra Sinus</td><td>49</td><td>57,00%</td><td>17</td><td>24,30%</td><td>10</td><td>43,50%</td><td>0</td><td>0,00%</td><td>2</td><td>40,00%</td><td>78</td><td>41,30%</td><td rowspan="3">34,549</td><td rowspan="3">0,000</td></tr><tr><td>Intra Sinus</td><td>10</td><td>11,60%</td><td>25</td><td>35,70%</td><td>6</td><td>26,10%</td><td>0</td><td>0,00%</td><td>3</td><td>60,00%</td><td>44</td><td>23,30%</td></tr><tr><td>Sinus Slot</td><td>27</td><td>31,40%</td><td>28</td><td>40,00%</td><td>7</td><td>30,40%</td><td>5</td><td>100,00%</td><td>0</td><td>0,00%</td><td>67</td><td>35,40%</td></tr></table>
+|          |               |  Başarı Durumu  |          |              |          |                                 |          |         |  p değeri  |
+| :------- | :------------ | --------------- | :------- | ------------ | :------- | ------------------------------- | :------- | :------ | :--------- |
+|          |               |  Success I      |          |  Success II  |          |  Success III+ Survive+ Failure  |          |         |            |
+|          |               |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans                        |  Yüzde   |         |            |
+|  Teknik  |  Extra Sinus  |  49             |  57,00%  |  17          |  24,30%  |  12                             |  36,36%  |  4,474  |  0,034     |
+|          |  Intra Sinus  |  10             |  11,60%  |  25          |  35,70%  |  9                              |  27,27%  |         |            |
+|          |  Sinus Slot   |  27             |  31,40%  |  28          |  40,00%  |  12                             |  36,36%  |         |            |
 
-Monte Carlo (10000 örneklem))yaklaşimiL Pearson Ki-Kare testi sonucuna gore teknik Türü ile besoinıduzeyleriarasında istatistikselacdın(onemli)duzeynde bagintlıvardir  $p = 0,000 < \alpha = 0,05$  .Digerbirdeyiyle,tekniklerin besoinıduzeyleri birbirlerinden onemli duzeynde farklɪdir.
+Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre teknik türü ile başarı düzeyleri arasında; İntrasinüs tekniğinde Extrasinüs tekniğine kıyasla başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde artış gözlenmiştir p=0,034\< α=0,05. Sinus-Slot tekniğinde, İntrasinüs tekniğine kıyasla başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde artış gözlenmiştir p=0,034\< α=0,05. Bu artış "Success III+ Survive+ Failure" düzeyinden "Success I" düzeyine doğrudur.
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="6">Başari Durumu</td><td rowspan="3">χ2MH</td><td rowspan="3">pdehyeri</td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III+ Survive+ Failure</td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td></tr><tr><td rowspan="3">Teknik</td><td>Extra Sinus</td><td>49</td><td>57,00%</td><td>17</td><td>24,30%</td><td>12</td><td>36,36%</td><td rowspan="3">4,474</td><td rowspan="3">0,034</td></tr><tr><td>Intra Sinus</td><td>10</td><td>11,60%</td><td>25</td><td>35,70%</td><td>9</td><td>27,27%</td></tr><tr><td>Sinus Slot</td><td>27</td><td>31,40%</td><td>28</td><td>40,00%</td><td>12</td><td>36,36%</td></tr></table>
+### 4.1.2. Marka ve Başarı İlişkisi
+<a id="markdown-marka-ve-basari-iliskisi" name="marka-ve-basari-iliskisi"></a>
 
-Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna gore teknik turrile骨折i duzyleriarasinda; Intrasinus tekningindeExtrasinus tekninge klyaasla骨折i duzyleriarasinda istatistiksel açidan onemli duzyde artş gozlenmişir  $p = 0,034 < \alpha = 0,05$  .Sinus-Slot tekninginde,Intrasinus tekninge klyaasla骨折i duzyleri arasinda istatistiksel açidan onionsl Düzyde artş gozlenmiştr  $p = 0,034 < \alpha = 0,05$ . Bu artş "Success III+ Survive+ Failure" Düzyinden "Success I" Düzyinedoğanr.
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,538\> α=0,05. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistik açıdan önemli doğrusallık yoktur p= 0,867\> α=0,05.
 
-TEKNIK TÜRÜNE GÖRE BASARI DÜZEYLERİ
-TEKNIK TÜRÜNE GÖRE BIRLEŞTİRLMIŞ BAŞARI DÜZEYLERİ
+|         |                 |  Başarı Düzeyi  |          |              |          |               |          |           |          |           |          |           |          |         |  p değeri  |
+| :------ | :-------------- | --------------- | :------: | ------------ | :------: | ------------- | :------- | --------- | -------- | --------- | :------- | --------- | :------- | :------ | :--------- |
+|         |                 |  Success I      |          |  Success II  |          |  Success III  |          |  Survive  |          |  Failure  |          |  Toplam   |          |         |            |
+|         |                 |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans      |  Yüzde   |  Frekans  |  Yüzde   |  Frekans  |  Yüzde   |  Frekans  |  Yüzde   |         |            |
+|  Marka  |  Implance       |  32             |  37,20%  |  24          |  34,30%  |  9            |  39,10%  |  0        |  0,00%   |  2        |  40,00%  |  67       |  35,40%  |  7,108  |  0,538     |
+|         |  Nobel Biocare  |  29             |  33,70%  |  31          |  44,30%  |  10           |  43,50%  |  2        |  40,00%  |  2        |  40,00%  |  74       |  39,20%  |         |            |
+|         |  Southern       |  25             |  29,10%  |  15          |  21,40%  |  4            |  17,40%  |  3        |  60,00%  |  1        |  20,00%  |  48       |  25,40%  |         |            |
 
-# 4.1.2. Marka ve Beaşari ileşkısi
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bir ilişki yoktur p= 0,538\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklasımlı Pearson Ki-Kare testi sonucuna,gore markalar ile.Beforei duzeyleriarasinda istatistiksel açidan onemli duzeyde bagintı yokitpur  $p = 0,538 > \alpha = 0,05$  .Linear by Linear Association (Mantel-Haenszel)Ki-Kare testisonucuna,gore markalar ile.Beforei duzeyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,867 > \alpha = 0,05$
+|         |                 |  Başarı Düzeyi  |          |              |          |                                 |          |         |  p değeri  |
+| :------ | :-------------- | --------------- | :------- | ------------ | :------- | ------------------------------- | :------- | :------ | :--------- |
+|         |                 |  Success I      |          |  Success II  |          |  Success III+ Survive+ Failure  |          |         |            |
+|         |                 |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans                        |  Yüzde   |         |            |
+|  Marka  |  Implance       |  32             |  37,20%  |  24          |  34,30%  |  11                             |  33,33%  |  0,028  |  0,867     |
+|         |  Nobel Biocare  |  29             |  33,70%  |  31          |  44,30%  |  14                             |  42,42%  |         |            |
+|         |  Southern       |  25             |  29,10%  |  15          |  21,40%  |  8                              |  24,24%  |         |            |
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="11">Başari Düzyi</td><td rowspan="2">χ2P</td><td rowspan="3">p değeri</td><td></td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III</td><td colspan="2">Survive</td><td colspan="2">Failure</td><td>Toplam</td><td></td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td></td></tr><tr><td rowspan="3">Marka</td><td>Impliance</td><td>32</td><td>37,20%</td><td>24</td><td>34,30%</td><td>9</td><td>39,10%</td><td>0</td><td>0,00%</td><td>2</td><td>40,00%</td><td>67</td><td>35,40%</td><td rowspan="3">7,108</td><td rowspan="3">0,538</td></tr><tr><td>Nobel Biocare</td><td>29</td><td>33,70%</td><td>31</td><td>44,30%</td><td>10</td><td>43,50%</td><td>2</td><td>40,00%</td><td>2</td><td>40,00%</td><td>74</td><td>39,20%</td></tr><tr><td>Southern</td><td>25</td><td>29,10%</td><td>15</td><td>21,40%</td><td>4</td><td>17,40%</td><td>3</td><td>60,00%</td><td>1</td><td>20,00%</td><td>48</td><td>25,40%</td></tr></table>
+Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre markalar ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,867\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklasımlı Pearson Ki-Kare testi sonucuna,gore markalar ile basarıduzeyleriarasında istatistiksel,açidan onemli duzeynde bir ilisi yoktur  $p = 0,538 > \alpha = 0,05$
+### 4.1.3. Protez ve Başarı İlişkisi
+<a id="markdown-protez-ve-basari-iliskisi" name="protez-ve-basari-iliskisi"></a>
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="6">Başarı Düzeyi</td><td rowspan="3">χ2MH</td><td rowspan="3">pdehyeri</td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III+ Survive+ Failure</td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td></tr><tr><td rowspan="3">Marka</td><td>Implance</td><td>32</td><td>37,20%</td><td>24</td><td>34,30%</td><td>11</td><td>33,33%</td><td rowspan="3">0,028</td><td rowspan="3">0,867</td></tr><tr><td>Nobel Biocare</td><td>29</td><td>33,70%</td><td>31</td><td>44,30%</td><td>14</td><td>42,42%</td></tr><tr><td>Southern</td><td>25</td><td>29,10%</td><td>15</td><td>21,40%</td><td>8</td><td>24,24%</td></tr></table>
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,140\> α=0,05. Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,097\> α=0,05.
 
-Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna gore markalar ile巴斯ari duzeyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,867 > \alpha = 0,05$
-MARKALARA GÖRE BAŞARI DÜZEYLERİ
-MARKALARA GÖRE BIRLEŞTİRLMIŞ BAŞARI DÜZEYLERİ
+|          |          |  Başarı Düzeyi  |          |              |          |               |          |           |          |           |           |           |          |         |  p değeri  |
+| :------- | :------- | --------------- | :------: | ------------ | :------: | ------------- | :------- | --------- | :------- | --------- | :-------: | --------- | :------- | :------ | :--------- |
+|          |          |  Success I      |          |  Success II  |          |  Success III  |          |  Survive  |          |  Failure  |           |  Toplam   |          |         |            |
+|          |          |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans      |  Yüzde   |  Frekans  |  Yüzde   |  Frekans  |   Yüzde   |  Frekans  |  Yüzde   |         |            |
+|  Protez  |  Fixed   |  67             |  77,90%  |  49          |  70,00%  |  13           |  56,50%  |  3        |  60,00%  |  5        |  100,00%  |  137      |  72,50%  |  6,712  |  0,140     |
+|          |  Hybrid  |  19             |  22,10%  |  21          |  30,00%  |  10           |  43,50%  |  2        |  40,00%  |  0        |   0,00%   |  52       |  27,50%  |         |            |
 
-# 4.1.3. Protez ve Başari Ülliskisi
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde ilişki yoktur p= 0,140\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklaşimiangler Pearson Ki-Kare testi sonucuna güre protez sekli ile.Beforei Düzyleriarasinda istatistiksel açidan onemli Düzyde baginti yoktur  $p = 0,140 > \alpha = 0,05$  .Linear by Linear Association (Mantel-Haenszel)Ki-Kare testi sonucuna güre protez sekli ile.Beforei Düzyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,097 > \alpha = 0,05$
+|          |          |  Başarı Düzeyi  |          |              |          |                                 |          |         |  p değeri  |
+| :------- | :------- | --------------- | :------- | ------------ | :------- | ------------------------------- | :------- | :------ | :--------- |
+|          |          |  Success I      |          |  Success II  |          |  Success III+ Survive+ Failure  |          |         |            |
+|          |          |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans                        |  Yüzde   |         |            |
+|  Protez  |  Fixed   |  67             |  77,90%  |  49          |  70,00%  |  21                             |  63,64%  |  2,753  |  0,097     |
+|          |  Hybrid  |  19             |  22,10%  |  21          |  30,00%  |  12                             |  36,36%  |         |            |
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="11">Başari Düzyi</td><td rowspan="2">χ2P</td><td rowspan="3">p değeri</td><td></td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III</td><td colspan="2">Survive</td><td colspan="2">Failure</td><td>Toplam</td><td></td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td></td></tr><tr><td rowspan="2">Protez</td><td>Fixed</td><td>67</td><td>77,90%</td><td>49</td><td>70,00%</td><td>13</td><td>56,50%</td><td>3</td><td>60,00%</td><td>5</td><td>100,00%</td><td>137</td><td>72,50%</td><td rowspan="2">6,712</td><td rowspan="2">0,140</td></tr><tr><td>Hybrid</td><td>19</td><td>22,10%</td><td>21</td><td>30,00%</td><td>10</td><td>43,50%</td><td>2</td><td>40,00%</td><td>0</td><td>0,00%</td><td>52</td><td>27,50%</td></tr></table>
+Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre protez şekli ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,097\> α=0,05.
 
-Monte Carlo (10000 örneklem))yaklasımlı Pearson Ki-Kare testi sonucuna güre protez sekli ile.Beforei)düzielleriarasında istatistiksel,açidan,onemli)düzeynde ilisi yoktur  $p = 0,140 > \alpha = 0,05$
+### 4.1.4. Cinsiyet ve Başarı İlişkisi
+<a id="markdown-cinsiyet-ve-basari-iliskisi" name="cinsiyet-ve-basari-iliskisi"></a>
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="6">Başari Düzyi</td><td rowspan="3">χ2MH</td><td rowspan="3">pdehyeri</td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III+ Survive+ Failure</td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td></tr><tr><td rowspan="2">Protez</td><td>Fixed</td><td>67</td><td>77,90%</td><td>49</td><td>70,00%</td><td>21</td><td>63,64%</td><td rowspan="2">2,753</td><td rowspan="2">0,097</td></tr><tr><td>Hybrid</td><td>19</td><td>22,10%</td><td>21</td><td>30,00%</td><td>12</td><td>36,36%</td></tr></table>
+(Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,766\> α=0,05.) Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde bağıntı yoktur p= 0,975\> α=0,05.
 
-Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna gore protez sekli ile basari duzeyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,097 > \alpha = 0,05$
-PROTEZ SEKLINE GÖRE BAŞARI DÜZEYLERİ
-PROTEZ SEKLINE GÖRE BIRLESTSIRLMIŞ BAŞARI DÜZEYLERİ
+|            |         |  Başarı Düzeyi  |          |              |          |               |          |           |          |           |          |           |          |         |  p değeri  |
+| :--------- | :------ | --------------- | :------: | ------------ | :------: | ------------- | :------- | --------- | :------- | --------- | :------- | --------- | :------- | :------ | :--------- |
+|            |         |  Success I      |          |  Success II  |          |  Success III  |          |  Survive  |          |  Failure  |          |  Toplam   |          |         |            |
+|            |         |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans      |  Yüzde   |  Frekans  |  Yüzde   |  Frekans  |  Yüzde   |  Frekans  |  Yüzde   |         |            |
+|  Cinsiyet  |  Erkek  |  41             |  47,70%  |  33          |  47,10%  |  12           |  52,20%  |  2        |  40,00%  |  3        |  60,00%  |  91       |  48,10%  |  0,600  |  0,975     |
+|            |  Kadın  |  45             |  52,30%  |  37          |  52,90%  |  11           |  47,80%  |  3        |  60,00%  |  2        |  40,00%  |  98       |  51,90%  |         |            |
 
-# 4.1.4. Cinsiyet ve Başarı克思主义
+Monte Carlo (10000 örneklem) yaklaşımlı Pearson Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli düzeyde ilişki yoktur p= 0,975\> α=0,05.
 
-(Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna gore cinsiyet ile巴斯ari duzeyleriarasinda istatistiksel açidan onemli dokrusallik yoktur  $p = 0,766>\alpha = 0,05.$ ) Monte Carlo (10000 orneklem) yaklaşimi依照 Pearson Ki-Kare testi sonucuna gore cinsiyet ile本场比赛i duzeyleriarasinda istatistiksel açidan onemli duzeyde;.
+|            |         |  Başarı Düzeyi  |          |              |          |                                 |          |         |  p değeri  |
+| :--------- | :------ | --------------- | :------- | ------------ | :------- | ------------------------------- | :------- | :------ | :--------- |
+|            |         |  Success I      |          |  Success II  |          |  Success III+ Survive+ Failure  |          |         |            |
+|            |         |  Frekans        |  Yüzde   |  Frekans     |  Yüzde   |  Frekans                        |  Yüzde   |         |            |
+|  Cinsiyet  |  Erkek  |  41             |  47,70%  |  33          |  47,10%  |  17                             |  51,52%  |  0,088  |  0,766     |
+|            |  Kadın  |  45             |  52,30%  |  37          |  52,90%  |  16                             |  48,48%  |         |            |
 
-baginti yoktur  $\mathsf{p} = 0,975 > \alpha = 0,05$
+Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucuna göre cinsiyet ile başarı düzeyleri arasında istatistiksel açıdan önemli doğrusallık yoktur p= 0,766\> α=0,05.
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="11">Başarı Düzyi</td><td rowspan="2">χ2P</td><td rowspan="3">p değeri</td><td></td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III</td><td colspan="2">Survive</td><td colspan="2">Failure</td><td>Toplam</td><td></td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td></td></tr><tr><td rowspan="2">Cinsiyet</td><td>Erkek</td><td>41</td><td>47,70%</td><td>33</td><td>47,10%</td><td>12</td><td>52,20%</td><td>2</td><td>40,00%</td><td>3</td><td>60,00%</td><td>91</td><td>48,10%</td><td rowspan="2">0,600</td><td rowspan="2">0,975</td></tr><tr><td>Kadin</td><td>45</td><td>52,30%</td><td>37</td><td>52,90%</td><td>11</td><td>47,80%</td><td>3</td><td>60,00%</td><td>2</td><td>40,00%</td><td>98</td><td>51,90%</td></tr></table>
+### 4.1.5. Yaş ve Başarı İlişkisi
+<a id="markdown-yas-ve-basari-iliskisi" name="yas-ve-basari-iliskisi"></a>
 
-Monte Carlo (10000 örneklem))yaklaşimiL Pearson Ki-Kare testi sonucuna CWE cinsiyet ile.Beforei duzeyleriarasinda istatistiksel açidan onemli duzeyde ilisi yioktur  $p =$ $0,975 > \alpha = 0,05$
+Kruskal-Wallis testi sonucuna göre yaş ile başarı düzeyleri arasında istatistiksel açıdan önemli ilişki yoktur p= 0,766\> α=0,05.
 
-<table><tr><td rowspan="3" colspan="2"></td><td colspan="6">Başari Düzyi</td><td rowspan="3">χ2MH</td><td rowspan="3">pdehyeri</td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III+ Survive+ Failure</td></tr><tr><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td><td>Frekans</td><td>Yüzde</td></tr><tr><td rowspan="2">Cinsyet</td><td>Erkek</td><td>41</td><td>47,70%</td><td>33</td><td>47,10%</td><td>17</td><td>51,52%</td><td rowspan="2">0,088</td><td rowspan="2">0,766</td></tr><tr><td>Kadin</td><td>45</td><td>52,30%</td><td>37</td><td>52,90%</td><td>16</td><td>48,48%</td></tr></table>
+|       |  başarı     |                  |              |                  |               |                  |            |                  |            |                  |  KW     |  p değeri  |
+| :---- | ----------- | ---------------- | ------------ | ---------------- | ------------- | ---------------- | ---------- | ---------------- | ---------- | ---------------- | :------ | :--------- |
+|       |  Success I  |                  |  Success II  |                  |  Success III  |                  |  Survive   |                  |  Failure   |                  |         |            |
+|       |  Ortalama   |  Standart Sapma  |  Ortalama    |  Standart Sapma  |  Ortalama     |  Standart Sapma  |  Ortalama  |  Standart Sapma  |  Ortalama  |  Standart Sapma  |         |            |
+|  yaş  |  55         |  10              |  56          |  9               |  58           |  10              |  54        |  15              |  49        |  15              |  8,143  |  0,086     |
 
-Linear by Linear Association (Mantel-Haenszel) Ki-Kare testi sonucunagere cinsiyet ile本场比赛i duzeyleriarasinda istatistiksel acidan onemli dokrusallik yoktur  $\mathfrak{p} =$ $0,766 > \alpha = 0,05$
-CINSIYETEGOREBAŞARI DÜZEYLERİ
-CINSİYETE GÖRE BIRLEŞTİRLMİS BASARI DÜZEYLERİ
+# 5. TARTIŞMA
+<a id="markdown-tartisma" name="tartisma"></a>
 
-# 4.1.5. Yaş ve Başarı克思主义
+İnsanoğlunun ortalama yaşam süresinin artması ve ekonomik düzeydeki yöndeki gelişmeler, estetik ve fonksiyonel beklentilerini değiştirmiştir. Maksillada diş kaybına bağlı olarak alveolar kretin atrofiye uğraması ve maksiller sinüsün pnömotize olması, maksiller posterior bölgede aksiyel implantların yerleştirilmesini güçleştirmektedir. Ek cerrrahi işlemler (sinüs ogmentasyonu, blok greftler, sinir lateralizasyonu vb.) veya modifiye implant uygulamaları yapılarak maksillanın dental rehabilitasyonu yapılabilir. Bu işlemlerin hem morbititeyi arttırması hem de tedavi süresini uzatmasından dolayı son yıllarda ptergoid implantlar 23, kısa implantlar 17 ve zigomatik implantlar maksillanın rekonstrüksiyonunda kullanılmaktadır. Zigomatik implantlar, ek cerrahi uygulamalar gerektirmeden maksillanın rehabilitasyonunda alternatif bir seçenektir (53,54).
 
-Kruskal-Wallis testi sonucuna gore yas ile basari duzeyleriarasinda istatistiksel açidan onemli ilisi yioktur  $p = 0,766 > \alpha = 0,05$
+Greft tedavisinin başarı oranının yüksek olmasına rağmen, otojen kemik kullanımında donör saha morbititesi meydana gelmesi; yapay kemik kullanımında ise bekleme süresinin fazla olması hastanın sabit protetik tedavisinin süresini uzatarak, tedaviden vazgeçmesine neden olabilir. Bu hastalarda açılı implantlar 55, zigomatik implantlar 56 ve ptergoid implantlar 22 tedavi süresinin kısaltılması ve hastaya daha az morbitite vermesi açısından önem arz etmektedir.
 
-<table><tr><td rowspan="3"></td><td colspan="10">başari</td><td rowspan="3">KW</td><td rowspan="3">pdehyeri</td></tr><tr><td colspan="2">Success I</td><td colspan="2">Success II</td><td colspan="2">Success III</td><td colspan="2">Survive</td><td colspan="2">Failure</td></tr><tr><td>Ortalama</td><td>Standart Sapma</td><td>Ortalama</td><td>Standart Sapma</td><td>Ortalama</td><td>Standart Sapma</td><td>Ortalama</td><td>Standart Sapma</td><td>Ortalama</td><td>Standart Sapma</td></tr><tr><td>yaş</td><td>55</td><td>10</td><td>56</td><td>9</td><td>58</td><td>10</td><td>54</td><td>15</td><td>49</td><td>15</td><td>8,143</td><td>0,086</td></tr></table>
-YAŞA GÖRE BAŞARI DÜZEYLERİ
+Zigomatik implantlar ilk olarak maksillektomi yapılan hastalarda obturatörün retansiyonunu arttırmak amacıyla yapılmıştır. Butterworth ve ark. malign tümör cerrahileri sebebleri ile maksillektomi yapılmış 49 hastaya 131 adet zigomatik implant uygulamışlardır. 5 yıllık takip sürecinde 8 zigomatik implant başarısız olmuştur ve zigomatik implantların başarı oranını %92 olarak bildirmişlerdir (34).
 
-# 5. TARTIŠMA
+Zigomatik implantlar ilk olarak maksillektomi yapılan hastalara yapılırken daha sonraki dönemlerde aşırı atrofiye uğramış maksillada uygulanmaya başlamıştır. Zigomatik implant uygulamasındaki teknikler sinüs maksillanın ön duvarındaki konkaviteye ve maksillada meydana gelen atrofiye bağlı olarak değişiklik gösterebilir. Zigomatik implantların yerleştirilmesinde intrasinüs (zigomatik implant ilk bu teknikle yerleştirilmiştir), sinüs-slot, ekstrasinüs ve bilgisayar destekli cerrahi yaklaşım tekniği olarak 4 yöntem tanımlanmıştır. Zigomatik implantların yerleştirilmesinde ilk teknik olan intrasinüs tekniğinde implantın çıkış profilinin palatinalde olması protezin palatinalde konumlanmasına neden olarak, hastada fonasyon problemine ve protezin hijyenini sağlamada problemlere neden olmaktadır. Sinüs-slot, intrasinüs ve ekstrasinüs gibi diğer uygulama yöntemlerinde ise implant çıkış profili daha bukkalde konumlanarak protetik problemler daha az meydana gelmektedir, fakat bu tekniklerde ise palatinal ve maksiller sinüsün ön duvarındaki kortikal kemikten daha az ankraj alınır ve biyomekanik problemler meydana gelebilir. Aparicio, zigomatik anatomi rehberli yaklaşımda (ZAGA konsepti) zigomatik implantın ağız içi çıkış profili 5 grupta incelemiştir (Tip 0, 1, 2, 3, 4, 5) (57).
 
-İnsanoğlunun ortalama Yaşam süresinin artması ve ekonomik yüzeydeki yondereki gelismeler, estetak ve fonksiyonel bekentilerinidehyigtirmişir. Maksillada dis kaybina®, olak alveolar kretin atrofiye uğraması ve maksiller sinüsunpnömotize olması, maksiller posterior bölgede aksiyl em plantarın yerleşirilmesisini güleşirmektedir. Ek cerrahi islemler (sinü ogmentasyonu, blok greftler, sinir lateralizasyonu vb.) veya modifiye implant uygulamaları yapilaramaksillanı dental rehabilitasyonu yapilabilir. Bu islemlerin hem morbititeyi artirması hem de tedavi süresini uzatmasından dolayı son yllarda ptergoid implantlar 23, kisa implantlar 17 ve zigomatik implantlar maksillanı rekonstrüksiyonunda kullanilmaktadır. Zigomatik implantlar, ek cerraḥi uygulamaları gerektirmeden maksillanı rehabilitasyonunda alternatif bir seçenektir 53,54.
+Çalışmamızda 3 farklı yöntemle yerleştirilen (intrasinus, sinüs-slot ve ekstrasinüs) zigomatik implantların başarısını ORIS kriterlerini (Protetik başarısızlık, rinosinüzit varlığı, peri-implant yumuşak doku sağlığı ve implantın stabilitesini) kullanarak değerlendirdik (6).
 
-Greft tedavisinin bisherı oranınin yüzsek olmasına ragmen, otojen kimlik kullanıminda donör saha morbititesi meydana gelmesi; yapay kimik kullanıminda isebeklme suresinin fazla olması hastanı sabit protetik tedavisinin suresini uzatarak, tedaviden bazgeçmesine neden olabilir. Bu hastalarda açılı implantlar  $^{55}$ , zigomatik implantlar  $^{56}$  ve ptergoid implantlar  $^{22}$  tedavi suresinin kılımlası ve hastaya/DDa az morbitite vermesi açından onem arz etmektedir.
+Göker ve ark. 110 hastada 302 zigomatik implantı ekstrasinüs yöntemiyle yerleştirmişlerdir. Bizim çalışmamızda olduğu gibi, bu çalışmada da zigomatik implant başarısı ORIS kriterleri kullanılarakn değerlendirilmiştir.Bu çalışmada ağrı ve enfeksiyonun olmaması, peri-implant radyolusensinin olmaması, implant mobilitesinin olmaması ve yıllık kemik kaybının 0.2 mm'den düşük olması gibi kriterler göz önüne alınmıştır. 1 yıllık takip süresince 5 zigomatik implantta kayıp görülmüştür. Zigomatik implantların başarı yüzdesi %98.34 olarak bulunmuştur. İmplantlardaki kayıpların nedenleri arasında ise, hastalarda bruksizmin olması ve protezin uygun olmayan okluzal kuvvetler ile yüklenmesi gösterilmiştir (51).
 
-Zigomatik implantlar ilk olarak maksillektomi yapilan hastalarda obturatorun retansiyonunu artirmak amacıyla yapilmalık. Butterworth ve ark. malign Türç cerrahileri sebebleri ile maksillektomi yapilmalık 49 hastaya 131 adet zigomatik implant uygulamşlardır. 5��kı takip surecinde 8 zigomatik implant böşarışı Olm;&tur ve zigomatik implantların böşari olanı%92 olarak bildirmilderdir  $^{34}$ .
+Agliardi ve ark. Çalışmalarında 34 hastayı 90 zigomatik implant ve 53 konvasiyonel implant kullanarak rehabilite etmişlerdir. 11 yıllık takipte konvansiyel implantların başarısını %96.2, zigomatik implantların başarısını ise %100 olduğunu bildirmişlerdir. Bu çalışmada zigomatik implantlar ekstrasinüs yöntemiyle yerleştirilmiştir. Zigomatik implantların başarısı sadece implantın mobilitesi ve rotasyona uğrayıp uğramadığı baz alınarak değerlendirilmiştir (45). Bizim çalışmamızda ise, zigomatik implantların başarısı daha objektif veriler sunabilen ORIS kriterleri göz önüne alınarak değerlendirilmiştir (6).
 
-Zigomatik implantar ilk olarak maksillektomi yapilan hastalara yapilirken dahasonraki donemlerde aşırı atrofiye uğramı maksillada uygulanmaya bestehtamlştr. Zigomatik implant uygulamasindaki teknikler sinü maksillanın on duvarindaki konkaviteye ve maksillada meydana gelen atrofiye baglı olarak degişiklik gösterebilir. Zigomatik implantlarin yerleştilimsesinde intrasinüs (zigomatik implant ilk bu teknikle yerleştilirmştr), sinü-slot, ekstrasinüv ve bilgisayar destekli cerraḥi yaklaşm teknişi olarak 4 yöntem tanımlanmştr. Zigomatik implantlarin yerleştilimsesinde ilk teknik olan intrasinüs tekniçinde implantin çkış profilinin palatinalde olması protezin palatinalde konumlanmasina neden olarak, hastada fonasyon problemine ve protezin hijyenini saglamada problelere neden olmaktadir. Sinus-slot, intrasinus ve ekstrasinus gibi diger uygulama yontemlerinde ise implant Çıkış profili daha bukkalde konumlanarak protetik problelmer daha az meydana gelmektedir, fakat bu tekniklerde ise palatinal ve maksillersinusün on duvarindaki kortikal kemikten daha az ankraj alınir ve biyomekanik problelmer meydana gelebilir. Aparicio, zigomatik anatomi rehberli yaklaşimda (ZAGA konsepti) zigomatik implantin ağüz ileçıkış profili 5 grupta incelemişir (Tip 0, 1, 2, 3, 4,5)  $^{57}$ .
+Moraschini ve ark. yaptıkları sistematik derleme ve meta-analiz çalışmasında 1709 hastada 2972 adet zigomatik implantı yaklaşık olarak 78 ay takibini gerçekleştirmişlerdir. Zigomatik implant başarı oranını % 96.5 olarak bulmuşlardır. Bu sistematik derleme ve meta-analize dahil edilen çalışmaların 15'inde implantlar intrasinüs, 5'inde ekstrasinüs, 6'sında ise hem intrasinüs hem de ekstrasinüs yöntemi kullanılarak yerleştirilmiştir. Bu çalışmada uygulanan yöntemin, implant başarısı üzerine etkisi araştırılmamıştır (56).
 
+Kosola ve ark. yaptıkları çalışmada 33 hastada yerleştirilen 67 adet zigomatik implantı 12 yıllık takip etmişlerdir. Bu çalışmada implantın stabil olması, protezin fonksiyonda olması, ağrı ve enfeksiyon olmaması gibi kriterler göz önüne alınarak zigomatik implantların başarısı analiz edilmiştir. 12 yıllık takip sürecince 16 implant başarısız olmuştur ve eksplante edilmiştir. 36 adet zigomatik implantta ise, implantla ilişkili komplikasyonlar meydana gelmiştir. Çalışmada immediat olarak yüklenen implantlarda, geç yüklenen implantlara göre daha az komplikasyon meydana geldiği sonucuna ulaşılmıştır. Zigomatik implantlar intrasinüs (tamamen veya parsiyel sinüs içerisinde) tekniği kullanılarak yerleştirilmiştir (48). Bizim çalışmamızda ise, 5 yıllık takip süresince implant üstü sabit protezde başarı oranı yaklaşık olarak %85 olarak, hibrit protezde ise %81 olarak bulunmuştur.
 
-Çalısmamışda 3 farklı yöntemle yerleştirolen (intrasinus, sinü-slot ve ekstrasinü) zigomatik implantarın为大家 ORIS kriterlerini (Protetik为大家 rinalık, rinosinuzit varligrı,peri-implant yumusak doku salık ve implantin stabilitesini) kullanarak degerlendirdik 6.
+Chana ve ark. 45 hastada yaptıkları 88 adet zigomatik implantı 18 yıllık takip sürecinde retrospektif olarak değerlendirmişlerdir. İmplantlar ZAGA prensiplerine göre (16 adet implant ZAGA 0, 8 adet implant ZAGA 1, 14 adet implant 14, 7 adet implant ZAGA 3, 34 adet implant ZAGA 4) yerleştirilmiştir. 88 implantın 54'ü immediat olarak yüklenmiştir. 18 yıllık takipte zigomatik implantların başarı oranı %94 olarak bildirilmiştir36. Bizim çalışmamızda ise implantlar immediat olarak yüklenilmiştir. Protez başarı oranı %80'in üzerindedir.
 
-Göker ve ark. 110 hastada 302 zigomatik implantı ekstrasinthus yontem iley erleşirmilDIR. Bizim calismamizda olduğu gibi, bu calismada da zigomatik implant bisherı ORIS kriterleri kullanıRAR degerlendirilmıştir.Bu calismada agr ve enfeksiyonun olmaması, peri-implant radyolusensinin olmaması, implant mobilitesinin olmaması ve yillisik demik kaybinin 0.2 mm'den yüzuk olması gibi kriterler goz onüne alımtı. 1 yillisik takip suresince 5 zigomatik implantta kayıp gürümkırt. Zigomatik implantları为大家 yüzdesi %98.34 olarak bulunmustur. Implantardaki kayıpları nedenleriarasında ise, hastalarda bruksizmin olması ve protezin uygün olmayan okuzal kuvvetler ile yüklenmesi gosterilmıxtir  $^{51}$ .
+Borgonovo ve ark. yaptıkları çok merkezli çalışmada 23 hastada 98 zigomatik implantı 1 yıllık süreçte değerlendirmişlerdir. Bütün implantlar ekstrasinüs yaklaşımlı olarak yerleştirilmiştir. 1 yıllık takip süresince başarı kriteri olarak implant ve protezin başarısızlığını değerlendirilmiştir. Takip süresince implant başarısı %100 olarak bildirilmiştir (58). Bizim çalışmamızda 5 yıllık takip sürecinde implantların başarı oranı yaklaşık olarak %84 olarak bulunmuştur.
 
-Agliardi ve ark. Çalısmalarindo 34 hastayı 90 zigomatik implant ve 53 konvasiyonel implant kullanarak rehabilitite etmisperdir. 11 yüzüncü takipte konvansiyel implantlarınası 96.2, zigomatik implantlarınası isı 100 olduguṇu bildirmisperdir. Bu Çalısmada zigomatik implantlar ekstrasinü yöntemileyerleşirilmışı. Zigomatik implantlarınası sadece implantin mobilitesi ve rotasyona uğrayıp uğraması baz alınarık değerlendirilmışı 45. Bizim Çalısmamında ile, zigomatik implantlarınası daha objektif veriler sunabilen ORIS kriterleri,—ünne alınarık değerlendirilmışı 6.
+Aydil ve ark. 45 hastada uyguladıkları 141 adet zigomatik implantı, retrospektif olarak değerlendirmişlerdir. İmplantlar intrasinüs, Sinüs-slot ve ekstrasinüs yerleşimli olarak uygulanmıştır (35). 23 hasta hibrit protezle, 19 hasta sabit protezle, 3 hasta ise çıkarılabilir yani hareketli protezle rehabilite edilmiştir. Komplikasyon oranı % 5.67 olarak rapor edilmiştir. (2 hastada zigomatik implantta enfeksiyon, 1 hastada peri- implantitis, 3 hastada sinüzit ve 2 hastada ise protetik komplikasyon meydana gelmiştir). 3 marka zigomatik implant (nobel zigoma, implantswiss ve southern) çalışmaya dahil edilmiştir. Bu çalışmada implant markalarının implant başarısı üzerine etkisi araştırılmamıştır. Bizim çalışmamızda ise bu çalışmada kullanılan implant markalarına benzer implantlar (nobel biocare, southern ve implance) kullanılmıştır. Çalışmamızda nobel biocare grubunda daha fazla başarısızlık görülmesine rağmen implant markaları arasında başarı açısından istatistiksel olarak anlamlı bir fark bulunmamıştır (p=0,197).
 
-Moraschini ve ark. yaptikları/systematik derleme ve meta-analiz calismasindo 1709 hastada 2972 adet zigomatik implantı yaklassik olarak 78 ay takibiniGPCekleşirmislerdir. Zigomatik implant besteht orangını % 96.5 olarak bulmulardir. Bu sistematik derleme ve meta-analyze dahil edilen calismalarin 15'inde implantlar intrasinus, 5'inde ekstrasinus, 6'sinda ise hem intrasinus hem de ekstrasinus yontemi kullanıralak yerleştirolmiştir. Bu calismada uygulanan yontemin, implant巴斯arı üzerine etkisi arastirilmamistir  $^{56}$ .
+Davo ark. yaptıkları çok merkezli çalışmada 82 hastada yaptıkları 188 adet zigomatik implantı retrospektif olarak değerlendirmişlerdir. İmplantlar intrasinüs, sinüs- slot ve ekstrasinüs yöntemleri kullanılarak yerleştirilmiştir. Bu çalışmada implantların çoğunluğu (yaklaşık olarak %94'ü) immediat olarak protezle yüklenmiştir ve implantlar yaklaşık olarak 18 ay takip edilmiştir. Takip süresince zigomatik implantların başarı oranının %100 olduğu sonucuna ulaşılmıştır (59). Bizim çalışmamızda ise, uygulanan tekniklere göre implantların başarı ve başarısızlık oranlarına bakıldığında ekstrasinus ve intrasinüs tekniklerinde başarısızlık oranı sağ kalım oranından daha yüksek olarak gözlemlenirken, sinus-slot tekniğinde ise, implantın başarı oranının başarısızlık oranından daha yüksek olduğu görülmüştür, ancak bu fark istatistiksel olarak anlamlı bulunmamıştır (p=0,299).
 
+Perez ve ark. yaptıkları sistematik derlemede zigomatik implantların başarısını araştırmışlardır. Sistematik derlemede implantların başarısı 3 zaman aralığında değerlendirilmiştir. Zigomatik implantların protetik rehabilitasyonu 24 saat içerisinde yapılmıştır. Zigomatik implantların başarı oranı protetik yüklemeyi takiben 1 yıldan az süre içerisinde %98.5, 1-3 yıl içerisinde %97.5, 3-5 yıl içerisnde %96.8, 5 yıldan fazla süre takip süresince ise %96.1 olarak bulunmuştur. Zigomatik implantların takip süresince en sıklıkla karşılaşılan komplikasyonların sinüzit, protetik komplikasyonlar ve yumuşak doku açılması olduğu bildirilmiştir (54). Bu çalışmada elde edilen sonuç, bizim çalışmamızda elde ettiğimiz sonuç ile parallelik göstermektedir.
 
-Kosola ve ark. yaptikları calismada 33 hastada yerleşirilen 67 adet zigomatik implantı 12 yillisık takip etmigiçdirir. Bu calismada implantin stabil olması, protezin fonksiyonda olması, ağır ve enfeksiyon olmaması gibi kriterler yüz ünlüne alınarak zigomatik implantları basarı analiz edilmalık. 12 yillisık takip surencince 16 implant basarıkı Olm,DBEVE EKSPLTE EDILMATIC. 36 adet zigomatik implantta ise, implantla iliskili komplikasyonlar meydana gelmişir. Calismada immediat olarak yüklenen implantlarda,GPCYuklenen implantlara,gore daha az komplikasyon meydana geldigi sonucuna ulasilmalık. Zigomatik implantlar intrasinus (tamamen veya parsiyel sinü icerisinde) teknişi kullanıralak yerleştilimalık  $^{48}$  . Bizim calismamizda ise,5 yillisık takip suresince implant üstü sabit protezde basari orani yaklaşık olarak %85 olarak, hibrit protezde ise %81 olarak bulunmustur.
+Varghese ve ark. yaptıkları sistematik derleme ve metanalizde atrofik maksillayı 'quad zigoma' prensibiyle rehabilite etmişlerdir. Quad zigoma yönteminde zigomatik implantların başarısını %98 olarak rapor etmişlerdir, protez başarısını ise %100 olarak bildirmişlerdir. En sıklıkla karşılaşılan protetik komplikasyonun gecici ve daimi protezin kırılması olarak rapor edilmiştir. Zigomatik implant ile ilişkili olarak en sıklıkla karşılaşılan teknik komplikasyonun ise abutment kırığı olduğu bildirilmiştir (37). Bizim çalışmamızda ise, implant üzeri sabit protezlerde başarı oranının %85,40 olduğunu sonucuna ulaştık. Çalışmamızda abutment kırığı değerlendirilmeye alınmamıştır.
 
-Chana ve ark. 45 hastada yaptiklari 88 adet zigomatik implanti 18 yllk takip surecinde retrospektif olarak degerlendirmislerdir. Implantlar ZAGA prensiplerine gore (16 adet implant ZAGA 0, 8 adet implant ZAGA 1, 14 adet implant 14, 7 adet implant ZAGA 3, 34 adet implant ZAGA 4) yerleştilmişir. 88 implantin 54'ü immediat olarak yüklenmişir. 18 yllk takipte zigomatik implantlarin besoinı oranı %94 olarak bildirilmşir<sup>36</sup>. Bizim calısmamında ise implantlar immediat olarak yüklenilmşir. Protez besoinı oranı %80'in üzerindir.
+Agostino ve ark. yaptıkları çalışmada intrasinüs ve ekstrasinüs yöntemleri kullanarak maksillayı 'quad zigoma' konsepti ve zigomatik \- konvansiyonel implantlarla rehabilite etmişlerdir. Zigomatik implantlarla ilişkili olarak meydana gelen komplikasyonları retrospektif olarak (5 yıl) değerlendirilmiştir. Zigomatik implantların başarı oranının %97.1 olduğunu bildirmişlerdir. Zigomatik implantlar ile ilişkili meydana gelen komplikasyonları ise; sinüzit, oro-antral ilişki, implantların etrafında dişeti çekilmesi ve periimplanter mukozitis olarak bildirmişlerdir (47). Bizim çalışmamızda ise, zigomatik implantların başarı oranını %84.1 olarak bildirilmiştir. Bizim çalışmamıza dahil edilen 57 hastanın 7'sinde maksiller sinüzit meydana gelirken, 4 hastada ise dişeti çekilmesi meydana gelmiştir.
 
-Borgonovo ve ark. yaptiklari cok merkezli calismada 23 hastada 98 zigomatik implanti 1 yllik surecte degerlendirmislerdir. Butun implantlar ekstrasinus yaklasiml olarak yerleştililmistir. 1 yllik takip surensince basarı kriteri olarak implant ve protezin basarisizligrin degerlendirmistir. Takip surensince implant basarı  $\% 100$  olarak bildirilmistir  $^{58}$ . Bizim calismamizda 5 yllk takip surecinde implantlarin basarı orani yaklosik olarak  $\% 84$  olarak bulunmustur.
+Lorusso ve ark. yaptıkları sistematik derleme ve meta-analizde zigomatik implantlarla premaksillaya yerleştirilmiş olan konvansiyonel implantların başarı oranlarını karşılaştırmışlardır. Bu çalışmanın sonucunda, maksillanın dental rehabilitasyonunda zigomatik implantlarla premaksillaya yerleştirilen konvansiyonel implantların sağ kalımları arasında farklılık bulunmamıştır. Bu çalışmada zigomatik implantların başarı kriterleri değerlendirilmeye alınmamıştır (53). Aparacio ve arkadaşlarının yaptıkları zigomatik implantlarla konvansiyonel implantların karşılaştırıldığı diğer çalışmada, zigomatik ve konvansiyonel implantların maksillanın rehabilitasyonunda kemik ogmentasyonları gibi ileri cerrahi işlemlere alternatif bir yöntem olabileceği bildirilmiştir. Bu çalışmada 69 hastaya, 131 adet zigomatik implant ve 304 adet konvasiyonel implant uygulanmıştır. 4 yıllık takip süresince konvansiyonel implantların 2'sinde kayıpla karşılaşılırken, zigomatik implantlarda ise kayıpla karşılaşılmamıştır (3).
 
-Aydil ve ark. 45 hastada uyguladikları 141 adet zigomatik implantı, retrospektif olarakdehyerlendirmişlerdir. Implantlar intrasinüs, Sinüsslot ve ekstrasinüs yerleşimli olarak uygulanmistr 35. 23 hasta hibrit protezle, 19 hasta sabit protezle, 3 hasta iselçkarilabilir yani hareketli protezle rehabilitite edilmistr. Komplikasyon oranı % 5.67 olarak rapor edilmistir. (2 hastada zigomatik implantta enfeksiyon, 1 hastada periimplantitis, 3 hastada sinuzit ve 2 hastada ise protetik komplikasyon meydana gelmistir). 3 marka zigomatik implant (nobel zigoma, implantswiss ve southern) calismaya dahil edilmistir. Bu calismada implant markalarinim implant basarisi üzerine etkisi arastrilmamistir. Bizim calismamizda ise bu calismada kullanilan implant markalarina benzer implantlar (nobel biocare, southern ve impliance) kullanilmistir. Calismamizda noble biocare grubunda dah a fazla basarisizlik gürülmesine ragmen implant markalarıarasinda basarı aç,isindan istatistiksel olarak anlamlı bir fark bulunmamistir (p=0,197).
+Gracher ve ark. yaptıkları sistematik derlemede zigomatik implantların başarısını değerlendirmişlerdir. 1247 hastada yapılan 2919 adet zigomatik implant değerlendirmeye alınmıştır. Hastalar minimum 1 ay, maximum ise 228 ay değerlendirilmiştir. Takip süresince 52 adet zigomatik implant başarısızlık nedeniyle çıkarılmıştır. Bu çalışmada zigomatik implantların başarı oranının %98.2 olduğu bildirilmiştir, implantlar çoğunlukla intrasinüs tekniği (%53) ile yerleştirilmiştir. En çok meydana gelen komplikasyonun sinüzit olduğu bildirilmiştir (39 hastada) (33). Bizim çalışmamızda da, en çok meydana gelen komplikasyonun ise sinüzit olmuştur (7 hastada). İntrsinüs tekniği bizim çalışmamızda en az sıklıkla kullanılan yöntem olmuştur. Bunun nedeni, zigomatik implantın yerleştirilen bölgenin anatomisi (rezorpsiyon paterni) ve cerrahın postoperatif komplikasyonlardan kaçınmak istemesi olabilir.
 
+Nocini ve ark. yaptıkları derlemede zigomatik implantlarla ilişkili meydana gelen sinüziti değerlendirmişlerdir. Derlemeye 11 çalışma dahil edilmiştir. Dahil edilen çalışmalarda hastaların %12.3'ünde sinüzitle karşılaşılmıştır. Bu sistematik derlemede zigomatik implantlarla ilişkili olarak meydana gelen sinüzitin tedavisinde en sıklıkla tercih edilen yöntemin antibiyotik tedavisi ve fonksiyonel endoskopik sinüs cerrahisi olduğu bildirilmiştir. Bu çalışmada sinüzit için risk faktörleri olduğunda (ileri yaş, septal deviasyon, komorbidite, sigara kullanımı), endoskopik sinüs cerrahisinin zigomatik implantlarla aynı anda yapılması tavsiye edilmiştir (46). Bizim çalışmamızda ise, zigomatik implantlarla ilişkili sinüzitin tedavisinde (7 hastada), antibiyotik tedavisi, ilgili sinüs bölgesinin cerrahi olarak debridmanı ve sinüs lavajı uygulanmıştır.
 
-Davo ark. yaptiklari cok merkezli calismada 82 hastada yaptiklari 188 adet zigomatik implanti retrospektif olarak degerlendirmislerdir. Implantar intrasinus, sinusslot ve ekstrasinus yontemleri kullanilarak yerleşirilmistir. Bu calismada implantarinçoğunluğu (yaklaşık olarak %94'ü) immediat olarak protezle yüklenmistir ve implantar yaklaşık olarak 18 ay takip edilmistir. Takip suresince zigomatik implantarin basari orangnin %100 oldugu sonucuna ulasilmistir  $^{59}$ . Bizim calismamizda ise, uygulanan tekniklere gore implantarin basari ve basarisizlik oranlarina bakildiginda ekstrasinus ve intrasinus tekniklerinde basarisizlik orang sag kalim orangindan daha yüksek olarak gozlemlenirken, sinus-slot tekniğinde ise, implantin basari oranginin basarisizlik orangindan daha yüksek olduğu gürümmustür, ancak bu fark istatistiksel olarak anlam bilunmamistir  $(p = 0,299)$ .
+Agliardi ve ark. yaptıkları çalışmada ileri derecede atrofik maksillayı quad zigoma konsepti veya 2 adet zigomatik implant ile 2 adet konvansiyonel implantları kombine ederek 6 yıllık takip sürecinde zigomatik implantların başarı, konvansiyonel implantların başarısını ve protetik başarıyı değerlendirmişlerdir. Çalışmaya dahil edilen hastalarda immediat olarak geçici protezleri, 6 ay sonra ise daimi protezleri yapılmıştır. Takip süresince implant kaybıyla ve protetik komplikasyonlar karşılaşılmamıştır. Bu çalışmanın sonucunda zigomatik implantların immediat olarak yüklenmesi, atrofik maksillanın rehabilitasyonunda başarılı bir tedavi seçeneği olduğu bildirilmiştir. Protetik rehabilitasyonun başarısı %100 olarak bildirilmiştir. Bizim çalışmamızda ise, hastalara immediat olarak gecici protezler uygulanmıştır. Bizim çalışmamızda protetik başarı %84.10 olarak bildirilmiştir. Hastalar quad zigoma veya 2 adet zigomatik implant ile 2 adet konvansiyonel implant grubu olarak ayrılıp, protetik başarı değerlendirilmemiştir. Protezi destekleyen implant sayısı çalışma grupları arasında farklılık oluşturabilir. Bu durum protetik başarıyı etkileyebilir.
 
-Perez ve ark. yaptiklarısystematik derlemede zigomatik implantarınbasarınaraşirmıslardır. Sistematik derlemede implantarınbasarı 3 zaman aralındedehyerlendirilmalık. Zigomatik implantarı protetik rehabilitasyonu 24sat icerisindeyapilmalık. Zigomatik implantarı orang protetik)yuklemeyi takiben 1 yildan azsure icerisinde %98.5, 1-3 yil icerisinde %97.5, 3-5 yil icerisnde %96.8, 5 yildan fazlaSure takip surence ise %96.1 olarak bulunmustur. Zigomatik implantarınakripsine en sikkıkla karılaşanan komplikasyonlarin sinuzit,protetik komplikasyonlarveyumusak doku açilması oldugu bildirilmalık  $^{54}$  Bu calismada elde edilen sonuc,bizim calismamizda elde ettigimiz sonuc ile parallelik gostermektedir.
+Coppede ve ark. yaptıkları çalışmada 42 hastada, 97 adet ekstrasinüs yöntemiyle yerleştirilen zigomatik implantın başarısını 3 yıllık takip süresince değerlendirmişlerdir.
 
-Varghese ve ark. yaptikları/systematik derleme ve metanalizde atrofik maksillayı 'quad zigoma' prensibiyle rehabilitite etmislerdir. Quad zigoma)yonteminde zigomatik implantarı basarasınin  $98$  olarak rapor etmislerdir, protez basarasınin ise  $100$  olarak bildirmislerdir. En sikikı karsılaşilan protetik komplikasyonunGPCi ve daimi protezin krilması olarak rapor edilm壁纸. Zigomatik implant ile ilşkili olarak en sıkkıla karılaşilan teknik komplikasyonun ise abutment kırıgpoldugu bildirilm壁纸 37. Bizim calismamizda ise, implant üzeri sabit protezlerde basari orangınin %85,40 olduğunu sonucuna ulastık. Calismamizda abutment kırıgp degerlendirilmeye alınmam壁纸.
-
-
-Agostino ve ark. yaptikları Çalışmada intrasinüs ve ekstrasinü s yontemleri kullanarak maksillayı 'quad zigoma' konsepti ve zigomatik - konvansiyonel implantlarla rehabilitite etmislerdir. Zigomatik implantlarla iliskili olarak meydana gelen komplikasyonları retrospektif olarak (5ylation) degerlendirilmışı. Zigomatik implantarı basarı orangınin %97.1 olduğunu bildirmişlerdir. Zigomatik implantar ile iliskili meydana gelen komplikasyonları ise; sinuzit, oro-antral iliski, implantarı etrafinda disetiçekilmesi veperiimplanter mukozitis olarak bildirmişlerdir 47. Bizim Çalışmamında ise, zigomatik implantarı basarı orangını %84.1 olarak bildirmişir. Bizim Çalışmamında dahi edilen 57 hastanı 7'sinde maksiller sinuzit meydana gelirken, 4 hastada ise disetiçekilmesi meydana gelmişir.
-
-Lorusso ve ark. yaptiklari sistematik derleme ve meta-analizde zigomatik implantlarla premaksillaya yerleştilmisi,... olan konvansiyonel implantlarin.Beforen oranlarini karılaşirmi,...drir. Bu calismann sonucunda, maksillan n dental rehabilitasyonunda zigomatik implantlarla premaksillaya yerleştilen konvansiyonel implantlarin,...arasinda farklilik bulunmam,...tir. Bu calismada zigomatik implantlarin Beforen kriterleri,...degerlendirilmeye alinnam,...tir 53. Aparacio ve arkada,...zigomatik implantlarla konvansiyonel implantlarin karılaşirildigi,...iger calismada, zigomatik ve konvansiyonel implantlarin,...maksillann rehabilitasyonunda kemik ogmentasyonları gibi ileri cerrahi,...ilemlere alternatif bir..., olabilececi bildirilmı,...tir. Bu calismada 69 hastaya, 131 adet zigomatik implant ve 304 adet konvasiyonel implant uygulanm,...tir. 4..., takip,...sresince konvansiyonel implantlarin 2...sinde kayıpla karılaşilirken, zigomatik implantarda ise kayıpla karılaşilmam,...tir 3.
-
-Gracher ve ark. yaptiklari sistematik derlemede zigomatik implantlarin巴斯arisini degerlendirmislerdir. 1247 hastada yapilan 2919 adet zigomatik implant degerlendirmeye alinmistr. Hastalar minimum 1 ay, maximum ise 228 ay degerlendirilmistr. Takip suresince 52 adet zigomatik implant巴斯arisizhk nedeniyle cikarilmistr. Bu calismada zigomatik implantlarin巴斯arı orangınin %98.2 oldugu bildirilmistr, implantlarçoğunlukla intrasinus teknişi (%53) ile yerleştilm;, En*cok meydana gelen komplikasyonun sinüzit oldugu bildirilm;, (39 hastada)  $^{33}$ . Bizim calismam;, da, en*cok meydana gelen komplikasyonun ise sinüzit olmûstur (7 hastada). Intrasinus teknişiBizim calismam;, en az siki;, kullanın yöntem olmûstur. Bunun nedeni, zigomatik implantin yerleştilen;bolgenin anatomisi (rezorpsiyon paterni) ve cerrahın postoperatif komplikasyonlardan kaçınmak istemesi olabilir.
-
-
-Nocini ve ark. yaptikları derlemede zigomatik implantlarla ilşkili meydana gelen sinüzitidehyerlendirmişlerdir.Derlemeye 11 calşma dahil edilm次会议。Dahil edilen calismalarda hastaların %12.3'ünde sinüz title karşilasilm次会议。Bu/systematik derlemede zigomatik implantlarla ilşkili olarak meydana gelen sinüzitin tedavisinde en siki kla tercih edilen yontemin antibiyotik tedavis ve fonksiyonel endoskopik sinus cerrahisi oldugu bildirilm次会议。Bu calşmada sinüz itçin risk faktörleri oldugunda (ileri yaş, septal deviasyon, komorbidite, sigara kullanı), endoskopik sinus cerrahisinin zigomatik implantlarla ayında yapilması tavsiye edilm次会议。Bizim calşmamizda ise, zigomatik implantlarla ilşkili sinüzitin tedavisinde (7 hastada), antibiyotik tedavisı, ilgili sinus bolgesinin cerraḥi olarak debridmanı ve sinüsslavajuygulan次会议。
-
-Agliardi ve ark. yaptikları calismada ileri derecede atrofik maksillayı quad zigoma konsepti vya 2 adet zigomatik implant ile 2 adet konvansiyonel implantları kombine ederek 6 yllık takip surencinde zigomatik implantları basarı, konvansiyonel implantları basarınsı ve protetik basarııdehyerlendirmilşlerdir. Calısmaya dahil edilen hastalarda immediat olarak geleçici protezleri, 6 ay sonra ile daimi protezleri yapilmalık. Takip süresince implant kaybıyla ve protetik komplikasyonlar karılaşilmamalık. Bu calismanin sonucunda zigomatik implantları immediat olarak)yüklenmesi, atrofik maksillanin rehabilitasyonunda basarı bir tedavi seçeneği oldugu bildirilmalık. Protetik rehabilitasyonun basarıı%100 olarak bildirilmalık. Bizim calismamizda ise, hastalara immediat olarak gecici protezler uygulanm;,Bizim calismamizda protetik basari%84.10 olarak bildirilmalık. Hastalar quad zigoma vya 2 adet zigomatik implant ile 2 adet konvansiyonel implant grubu olarak ayrılp,protetik basarıdehyerlendirmil;mı. Protezi destekleyen implant sayı calisma gruplarıarasinda farklilik olusturabilir. Bu durum protetik basarıı etkileyebilir.
-
-Coppede ve ark. yaptikları calismada 42 hastada, 97 adet ekstrasinthus yontemile yerleştilen zigomatik implantin besoinırkı 3�� takip suresince degerlendirmislerdir.
-
-Çalışmada, 34 hastada immediat yükleme (3 günciçinde) ve 8 hastada ile 6 ay sonra protetik restorasyon yapilmalık. Takip suresince 1 tane zigomatik implantta seksilkla karsılaşkıntı ve ekstrasinü Olarak yerleşirilen zigomatik implantlarin seksı%98.9 olarak bildirilmalık. Çalışmada zigomatik implantlarla ilşkı Olarak sinüzite rastlanilmalık $^{60}$ . Bizim seksmamuzda ile, 7 hastada sinüzit geleşmiş olup, ekstrasinü teknik ile uygulanan zigomatik implantlarin seksır olanın%84.60 oldugu sonucuna ülaskıntı. Bizim seksmamuzda hastalar daha uzun sure (5 yüz) takip edilmalık. Takip suresi seksır olanın etkileyebilir.
+Çalışmada, 34 hastada immediat yükleme (3 gün içerinde) ve 8 hastada ise 6 ay sonra protetik restorasyon yapılmıştır. Takip süresince 1 tane zigomatik implantta başarısızlıkla karşılaşılmıştır ve ekstrasinüs olarak yerleştirilen zigomatik implantların başarısı %98.9 olarak bildirilmiştir. Çalışmada zigomatik implantlarla ilişkili olarak sinüzite rastlanılmamıştır (60). Bizim çalışmamızda ise, 7 hastada sinüzit gelişmiş olup, ekstrasinüs teknik ile uygulanan zigomatik implantların başarı oranının %84.60 olduğu sonucuna ulaşılmıştır. Bizim çalışmamızda hastalar daha uzun süre (5 yıl) takip edilmiştir. Takip süresi başarı oranını etkileyebilir.
 
 # 6. SONUÇ
-
-1. Çalışmamüzda 3 farklı teknik ile uygulanan zigomatik implantarda (intrasinüs, sinüsslot, ekstrasinüs)baraı,sag kalım oranı,basarıszlık açından istatistiksel olarak anlamlbir fark olmadışı sonucunaULAŞilm,stir.Başari oranı en yükbek teknik Sinüsl-Slot tekniğiikenbaraı oranı,enduşuk teknik Ekstrasinüsteknigi oldugu sonucunaULAşilm,stir.
-2. Çalısmamızda, hibrit yada sabit protetik restorasyonlar ile tedavi edilen zigomatik implantarınası ile uygulanan bu iki protetik tedaviarasinda istatistiksel olarak anlamlı bir fark bulunmadı.
-3. Çalısmamızda zigomatik implantarınası, uygulanan implantarı markası,goredeğerlendirildigiinde (nobel biocare, southern, impliance) zigomatik implantmarksınuuygulan implantın markasınbagli olmadı sonucuna ulasıldı.
-4. Calismamizda, hastalarin cinsiyetleri ile zigomatik implantarin巴斯risiarasinda anlamlbir iliski bulunmadı.
-5. Çalışmamüzda, hastaların yaşları ile zigomatik implantarı.Beforen basarasıarasinda anlami bir iliski bulunmadı.
-6. Elde edilen veriler 1siginda, calismamizda Sinus- slot tekniiginin, zigomatik implantimaksillada daha fazla kortikal kemik temasinin olması sebebi ile daha basaril oldugunudusmekteyiz. Calismamiz zigomatik implant uygulamalarinda kullanilan tekniklerinbirbiriarasindaki basarisini kivaslayan ilk calismadir. Bu nedenle elde ettiqimizsonuclarin, zigomatik implantlarin klinik basarisina katkı saqlayacagidusuncesindeyiz.Ancak bu konuda saysal olarak daha fazla zigomatik implantuygulaması dahil edilen klinik degerlendirmelerin yapildigi calismalara ihtiyaç vardir.
-
-# KAYNAKLAR
-
-1. Balshi, T. J., Wolfinger, G. J., Shuscavage, N. J. & Balshi, S. F. Zygomatic bone-to-implant contact in 77 patients with partially or completely edentulous maxillas. J. Oral Maxillofac. Surg. 70, 2065–2069 (2012).
-2. Ferrara, E. D. & Stella, J. P. Restoration of the edentulous maxilla: The case for the zygomatic implants. J. Oral Maxillofac. Surg. 62, 1418-1422 (2004).
-3. Aparicio, C. et al. A prospective clinical study on titanium implants in the zygomatic arch for prosthetic rehabilitation of the atrophic edentulous maxilla with a follow-up of 6 months to 5 years. Clin. Implant Dent. Relat. Res. 8, 114-122 (2006).
-4. Grecchi, F. et al. A new surgical and technical approach in zygomatic implantology. ORAL Implantol. 10, 197-208 (2017).
-5. Aparicio, C. et al. Zygomatic implants: Indications, techniques and outcomes, and the Zygomatic Success Code. Periodontol. 2000 66, 41-58 (2014).
-6. Aparicio, C., López-Piriz, R. & Albrektsson, T. ORIS Criteria of Success for the Zygoma-Related Rehabilitation: The (Revisited) Zygoma Success Code. Int. J. Oral Maxillofac. Implants 35, 366–378 (2020).
-7. Ness, G. M., Blakey, G. H. & Hechler, B. L. Peterson's Principles of Oral and Maxillofacial Surgery. (2022).
-8. Block, M. S. Dental Implants: The Last 100 Years. J. Oral Maxillofac. Surg. 76, 11-26 (2018).
-9. Clark, D. & Levin, L. Dental implant management and maintenance: How to improve long-term implant success? Quintessence Int. 47, 417-23 (2016).
-10. Stellingsma, C., Vissink, A., Meijer1, H. J. A., Kuiper, C. & Raghoebar, G. M. Implantology and the severely resorbed edentulous mandible. *Crit Rev Oral Biol Med* 15, 240–248 (2004).
-11. Weischer, T., Schettler, D. & Mohr, C. Titanium implants in the zygoma as retaining elements after hemimaxillectomy. Int. J. Oral Maxillofac. Implant. 12, 211-214 (1997).
-
-12. Iwanaga, J. et al. Clinical anatomy of the maxillary sinus: Application to sinus floor augmentation. Anat. Cell Biol. 52, 17-24 (2019).
-13. Tucker, M. R., Bauer, R. E., Eans, T. R. & Ochs, M. W. Implant Treatment: Advanced Concepts and Complex Cases. in Contemporary Oral and Maxillofacial Surgery 281-316 (2018).
-14. Cawood, J. I. & Howell, R. A. A classification of edentulous jaws. Int. J. Oral Maxillofac. Surg. 17, 232-236 (1988).
-15. Hsu, Y. T. et al. Complications of sinus floor elevation procedure and management strategies: A systematic review. Clin. Implant Dent. Relat. Res. 24, 740-765 (2022).
-16. Molina, A., Sanz-Sanchez, I., Sanz-Martín, I., Ortiz-Vigón, A. & Sanz, M. Complications in sinus lifting procedures: Classification and management. Periodontol. 2000 88, 103-115 (2022).
-17. Grunau, O. & Terheyden, H. Lateral augmentation of the sinus floor followed by regular implants versus short implants in the vertically deficient posterior maxilla: a systematic review and timewise meta-analysis of randomized studies. Int. J. Oral Maxillofac. Surg. 1-12 (2022) doi:10.1016/j.ijom.2022.11.015.
-18. Terheyden, H., Meijer, G. J. & Raghoehar, G. M. Vertical bone augmentation and regular implants versus short implants in the vertically deficient posterior mandible: a systematic review and meta-analysis of randomized studies. Int. J. Oral Maxillofac. Surg. 50, 1249-1258 (2021).
-19. Gherlone, E. F., D'Orto, B., Nagni, M., Capparè, P. & Raffaele, V. Tilted Implants and Sinus Floor Elevation Techniques Compared in Posterior Edentulous Maxilla: A Retrospective Clinical Study over Four Years of Follow-Up. Appl. Sci. 12, (2022).
-20. Moreira-Júnior, R. et al. Anatomical and radiological approach to pterygoid implants in atrophic maxilla: A cross-sectional study of 360 cone beam computed tomography examinations. Oral Surg. 16, 69-76 (2023).
-21. Lin, W. S. & Eckert, S. E. Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review. Clin. Oral Implants Res.
-
-29, 78-105 (2018).
-22. Araujo, R. Z. et al. Clinical outcomes of pterygoid implants: Systematic review and meta-analysis. J. Cranio-Maxillofacial Surg. 47, 651-660 (2019).
-23. Bidra, A. S., Peña-Cardelles, J. F. & Iverson, M. Implants in the pterygoid region: An updated systematic review of modern roughened surface implants. J. Prosthodont. 1-7 (2022) doi:10.1111/jopr.13600.
-24. Garrido-Martínez, P., Quispe-López, N., Montesdeoca-García, N., Esparza-Gómez, G. & Cebrián-Carretero, J. L. Maxillary reconstruction with subperiosteal implants in a cancer patient: A one-year follow-up. J. Clin. Exp. Dent. 14, 293-297 (2022).
-25. Van Der Mark, E. L., Bierenbroodspot, F., Baas, E. M. & De Lange, J. Reconstruction of an atrophic maxilla: Comparison of two methods. Br. J. Oral Maxillofac. Surg. 49, 198-202 (2011).
-26. Chiapasco, M., Brusati, R. & Ronchi, P. Le Fort I osteotomy with interpositional bone grafts and delayed oral implants for the rehabilitation of extremely atrophied maxillae: A 1-9-year clinical follow-up study on humans. Clin. Oral Implants Res. 18, 74–85 (2007).
-27. Shen, G. Maxillofacial bone distraction osteogenesis. Zhonghua Kou Qiang Yi Xue Za Zhi 49, 247-249 (2014).
-28. Laster, Z., Rachmiel, A. & Jensen, O. T. Alveolar width distraction osteogenesis for early implant placement. J. Oral Maxillofac. Surg. 63, 1724-1730 (2005).
-29. Edmond Bedrossian, E. A. B. J. & Branemark, P.-I. Zygomatic Implant: A Graftless Approach for Treatment of the Edentulous Maxilla. in Oral and Maxillafacial Surgery (Fonseca) (eds. J. Fonseca, R., P. Powers, M., E. Frost, D. & Le, B.) 569-583 (Elsevier, 2018).
-30. Ramezanzade, S. et al. Zygomatic implants placed in atrophic maxilla: an overview of current systematic reviews and meta-analysis. Maxillofac. Plast. Reconstr. Surg. 43, (2021).
-31. Strong, E. B. & Gary, C. Management of Zygomaticomaxillary Complex Fractures. Facial Plast. Surg. Clin. North Am. 25, 547-562 (2017).
-
-32. Tucker, T. L., Salman, S. O. & JR., L. L. C. Management of Zygomatic Fractures. in Oral and Maxillofacial Surgery (Fonseca) (eds. J. Fonseca, R., P. Powers, M., E. Frost, D. & Le, B.) 1005-1027 (2018).
-33. Gracher, A. H. P. et al. Full arch rehabilitation in patients with atrophic upper jaws with zygomatic implants: a systematic review. Int. J. Implant Dent. 7, (2021).
-34. Butterworth, C. J. Primary vs secondary zygomatic implant placement in patients with head and neck cancer—A 10-year prospective study. *Head Neck* 41, 1687–1695 (2019).
-35. Yalçın, M. et al. Retrospective Analysis of Zygomatic Implants for Maxillary Prosthetic Rehabilitation. Int. J. Oral Maxillofac. Implants 35, 750-756 (2020).
-36. Chana, H., Smith, G., Bansal, H. & Zahra, D. A Retrospective Cohort Study of the Survival Rate of 88 Zygomatic Implants Placed Over an 18-year Period. Int. J. Oral Maxillofac. Implants 34, 461-470 (2019).
-37. Varghese, K. G. et al. Rehabilitation of the severely resorbed maxilla by using quad zygomatic implant-supported prostheses: a systematic review and meta-analysis. J. Prosthet. Dent. 1-10 (2021) doi:10.1016/j.prosdent.2021.11.007.
-38. Rosenstein, J. & Dym, H. Zygomatic Implants: A Solution for the Atrophic Maxilla. Dent. Clin. North Am. 64, 401-409 (2020).
-39. Hung, K. F. et al. Measurement of the zygomatic region for the optimal placement of quad zygomatic implants. Clin. Implant Dent. Relat. Res. 19, 841-848 (2017).
-40. Davó, R. & David, L. Quad Zygoma: Technique and Realities. Oral Maxillofac. Surg. Clin. North Am. 31, 285-297 (2019).
-41. Bedrossian, E. Rehabilitation of the edentulous maxilla with the zygoma concept: a 7-year prospective study. Int. J. Oral Maxillofac. Implants 25, 1213-21 (2010).
-42. Weyh, A. M., Nocella, R. & Salman, S. O. Commentary - Step-by-Step: Zygomatic Implants. J. Oral Maxillofac. Surg. 78, e6-e9 (2020).
-43. Chrcanovic, B. R., Pedrosa, A. R. & Custódio, A. L. N. Zygomatic implants: A critical review of the surgical techniques. Oral Maxillofac. Surg. 17, 1-9 (2013).
-44. Goker, F., Grecchi, F., Grecchi, E., Bolzoni, A. & Del Fabbro, M. Insertion of
-
-Zygomatic Implants with a Technical Modification of the Extrasin Protocol: A Retrospective Case Series. Int. J. Oral Maxillofac. Implants 35, 974-981 (2020).
-45. Agliardi, E. L., Panigatti, S., Romeo, D., Sacchi, L. & Gherlone, E. Clinical outcomes and biological and mechanical complications of immediate fixed prostheses supported by zygomatic implants: A retrospective analysis from a prospective clinical study with up to 11 years of follow-up. Clin. Implant Dent. Relat. Res. 23, 612-624 (2021).
-46. Nocini, R., Panozzo, G., Trotolo, A. & Sacchetto, L. Maxillary Sinusitis as a Complication of Zygomatic Implants Placement: A Narrative Review. Appl. Sci. 12, (2022).
-47. D'Agostino, A. et al. Complications related to zygomatic implants placement: A retrospective evaluation with 5 years follow-up. J. Cranio-Maxillofacial Surg. 49, 620-627 (2021).
-48. Di Cosola, M. et al. Retrospective analysis of clinical and radiologic data regarding zygomatic implant rehabilitation with a long-term follow-up. Int. J. Environ. Res. Public Health 18, (2021).
-49. Bedrossian, E. & Bedrossian, E. Prevention and the Management of Complications Using the Zygoma Implant: A Review and Clinical Experiences. Int. J. Oral Maxillofac. Implants 33, e135–e145 (2018).
-50. Vrielinck, L., Moreno-Rabie, C., Coucke, W., Jacobs, R. & Politis, C. Retrospective cohort assessment of survival and complications of zygomatic implants in atrophic maxillae. Clin. Oral Implants Res. 148-156 (2022) doi:10.1111/clr.14027.
-51. Goker, F., Grecchi, E., Del Fabbro, M. & Grecchi, F. Clinical outcome of 302 zygomatic implants in 110 patients with a follow-up between 6 months and 7 years. Clin. Implant Dent. Relat. Res. 22, 415-423 (2020).
-52. Krauthammer, M. et al. Extraocular muscle damage from dental implant penetration to the orbit. Am. J. Ophthalmol. Case Reports 5, 94-96 (2017).
-53. Lorusso, F., Conte, R., Inchingolo, F., Festa, F. & Scarano, A. Survival rate of zygomatic implants for fixed oral maxillary rehabilitations: A systematic review
-
-and meta-analysis comparing outcomes between zygomatic and regular implants. Dent. J. 9, (2021).
-54. Solà Pérez, A. et al. Success Rates of Zygomatic Implants for the Rehabilitation of Severely Atrophic Maxilla: A Systematic Review. Dent. J. 10, (2022).
-55. Hopp, M., de Araujo Nobre, M. & Maló, P. Comparison of marginal bone loss and implant success between axial and tilted implants in maxillary All-on-4 treatment concept rehabilitations after 5 years of follow-up. Clin. Implant Dent. Relat. Res. 19, 849–859 (2017).
-56. Moraschini, V. et al. Survival and complications of zygomatic implants compared to conventional implants reported in longitudinal studies with a follow-up period of at least 5 years: A systematic review and meta-analysis. Clin. Implant Dent. Relat. Res. 177–189 (2022) doi:10.1111/cid.13153.
-57. Aparicio, C., Polido, W. D. & Zarrinkelk, H. M. The Zygoma Anatomy-Guided Approach for Placement of Zygomatic Implants. Atlas Oral Maxillofac. Surg. Clin. North Am. 29, 203-231 (2021).
-58. Borgonovo, A., Grandi, T., Vassallo, S. & Signorini, L. Extrasinus Zygomatic Implants for the Immediate Rehabilitation of the Atrophic Maxilla: 1-Year Postloading Results From a Multicenter Prospective Cohort Study. J. Oral Maxillofac. Surg. 79, 356-365 (2021).
-59. Davó, R., Bankauskas, S., Laurincikas, R., Koçyigit, I. D. & de Val, J. E. M. S. Clinical performance of zygomatic implants—retrospective multicenter study. J. Clin. Med. 9, (2020).
-60. Coppedé, A. et al. Three-year clinical prospective follow-up of extrasinus zygomatic implants for the rehabilitation of the atrophic maxilla. Clin. Implant Dent. Relat. Res. 19, 926-934 (2017).
-
-HAMVERILER
-
-<table><tr><td rowspan="2">IMPLANT SAYISI</td><td colspan="2">CINSIYE YAŞ T</td><td colspan="2">PROTEZ BASHARI TEKNİK SEKLI</td><td>MARKA SPSS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 1998 NAICS 2000 NAICS 2001 NAICS 2002 NAICS 2003 NAICS 2004 NAICS 2005 NAICS 2006 NAICS 2007 NAICS 2008 NAICS 2009 NAICS 2010 NAICS 2011 NAICS 2012 NAICS 2013 NAICS 2014 NAICS 2015 NAICS 2016 NAICS 2017 NAICS 2018 NAICS 2019 NAICS 2020 NAICS 2021 NAICS 2022 NAICS 2023 NAICS 2024 NAICS 2025 NAICS 2026 NAICS 2027 NAICS 2028 NAICS 2029 NAICS 2030 NAICS 2031 NAICS 2032 NAICS 2033 NAICS 2034 NAICS 2035 NAICS 2036 NAICS 2037 NAICS 2038 NAICS 2039 NAICS 2100 NAICS 2101 NAICS 2102 NAICS 2103 NAICS 2104 NAICS 2105 NAICS 2106 NAICS 2107 NAICS 2108 NAICS 2109 NAICS 2110 NAICS 2111 NAICS 2112 NAICS 2113 NAICS 2114 NAICS 2115 NAICS 2116 NAICS 2117 NAICS 2118 NAICS 2119 NAICS 2120 NAICS 2121 NAICS 2122 NAICS 2123 NAICS 2124 NAICS 2125 NAICS 2126 NAICS 2127 NAICS 2128 NAICS 2129 NAICS 2130 NAICS 2131 NAICS 2132 NAICS 2133 NAICS 2134 NAICS 2135 NAICS 2136 NAICS 2137 NAICS 2138 NAICS 2139 NAICS 2140 NAICS 2141 NAICS 2142 NAICS 2143 NAICS 2144 NAICS 2145 NAICS 2146 NAICS 2147 NAICS 2148 NAICS 2149 NAICS 2150 NAICS 2151 NAICS 2152 NAICS 2153 NAICS 2154 NAICS 2155 NAICS 2156 NAICS 2157 NAICS 2158 NAICS 2159 NAICS 2160 NAICS 2161 NAICS 2162 NAICS 2163 NAICS 2164 NAICS 2165 NAICS 2166 NAICS 2167 NAICS 2168 NAICS 2169 NAICS 2170 NAICS 2171 NAICS 2172 NAICS 2173 NAICS 2174 NAICS 2175 NAICS 2176 NAICS 2177 NAICS 2178 NAICS 2179 NAICS 2180 NAICS 2181 NAICS 2182 NAICS 2183 NAICS 2184 NAICS 2185 NAICS 2186 NAICS 2187 NAICS 2188 NAICS 2189 NAICS 2190 NAICS 2191 NAICS 2192 NAICS 2193 NAICS 2194 NAICS 2195 NAICS 2196 NAICS 2197 NAICS 2198 NAICS 2199 NAICS 2200 NAICS 2201 NAICS 2202 NAICS 2203 NAICS 2204 NAICS 2205 NAICS 2206 NAICS 2207 NAICS 2208 NAICS 2209 NAICS 2210 NAICS 2211 NAICS 2212 NAICS 2213 NAICS 2214 NAICS 2215 NAICS 2216 NAICS 2217 NAICS 2218 NAICS 2219 NAICS 2220 NAICS 2221 NAICS 2222 NAICS 2223 NAICS 2224 NAICS 2225 NAICS 2226 NAICS 2227 NAICS 2228 NAICS 2229 NAICS 2230 NAICS 2231 NAICS 2232 NAICS 2233 NAICS 2234 NAICS 2235 NAICS 2236 NAICS 2237 NAICS 2238 NAICS 2239 NAICS 2240 NAICS 2241 NAICS 2242 NAICS 2243 NAICS 2244 NAICS 2245 NAICS 2246 NAICS 2247 NAICS 2248 NAICS 2249 NAICS 2250 NAICS 2251 NAICS 2252 NAICS 2253 NAICS 2254 NAICS 2255 NAICS 2256 NAICS 2257 NAICS 2258 NAICS 2259 NAICS 2260 NAICS 2261 NAICS 2262 NAICS 2263 NAICS 2264 NAICS 2265 NAICS 2266 NAICS 2267 NAICS 2268 NAICS 2269 NAICS 2270 NAICS 2271 NAICS 2272 NAICS 2273 NAICS 2274 NAICS 2275 NAICS 2276 NAICS 2277 NAICS 2278 NAICS 2279 NAICS 2280 NAICS 2281 NAICS 2282 NAICS 2283 NAICS 2284 NAICS 2285 NAICS 2286 NAICS 2287 NAICS 2288 NAICS 2289 NAICS 2290 NAICS 2291 NAICS 2292 NAICS 2293 NAICS 2294 NAICS 2295 NAICS 2296 NAICS 2297 NAICS 2298 NAICS 2299 NAICS 2300 NAICS 2301 NAICS 2302 NAICS 2303 NAICS 2304 NAICS 2305 NAICS 2306 NAICS 2307 NAICS 2308 NAICS 2309 NAICS 2310 NAICS 2311 NAICS 2312 NAICS 2313 NAICS 2314 NAICS 2315 NAICS 2316 NAICS 2317 NAICS 2318 NAICS 2319 NAICS 2320 NAICS 2321 NAICS 2322 NAICS 2323 NAICS 2324 NAICS 2325 NAICS 2326 NAICS 2327 NAICS 2328 NAICS 2329 NAICS 2330 NAICS 2331 NAICS 2332 NAICS 2333 NAICS 2334 NAICS 2335 NAICS 2336 NAICS 2337 NAICS 2338 NAICS 2339 NAICS 2340 NAICS 2341 NAICS 2342 NAICS 2343 NAICS 2344 NAICS 2345 NAICS 2346 NAICS 2347 NAICS 2348 NAICS 2349 NAICS 2350 NAICS 2351 NAICS 2352 NAICS 2353 NAICS 2354 NAICS 2355 NAICS 2356 NAICS 2357 NAICS 2358 NAICS 2359 NAICS 2360 NAICS 2361 NAICS 2362 NAICS 2363 NAICS 2364 NAICS 2365 NAICS 2366 NAICS 2367 NAICS 2368 NAICS 2369 NAICS 2370 NAICS 2371 NAICS 2372 NAICS 2373 NAICS 2374 NAICS 2375 NAICS 2376 NAICS 2377 NAICS 2378 NAICS 2379 NAICS 2380 NAICS 2381 NAICS 2382 NAICS 2383 NAICS 2384 NAICS 2385 NAICS 2386 NAICS 2387 NAICS 2388 NAICS 2389 NAICS 2390 NAICS 2391 NAICS 2392 NAICS 2393 NAICS 2394 NAICS 2395 NAICS 2396 NAICS 2397 NAICS 2398 NAICS 2399 NAICS 2400 NAICS 2401 NAICS 2402 NAICS 2403 NAICS 2404 NAICS 2405 NAICS 2406 NAICS 2407 NAICS 2408 NAICS 2409 NAICS 2410 NAICS 2411 NAICS 2412 NAICS 2413 NAICS 2414 NAICS 2415 NAICS 2416 NAICS 2417 NAICS 2418 NAICS 2419 NAICS 2420 NAICS 2421 NAICS 2422 NAICS 2423 NAICS 2424 NAICS 2425 NAICS 2426 NAICS 2427 NAICS 2428 NAICS 2429 NAICS 2430 NAICS 2431 NAICS 2432 NAICS 2433 NAICS 2434 NAICS 2435 NAICS 2436 NAICS 2437 NAICS 2438 NAICS 2439 NAICS 2440 NAICS 2441 NAICS 2442 NAICS 2443 NAICS 2444 NAICS 2445 NAICS 2446 NAICS 2447 NAICS 2448 NAICS 2449 NAICS 2450 NAICS 2451 NAICS 2452 NAICS 2453 NAICS 2454 NAICS 2455 NAICS 2456 NAICS 2457 NAICS 2458 NAICS 2459 NAICS 2460 NAICS 2461 NAICS 2462 NAICS 2463 NAICS 2464 NAICS 2465 NAICS 2466 NAICS 2467 NAICS 2468 NAICS 2469 NAICS 2470 NAICS 2471 NAICS 2472 NAICS 2473 NAICS 2474 NAICS 2475 NAICS 2476 NAICS 2477 NAICS 2478 NAICS 2479 NAICS 2480 NAICS 2481 NAICS 2482 NAICS 2483 NAICS 2484 NAICS 2485 NAICS 2486 NAICS 2487 NAICS 2488 NAICS 2489 NAICS 2490 NAICS 2491 NAICS 2492 NAICS 2493 NAICS 2494 NAICS 2495 NAICS 2496 NAICS 2497 NAICS 2498 NAICS 2499 NAICS 2500 NAICS 2501 NAICS 2502 NAICS 2503 NAICS 2504 NAICS 2505 NAICS 2506 NAICS 2507 NAICS 2508 NAICS 2509 NAICS 2510 NAICS 2511 NAICS 2512 NAICS 2513 NAICS 2514 NAICS 2515 NAICS 2516 NAICS 2517 NAICS 2518 NAICS 2519 NAICS 2520 NAICS 2521 NAICS 2522 NAICS 2523 NAICS 2524 NAICS 2525 NAICS 2526 NAICS 2527 NAICS 2528 NAICS 2529 NAICS 2530 NAICS 2531 NAICS 2532 NAICS 2533 NAICS 2534 NAICS 2535 NAICS 2536 NAICS 2537 NAICS 2538 NAICS 2539 NAICS 2540 NAICS 2541 NAICS 2542 NAICS 2543 NAICS 2544 NAICS 2545 NAICS 2546 NAICS 2547 NAICS 2548 NAICS 2549 NAICS 2550 NAICS 2551 NAICS 2552 NAICS 2553 NAICS 2554 NAICS 2555 NAICS 2556 NAICS 2557 NAICS 2558 NAICS 2559 NAICS 2560 NAICS 2561 NAICS 2562 NAICS 2563 NAICS 2564 NAICS 2565 NAICS 2566 NAICS 2567 NAICS 2568 NAICS 2569 NAICS 2570 NAICS 2571 NAICS 2572 NAICS 2573 NAICS 2574 NAICS 2575 NAICS 2576 NAICS 2577 NAICS 2578 NAICS 2579 NAICS 2580 NAICS 2581 NAICS 2582 NAICS 2583 NAICS 2584 NAICS 2585 NAICS 2586 NAICS 2587 NAICS 2588 NAICS 2589 NAICS 2590 NAICS 2591 NAICS 2592 NAICS 2593 NAICS 2594 NAICS 2595 NAICS 2596 NAICS 2597 NAICS 2598 NAICS 2599 NAICS 2600 NAICS 2601 NAICS 2602 NAICS 2603 NAICS 2604 NAICS 2605 NAICS 2606 NAICS 2607 NAICS 2608 NAICS 2609 NAICS 2610 NAICS 2611 NAICS 2612 NAICS 2613 NAICS 2614 NAICS 2615 NAICS 2616 NAICS 2617 NAICS 2618 NAICS 2619 NAICS 2620 NAICS 2621 NAICS 2622 NAICS 2623 NAICS 2624 NAICS 2625 NAICS 2626 NAICS 2627 NAICS 2628 NAICS 2629 NAICS 2630 NAICS 2631 NAICS 2632 NAICS 2633 NAICS 2634 NAICS 2635 NAICS 2636 NAICS 2637 NAICS 2638 NAICS 2639 NAICS 2640 NAICS 2641 NAICS 2642 NAICS 2643 NAICS 2644 NAICS 2645 NAICS 2646 NAICS 2647 NAICS 2648 NAICS 2649 NAICS 2650 NAICS 2651 NAICS 2652 NAICS 2653 NAICS 2654 NAICS 2655 NAICS 2656 NAICS 2657 NAICS 2658 NAICS 2659 NAICS 2660 NAICS 2661 NAICS 2662 NAICS 2663 NAICS 2664 NAICS 2665 NAICS 2666 NAICS 2667 NAICS 2668 NAICS 2669 NAICS 2670 NAICS 2671 NAICS 2672 NAICS 2673 NAICS 2674 NAICS 2675 NAICS 2676 NAICS 2677 NAICS 2678 NAICS 2679 NAICS 2680 NAICS 2681 NAICS 2682 NAICS 2683 NAICS 2684 NAICS 2685 NAICS 2686 NAICS 2687 NAICS 2688 NAICS 2689 NAICS 2690 NAICS 2691 NAICS 2692 NAICS 2693 NAICS 2694 NAICS 2695 NAICS 2696 NAICS 2697 NAICS 2698 NAICS 2699 NAICS 2700 NAICS 2701 NAICS 2702 NAICS 2703 NAICS 2704 NAICS 2705 NAICS 2706 NAICS 2707 NAICS 2708 NAICS 2709 NAICS 2710 NAICS 2711 NAICS 2712 NAICS 2713 NAICS 2714 NAICS 2715 NAICS 2716 NAICS 2717 NAICS 2718 NAICS 2719 NAICS 2720 NAICS 2721 NAICS 2722 NAICS 2723 NAICS 2724 NAICS 2725 NAICS 2726 NAICS 2727 NAICS 2728 NAICS 2729 NAICS 2730 NAICS 2731 NAICS 2732 NAICS 2733 NAICS 2734 NAICS 2735 NAICS 2736 NAICS 2737 NAICS 2738 NAICS 2739 NAICS 2740 NAICS 2741 NAICS 2742 NAICS 2743 NAICS 2744 NAICS 2745 NAICS 2746 NAICS 2747 NAICS 2748 NAICS 2749 NAICS 2750 NAICS 2751 NAICS 2752 NAICS 2753 NAICS 2754 NAICS 2755 NAICS 2756 NAICS 2757 NAICS 2758 NAICS 2759 NAICS 2760 NAICS 2761 NAICS 2762 NAICS 2763 NAICS 2764 NAICS 2765 NAICS 2766 NAICS 2767 NAICS 2768 NAICS 2769 NAICS 2770 NAICS 2771 NAICS 2772 NAICS 2773 NAICS 2774 NAICS 2775 NAICS 2776 NAICS 2777 NAICS 2778 NAICS 2779 NAICS 2780 NAICS 2781 NAICS 2782 NAICS 2783 NAICS 2784 NAICS 2785 NAICS 2786 NAICS 2787 NAICS 2788 NAICS 2789 NAICS 2790 NAICS 2791 NAICS 2792 NAICS 2793 NAICS 2794 NAICS 2795 NAICS 2796 NAICS 2797 NAICS 2798 NAICS 2799 NAICS 2800 NAICS 2801 NAICS 2802 NAICS 2803 NAICS 2804 NAICS 2805 NAICS 2806 NAICS 2807 NAICS 2808 NAICS 2809 NAICS 2810 NAICS 2811 NAICS 2812 NAICS 2813 NAICS 2814 NAICS 2815 NAICS 2816 NAICS 2817 NAICS 2818 NAICS 2819 NAICS 2820 NAICS 2821 NAICS 2822 NAICS 2823 NAICS 2824 NAICS 2825 NAICS 2826 NAICS 2827 NAICS 2828 NAICS 2829 NAICS 2830 NAICS 2831 NAICS 2832 NAICS 2833 NAICS 2834 NAICS 2835 NAICS 2836 NAICS 2837 NAICS 2838 NAICS 2839 NAICS 2840 NAICS 2841 NAICS 2842 NAICS 2843 NAICS 2844 NAICS 2845 NAICS 2846 NAICS 2847 NAICS 2848 NAICS 2849 NAICS 2850 NAICS 2851 NAICS 2852 NAICS 2853 NAICS 2854 NAICS 2855 NAICS 2856 NAICS 2857 NAICS 2858 NAICS 2859 NAICS 2860 NAICS 2861 NAICS 2862 NAICS 2863 NAICS 2864 NAICS 2865 NAICS 2866 NAICS 2867 NAICS 2868 NAICS 2869 NAICS 2870 NAICS 2871 NAICS 2872 NAICS 2873 NAICS 2874 NAICS 2875 NAICS 2876 NAICS 2877 NAICS 2878 NAICS 2879 NAICS 2880 NAICS 2881 NAICS 2882 NAICS 2883 NAICS 2884 NAICS 2885 NAICS 2886 NAICS 2887 NAICS 2888 NAICS 2889 NAICS 2890 NAICS 2891 NAICS 2892 NAICS 2893 NAICS 2894 NAICS 2895 NAICS 2896 NAICS 2897 NAICS 2898 NAICS 2899 NAICS 2900 NAICS 2901 NAICS 2902 NAICS 2903 NAICS 2904 NAICS 2905 NAICS 2906 NAICS 2907 NAICS 2908 NAICS 2909 NAICS 2910 NAICS 2911 NAICS 2912 NAICS 2913 NAICS 2914 NAICS 2915 NAICS 2916 NAICS 2917 NAICS 2918 NAICS 2919 NAICS 2920 NAICS 2921 NAICS 2922 NAICS 2923 NAICS 2924 NAICS 2925 NAICS 2926 NAICS 2927 NAICS 2928 NAICS 2929 NAICS 2930 NAICS 2931 NAICS 2932 NAICS 2933 NAICS 2934 NAICS 2935 NAICS 2936 NAICS 2937 NAICS 2938 NAICS 2939 NAICS 2940 NAICS 2941 NAICS 2942 NAICS 2943 NAICS 2944 NAICS 2945 NAICS 2946 NAICS 2947 NAICS 2948 NAICS 2949 NAICS 2950 NAICS 2951 NAICS 2952 NAICS 2953 NAICS 2954 NAICS 2955 NAICS 2956 NAICS 2957 NAICS 2958 NAICS 2959 NAICS 2960 NAICS 2961 NAICS 2962 NAICS 2963 NAICS 2964 NAICS 2965 NAICS 2966 NAICS 2967 NAICS 2968 NAICS 2969 NAICS 2970 NAICS 2971 NAICS 2972 NAICS 2973 NAICS 2974 NAICS 2975 NAICS 2976 NAICS 2977 NAICS 2978 NAICS 2979 NAICS 2980 NAICS 2981 NAICS 2982 NAICS 2983 NAICS 2984 NAICS 2985 NAICS 2986 NAICS 2987 NAICS 2988 NAICS 2989 NAICS 2990 NAICS 2991 NAICS 2992 NAICS 2993 NAICS 2994 NAICS 2995 NAICS 2996 NAICS 2997 NAICS 2998 NAICS 2999 NAICS 3000 NAICS 3001 NAICS 3002 NAICS 3003 NAICS 3004 NAICS 3005 NAICS 3006 NAICS 3007 NAICS 3008 NAICS 3009 NAICS 3010 NAICS 3011 NAICS 3012 NAICS 3013 NAICS 3014 NAICS 3015 NAICS 3016 NAICS 3017 NAICS 3018 NAICS 3019 NAICS 3020 NAICS 3021 NAICS 3022 NAICS 3023 NAICS 3024 NAICS 3025 NAICS 3026 NAICS 3027 NAICS 3028 NAICS 3029 NAICS 3030 NAICS 3031 NAICS 3032 NAICS 3033 NAICS 3034 NAICS 3035 NAICS 3036 NAICS 3037 NAICS 3038 NAICS 3039 NAICS 3040 NAICS 3041 NAICS 3042 NAICS 3043 NAICS 3044 NAICS 3045 NAICS 3046 NAICS 3047 NAICS 3048 NAICS 3049 NAICS 3050 NAICS 3051 NAICS 3052 NAICS 3053 NAICS 3054 NAICS 3055 NAICS 3056 NAICS 3057 NAICS 3058 NAICS 3059 NAICS 3060 NAICS 3061 NAICS 3062 NAICS 3063 NAICS 3064 NAICS 3065 NAICS 3066 NAICS 3067 NAICS 3068 NAICS 3069 NAICS 3070 NAICS 3071 NAICS 3072 NAICS 3073 NAICS 3074 NAICS 3075 NAICS 3076 NAICS 3077 NAICS 3078 NAICS 3079 NAICS 3080 NAICS 3081 NAICS 3082 NAICS 3083 NAICS 3084 NAICS 3085 NAICS 3086 NAICS 3087 NAICS 3088 NAICS 3089 NAICS 3090 NAICS 3091 NAICS 3092 NAICS 3093 NAICS 3094 NAICS 3095 NAICS 3096 NAICS 3097 NAICS 3098 NAICS 3099 NAICS 3100 NAICS 3101 NAICS 3102 NAICS 3103 NAICS 3104 NAICS 3105 NAICS 3106 NAICS 3107 NAICS 3108 NAICS 3109 NAICS 3110 NAICS 3111 NAICS 3112 NAICS 3113 NAICS 3114 NAICS 3115 NAICS 3116 NAICS 3117 NAICS 3118 NAICS 3119 NAICS 3120 NAICS 3121 NAICS 3122 NAICS 3123 NAICS 3124 NAICS 3125 NAICS 3126 NAICS 3127 NAICS 3128 NAICS 3129 NAICS 3130 NAICS 3131 NAICS 3132 NAICS 3133 NAICS 3134 NAICS 3135 NAICS 3136 NAICS 3137 NAICS 3138 NAICS 3139 NAICS 3140 NAICS 3141 NAICS 3142 NAICS 3143 NAICS 3144 NAICS 3145 NAICS 3146 NAICS 3147 NAICS 3148 NAICS 3149 NAICS 3150 NAICS 3151 NAICS 3152 NAICS 3153 NAICS 3154 NAICS 3155 NAICS 3156 NAICS 3157 NAICS 3158 NAICS 3159 NAICS 3160 NAICS 3161 NAICS 3162 NAICS 3163 NAICS 3164 NAICS 3165 NAICS 3166 NAICS 3167 NAICS 3168 NAICS 3169 NAICS 3170 NAICS 3171 NAICS 3172 NAICS 3173 NAICS 3174 NAICS 3175 NAICS 3176 NAICS 3177 NAICS 3178 NAICS 3179 NAICS 3180 NAICS 3181 NAICS 3182 NAICS 3183 NAICS 3184 NAICS 3185 NAICS 3186 NAICS 3187 NAICS 3188 NAICS 3189 NAICS 3190 NAICS 3191 NAICS 3192 NAICS 3193 NAICS 3194 NAICS 3195 NAICS 3196 NAICS 3197 NAICS 3198 NAICS 3199 NAICS 3200 NAICS 3201 NAICS 3202 NAICS 3203 NAICS 3204 NAICS 3205 NAICS 3206 NAICS 3207 NAICS 3208 NAICS 3209 NAICS 3210 NAICS 3211 NAICS 3212 NAICS 3213 NAICS 3214 NAICS 3215 NAICS 3216 NAICS 3217 NAICS 3218 NAICS 3219 NAICS 3220 NAICS 3221 NAICS 3222 NAICS 3223 NAICS 3224 NAICS 3225 NAICS 3226 NAICS 3227 NAICS 3228 NAICS 3229 NAICS 3230 NAICS 3231 NAICS 3232 NAICS 3233 NAICS 3234 NAICS 3235 NAICS 3236 NAICS 3237 NAICS 3238 NAICS 3239 NAICS 3240 NAICS 3241 NAICS 3242 NAICS 3243 NAICS 3244 NAICS 3245 NAICS 3246 NAICS 3247 NAICS 3248 NAICS 3249 NAICS 3250 NAICS 3251 NAICS 3252 NAICS 3253 NAICS 3254 NAICS 3255 NAICS 3256 NAICS 3257 NAICS 3258 NAICS 3259 NAICS 3260 NAICS 3261 NAICS 3262 NAICS 3263 NAICS 3264 NAICS 3265 NAICS 3266 NAICS 3267 NAICS 3268 NAICS 3269 NAICS 3270 NAICS 3271 NAICS 3272 NAICS 3273 NAICS 3274 NAICS 3275 NAICS 3276 NAICS 3277 NAICS 3278 NAICS 3279 NAICS 3280 NAICS 3281 NAICS 3282 NAICS 3283 NAICS 3284 NAICS 3285 NAICS 3286 NAICS 3287 NAICS 3288 NAICS 3289 NAICS 3290 NAICS 3291 NAICS 3292 NAICS 3293 NAICS 3294 NAICS 3295 NAICS 3296 NAICS 3297 NAICS 3298 NAICS 3299 NAICS 3300</td><td colspan="3">NAICS-UNCLASSIFIED PROTECS</td></tr><tr><td>YAS T</td><td>BAS LAR</td><td>EXL</td><td>NAIC N°</td><td>TOTAL MARKS</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td>N/A</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>Successor</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>Successor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>Erkek</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>IRK</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERK</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR
-IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR
-IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR
-IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR
-IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMPLOR
-IMPLOR</td><td>ERX</td><td>SuccessOR</td><td>SuccessOR</td><td></td><td></td><td></td><td></td><td></td></tr></table>
-
-<table><tr><td rowspan="2">IMPLANT SAYISI</td><td colspan="2">CINSEYE YAS T</td><td colspan="2">PROTEZ TEKNIK</td><td colspan="2">BAŞARI MARKA SPSS</td><td>BAŞARI KOD</td></tr><tr><td>58</td><td>Kadin</td><td colspan="2">Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>2</td><td>61</td><td>Kadin</td><td colspan="2">Intra Sinus Fixed</td><td colspan="2">Impliance 1</td><td>I</td></tr><tr><td>2</td><td>61</td><td>Kadin</td><td colspan="2">Success I Intra Sinus Fixed</td><td colspan="2">Impliance 1</td><td>I</td></tr><tr><td>4</td><td>35</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td>4</td><td>35</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td>4</td><td>35</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 3</td><td>III</td></tr><tr><td>4</td><td>35</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>37</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>37</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>37</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>37</td><td>Kadin</td><td colspan="2">Success I Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>2</td><td>43</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Hybrid</td><td colspan="2">Impliance 1</td><td>I</td></tr><tr><td>2</td><td>43</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Hybrid</td><td colspan="2">Impliance 1</td><td>I</td></tr><tr><td>2</td><td>53</td><td>Kadin</td><td colspan="2">Failure Intra Sinus Fixed</td><td colspan="2">Impliance 5</td><td>V</td></tr><tr><td>2</td><td>53</td><td>Kadin</td><td colspan="2">Failure Intra Sinus Fixed</td><td colspan="2">Impliance 5</td><td>V</td></tr><tr><td>2</td><td>54</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>2</td><td>54</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>29</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>29</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>29</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>29</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel BiOCARE 1</td><td>I</td></tr><tr><td>2</td><td>23</td><td>Erkek</td><td colspan="2">Failure Intra Sinus Fixed</td><td colspan="2">Southern 5</td><td>V</td></tr><tr><td>2</td><td>23</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Southern 3</td><td>III</td></tr><tr><td>2</td><td>49</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td>2</td><td>49</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td>4</td><td>47</td><td>Kadin</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>47</td><td>Kadin</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>47</td><td>Kadin</td><td colspan="2">Success I Intra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td rowspan="2">IMPLANT SAYISI</td><td colspan="2" rowspan="2">CINSIYE YAŞ T</td><td colspan="2" rowspan="2">PROTEZ BAŞARI TEKNİK SEKLİ MARKA SPSS</td><td colspan="3" rowspan="2">BAŞARI KOD</td></tr><tr></tr><tr><td>4</td><td colspan="2">47</td><td colspan="2">Kadin</td><td>Success II Intra Sinus Fixed</td><td>Southern</td><td>2</td></tr><tr><td>4</td><td colspan="2">61</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">61</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">61</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">61</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">55</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Impliance</td><td>1</td></tr><tr><td>4</td><td colspan="2">55</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Impliance</td><td>1</td></tr><tr><td>4</td><td colspan="2">55</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Impliance</td><td>1</td></tr><tr><td>4</td><td colspan="2">55</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Impliance</td><td>1</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Extra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Extra Sinus Hybrid</td><td>Impliance</td><td>2</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Extra Sinus Hybrid</td><td>Impliance</td><td>3</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Extra Sinus Hybrid</td><td>Impliance</td><td>3</td></tr><tr><td>2</td><td colspan="2">55</td><td colspan="2">Kadin</td><td>Success I Extra Sinus Fixed</td><td>Impliance</td><td>1</td></tr><tr><td>2</td><td colspan="2">55</td><td colspan="2">Kadin</td><td>Success I Extra Sinus Fixed</td><td>Impliance</td><td>1</td></tr><tr><td>4</td><td colspan="2">58</td><td colspan="2">Erkek</td><td>Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td></tr><tr><td>4</td><td colspan="2">58</td><td colspan="2">Erkek</td><td>Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td></tr><tr><td>4</td><td colspan="2">58</td><td colspan="2">Erkek</td><td>Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td></tr><tr><td>4</td><td colspan="2">58</td><td colspan="2">Erkek</td><td>Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td></tr><tr><td>4</td><td colspan="2">60</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Nobel Biocare 1</td><td></td></tr><tr><td>4</td><td colspan="2">60</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Nobel Biocare 1</td><td></td></tr><tr><td>4</td><td colspan="2">60</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Nobel Biocare 1</td><td></td></tr><tr><td>4</td><td colspan="2">60</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Hybrid</td><td>Nobel Biocare 2</td><td></td></tr><tr><td>2</td><td colspan="2">62</td><td colspan="2">Erkek</td><td>Success II Sinus Slot Fixed</td><td>Impliance</td><td>2</td></tr><tr><td>2</td><td colspan="2">62</td><td colspan="2">Erkek</td><td>Success I Sinus Slot Fixed</td><td>Impliance</td><td>1</td></tr><tr><td>2</td><td colspan="2">59</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Fixed</td><td>Nobel Biocare 2</td><td>II</td></tr><tr><td>2</td><td colspan="2">60</td><td colspan="2">Erkek</td><td>Success II Intra Sinus Fixed</td><td>Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td colspan="2">48</td><td colspan="2">Kadin</td><td>Success II Intra Sinus Fixed</td><td>Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td colspan="2">48</td><td colspan="2">Kadin</td><td>Success II Intra Sinus Fixed</td><td>Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td colspan="2">48</td><td colspan="2">Kadin</td><td>Success I Intra Sinus Fixed</td><td>Nobel Biocare 1</td><td>1</td></tr><tr><td>4</td><td colspan="2">48</td><td colspan="2">Kadin</td><td>Success II Intra Sinus Fixed</td><td>Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success I Sinus Slot Fixed</td><td>Southern</td><td>1</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Sinus Slot Fixed</td><td>Southern</td><td>2</td></tr><tr><td>4</td><td colspan="2">62</td><td colspan="2">Kadin</td><td>Success II Sinus Slot Fixed</td><td>Southern</td><td>2</td></tr><tr><td>IMPLANT SAYISI</td><td colspan="2">CINSIYE YAŞ T</td><td colspan="2">PROTEZ TEKNİK</td><td>MARKA SEKLİ</td><td>BAŞARI SPSS</td><td>BAŞARI KOD</td></tr><tr><td>4</td><td>62</td><td>Kadın</td><td>Success II Sinus Slot</td><td>Fixed</td><td>Southern</td><td>2</td><td>II</td></tr><tr><td>4</td><td>62</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadın</td><td>Success II Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Kadın</td><td>Success I Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadın</td><td>Success II Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Kadın</td><td>Success I Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>2</td><td>67</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>2</td><td>67</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>61</td><td>Erkek</td><td>Success I Sinus Slot</td><td>Fixed</td><td>Impliance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>61</td><td>Erkek</td><td>Success I Sinus Slot</td><td>Fixed</td><td>Impliance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>61</td><td>Erkek</td><td>Success I Sinus Slot</td><td>Fixed</td><td>Impliance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>61</td><td>Erkek</td><td>Success II Sinus Slot</td><td>Fixed</td><td>Impliance</td><td>2</td><td>II</td></tr><tr><td>2</td><td>53</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>2</td><td>53</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>2</td><td>66</td><td>Kadın</td><td>Success I Sinus Slot</td><td>Hybrid</td><td>Impliance</td><td>1</td><td>I</td></tr><tr><td>2</td><td>66</td><td>Kadın</td><td>Success I Sinus Slot</td><td>Hybrid</td><td>Impliance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>64</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>64</td><td>Kadın</td><td colspan="2">Success II Extra Sinus Fixed</td><td>southern</td><td>2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Kadın</td><td colspan="2">Success II Extra Sinus Fixed</td><td>southern</td><td>2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Kadın</td><td colspan="2">Success I Extra Sinus Fixed</td><td>southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>58</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>58</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>58</td><td>Erkek</td><td>Failure</td><td>Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 5</td><td>V</td></tr><tr><td>4</td><td>58</td><td>Erkek</td><td>Failure</td><td>Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 5</td><td>V</td></tr><tr><td>4</td><td>59</td><td>Erkek</td><td>Success II Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Erkek</td><td>Success II Sinus Slot</td><td>Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Erkek</td><td>Survive</td><td>Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 4</td><td>IV</td></tr><tr><td>IMPLANT SAYISI</td><td colspan="2">CINSIYE YAŞ T</td><td colspan="2">PROTEZ TEKNİK ŞEKLI</td><td colspan="2">BAŞARI MARKA SPSS</td><td>BAŞARI KOD</td></tr><tr><td>4</td><td>59</td><td>Erkek</td><td>Survive</td><td>Sinus Slot Fixed</td><td colspan="2">Nobel Biocare 4</td><td>IV</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>62</td><td>Erkek</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>63</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>63</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>63</td><td>Kadin</td><td>Survive</td><td>Sinus Slot Hybrid</td><td colspan="2">Southern 4</td><td>IV</td></tr><tr><td>4</td><td>63</td><td>Kadin</td><td>Survive</td><td>Sinus Slot Hybrid</td><td colspan="2">Southern 4</td><td>IV</td></tr><tr><td>4</td><td>48</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>48</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>48</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 2</td><td>II</td></tr><tr><td>4</td><td>48</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td colspan="2">Southern 1</td><td>I</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>55</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Nobel Biocare 3</td><td>III</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>65</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>65</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>65</td><td>Erkek</td><td colspan="2">Success I Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 1</td><td>I</td></tr><tr><td>4</td><td>65</td><td>Erkek</td><td colspan="2">Success I Intra Sinus Fixed</td><td colspan="2">Nobel Biocare 2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Erkek</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Impliance 2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Erkek</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Impliance 2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Erkek</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Impliance 3</td><td>III</td></tr><tr><td>4</td><td>64</td><td>Erkek</td><td colspan="2">Success II Sinus Slot Fixed</td><td colspan="2">Impliance 3</td><td>III</td></tr><tr><td>4</td><td>64</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Impliance 2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Impliance 2</td><td>II</td></tr><tr><td>4</td><td>64</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Impliance 3</td><td>III</td></tr><tr><td>4</td><td>64</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td colspan="2">Impliance 3</td><td>III</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success II Extra Sinus Fixed</td><td colspan="2">Southern 3</td><td>III</td></tr><tr><td rowspan="2">İMPLANT SAYISI</td><td colspan="2" rowspan="2">CİNSİYE YAS T</td><td colspan="3">PROTEZ</td><td rowspan="2">BAŞARI SPSS</td><td rowspan="2">BAŞARI KOD</td></tr><tr><td>BAŞARI TEKNİK</td><td>SEKLİ</td><td colspan="1">MARKA</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success III Extra Sinus Fixed</td><td>Southern</td><td>3</td><td>III</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>58</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Fixed</td><td>Southern</td><td>1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>59</td><td>Kadin</td><td colspan="2">Success I Extra Sinus Hybrid</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>62</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td>Implance</td><td>2</td><td>II</td></tr><tr><td>4</td><td>62</td><td>Kadin</td><td colspan="2">Success III Sinus Slot Hybrid</td><td>Implance</td><td>3</td><td>III</td></tr><tr><td>4</td><td>62</td><td>Kadin</td><td colspan="2">Success III Sinus Slot Hybrid</td><td>Implance</td><td>3</td><td>III</td></tr><tr><td>4</td><td>62</td><td>Kadin</td><td colspan="2">Success II Sinus Slot Hybrid</td><td>Implance</td><td>2</td><td>II</td></tr><tr><td>4</td><td>63</td><td>Erkek</td><td colspan="2">Success I Intra Sinus Fixed</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>63</td><td>Erkek</td><td colspan="2">Success I Intra Sinus Fixed</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>63</td><td>Erkek</td><td colspan="2">Success II Intra Sinus Fixed</td><td>Implance</td><td>2</td><td>II</td></tr><tr><td>4</td><td>63</td><td>Erkek</td><td colspan="2">Success III Intra Sinus Fixed</td><td>Implance</td><td>3</td><td>III</td></tr><tr><td>4</td><td>48</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Fixed</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>48</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Fixed</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>48</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Fixed</td><td>Implance</td><td>1</td><td>I</td></tr><tr><td>4</td><td>48</td><td>Erkek</td><td colspan="2">Success I Sinus Slot Fixed</td><td>Implance</td><td>1</td><td>I</td></tr></table>
-
-# ETIK KURUL KARARI
-
-T.C.
-
-ISTANBULVALILIIGI
-
-IL SAGLIK MODORLUGO
-
-Istanbul Prof. Dr. Cemil Tascioglu Sehir Hastanesi
-
-Say1 48670771-514.10
-
-Konu: Etik Kurul
-
-Sayin Dt. MERT AKBAS
-
-Okmeydan Agiz ve Di Saqih Hastanesi
-
-Kliniginizde yuritmeyi planladigmiz 'Farkli Teknikler ile Uygulanan Zigomatik Implantarin Bajarsinir Retrospektif Olarak Incelenmesi isimi calismaniz Istanbul Prof. Dr. Cemil Tascioglu Sehir Hastanesi Klinik Arasirmalar Etik Kurulu'unn 29/12/2020 tarihloptoplansinda incelenmis olup 481 sayil karara glre etik acidan uygun bulunmustur.
-
-Geregini bilgilerinize rica cederim.
-
-e-mzaldir
-
-Ali Cao, TEKIN
-
-Dog Doktor
-
-Ek:Karan evraki (3 sayfa)
-
-Omydian EAH
-
-Teefno:0212221777Fa#No
-
-Euaa mnnnncnnsuolssaghov.tr intnernt Aresi www.ohmertdicalcagrik.gov.cn
-
-
-Bugien Meryem Cana OLT
-
-Her.
-
-Telefon No:0212)221777
-
-# INTIHAL RAPORU ILK SAYFASI
-
-# FARKLI TEKNIKLER ILE UYGULANAN ZIGOMATIK
-
-# IMPLANTLARIN BASARISININ RETROSPEKTIF OLARAK
-
-# INCELENMESI
-
-ORJINALLIK RAPORU
-
-7
-
-BENZERLIK ENDEKSI
-
-7
-
-INTERNET KAYNAKLARI
-
-3
-
-YAYINLAR
-
-2
-
-ÖGRENCİ ODEVLERİ
-
-BIRINCIL KAYNAKLAR
-
-acikbilim.yok.gov.tr 3
-www.openaccess.hacettepe.edu.tr:8080 1
-nek.istanbul.edu.tr:4444 %1 Internet Kaynagi acikerisim.dicle.edu.tr <%1 Internet Kaynagi hdl.handle.net <%1 Internet Kayna www.yumpu.com <%1 Internet Kayna
-www.jetr.org.tr <%1 Internet Kayna docplayer.biz.tr <%1 Internet Kaynagi
-
-# ÖZGEÇMİS
-
-Kisisel Bilgiler
-
-<table><tr><td>Adı</td><td>Mert</td><td>Soyadı</td><td>Akbaş</td></tr><tr><td>Dog.Yeri</td><td></td><td>Dog.Tar.</td><td></td></tr><tr><td>Email</td><td>dtmertakbas@gmail.com</td><td>Uyruğu</td><td>Türk</td></tr></table>
-
-Egitm Duzeyi
-
-<table><tr><td></td><td>Mezun Oldugu Kurumun Adı</td><td>Mez. Yih</td></tr><tr><td>Doktora</td><td>İstanbul Üniversitesi A®, Öz Diş ve Çene Cerrahisi Ana Bilim Dalı</td><td>2024</td></tr><tr><td>Yük.Lis.</td><td>Bezmialem Üniversitesi Sa®,linik Bilimleri Enstitü®, Oral Implantoloji</td><td>2015</td></tr><tr><td>Lisans</td><td>Marmara Üniversitesi Diş Hekim®, Fakultesi</td><td>2012</td></tr><tr><td>Lise</td><td>Seyhan Ç.E.A., Ş. Anadolu Lisesi</td><td>2005</td></tr></table>
-
-I§ Deneyimi (Sondan geleçmîsedoğan siralayin)
-
-<table><tr><td></td><td>Görevi</td><td>Kurum</td><td>Süre (Yılı - Yılı)</td></tr><tr><td colspan="2">1. Doktora Öğrencisi</td><td>İstanbul Üniktesi APLICATION Diş ve Çene Cerrahisi Anabilim Dalı</td><td>2018-2024</td></tr><tr><td colspan="2">2. Yüksek Lisans Öğrencisi</td><td>Bezmialem Üniktesi Oral Implantoloji B Ölümü</td><td>2013-2015</td></tr><tr><td colspan="2">3. Öğretim Görevlisi</td><td>Nişantaşi Üniktesi Meslek Yüksek Okulu</td><td>2013-2022</td></tr></table>
-
-<table><tr><td>Yabancı
-Dilleri</td><td>Okuduğunu
-Anlama*</td><td>Konusma*</td><td>Yazma*</td><td>KPDS/ÜDS
-Puanı</td><td>(Diğer)
-Puanı</td></tr><tr><td>İngilizce</td><td>İyi</td><td>İyi</td><td>İyi</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
-
-<table><tr><td></td><td>Sayısal</td><td>Eşit APLICATION</td><td>Sözel</td></tr><tr><td>LES Puanı</td><td></td><td></td><td></td></tr><tr><td>(Diğer) Puanı</td><td></td><td></td><td></td></tr></table>
-
-Bilgisayar Bilgisi
-
-<table><tr><td>Program</td><td>Kullanma becerisi</td></tr><tr><td>Word</td><td>İyi</td></tr><tr><td>Powerpoint</td><td>İyi</td></tr><tr><td>Excell</td><td>İyi</td></tr></table>
-
-# YAYINLARI/TEBLIGLERI
-
-# 1. Uluslararası hakemli dergilerde:yayınlanan makaleler (SCI & SSCI & Arts and Humanities)
-
-# 1.1. Retrospective Analysis of Zygomatic Implants for Maxillary Prosthetic Rehabilitation
-
-Yalcin M., Can S., Akbas M., Dergin G., Garip H., Aydil B. A., Varol A.
-International Journal of Oral & Maxillofacial Implants, cilt.35, ss.750-756, 2020
-DOI:10.11607/jomi.8196
-
-# 1.2. Retrospective examination of complications observed in orthognathic surgical surgery in 85 patients
-
-Baris Altug Aydil<sup>1</sup>, Mert Akbas<sup>2</sup>, Mustafa Ayhan<sup>1</sup>, Onur Atalı<sup>3</sup>, Serhat Can<sup>4</sup>, Yaqmur Çömlekçioğlu<sup>1</sup> 2022; 28(5): 698-702 | DOI: 10.14744/tjtes.2022.67863 Turkish Journal of Trauma and Emergency Surgery
-
-# 1.3. Ectopic Tooth in Mandibular Canal, Maxillary Sinus, and Mandibular Condyle
-
-Mert Akbas, $^{1}$  Zülfikar Karabíyík, $^{2}$  and Altan Varol $^{3}$  Case Report in Dentistry Volume 2022 |Article ID 3118998 | https://doi.org/10.1155/2022/3118998
-
-# 1.4. A New Tooth Description: Aybuke Tooth
-
-Mert Akbas and Zulfikar Karabiyik, Medicon Dental Sciences Volume 1 Issue 3 April 2022
-
-DOI: 10.55162/MCDS.01.016
-
-1.5. Diagnosis and Treatment of Oral Capillary Hemangioma:A Case Report Year 2023, Volume: 16 Issue: 1, 90 - 93, 30.04.2023 Mert AKBAŞ Emre HAYLAZ Zülfikar KARABIYIK Gediz GEDUK https://doi.org/10.52976/vansaglik.1158839
-
-1.6. Spontaneous Healing of Mandibular Fracture after Molar Extraction in a Patient with Undiagnosed Osteogenesis Imperfecta: Case Report and Clinical Considerations ,ACTA SCIENTIFIC DENTAL SCIENCES (ASDS,)Volume 7, Issue 11 ,DOI :ASDS-23-CR-221 2023 ,Mert AKBAS Zülfikar Karabıyık , Juan Francisco Pena Caredelles
-
-# 2. Uluslararası bilimsel toplantilarda sunulan ve bildir kitabinda (Proceedings) basilan bildiriler
-
-2.1. Akbas Mert, Varol Altan; Rehabilitation of Severely Atrophic Maxilla Quad Zygoma Option: Case Report OP-04; Turkish Society of Oral Implantology_XXX.International Scientific Congress Oral Presentation page 52; TOID 2019
-
-2.2. Akbas Mert, Aydil Baris, ,Varol Altan, Dergin Gühan, Garip Hasan Yalcın Mustafa; Retrospective Analysis of 107 Zygomatic Implants for Maxillary Prosthetic Rehabilitation ; Agüz ve Çene-Yüz Cerrahisi Birlügi Derneği 13.International Congress Oral Presentation OP-062 page 90 ; AÇBİD 2019
-2.3. Akbas Mert, Yalçın Mustafa, Varol Altan, Aydin Barı Mandibula Kondil Bölgesindeki Ektopik Molar Disin Alnması: Ağüz İci Yaklaşın Oral Presentation S-457 page 261;25. TDA-TDI International Dental Congress TDB 2019
-2.4. Akbas Mert, Aydil Baris ,Varol Altan Using Zygomatic Implants Instead of Bone Augmentation for Rehabilitation of Severely Atrophic Maxilla: Case Report Oral Presentation; Journal of Meffert Implant Institute Vol 3,Issue 1, page 13-14,2019
-2.5. Akbas Mert, Varol Altan Prosthetic Rehabilitation of Severely Atrophic Jaws Quad Zygoma and Nerve Laterilization :Case Report ;Turkish Society of Oral Implantology XXXI.International Scientific Congress Oral Presentation OP-12 page 60 ;TOID 2020
-2.6. Akbas Mert, Dervis Fian, Tanyeri Hakki; Ulcerative Capillary Hemangioma in Oral Cavity: Case Report PS-139 Poster Presentation International Oral Cancer Congress
-2.7. Akbas Mert,Çömlekçioglu Yaqmur, Aydil Barı Altug; Antral Ektopik Dis: Olgu Sunumu (Yeni Dis Tanı) EP-04 Poster_Presentation 20 March Oral Health Semposium 2021 E-Semposium
-2.8. Emre Haylaz, Gediz Gedik, Mert Akbas Mandibulada Nadir Gürülen Dis Çekimi Komplikasyonu ve Tedavisi:2 Olgu Sunumu
-Necmettin Erbakan Üniversitesi Uluslararası Dishekimligi Kongresi 1. Baskı. Ankara: Türkiye Klinikleri; 2022. p.351-4.
-2.9. Akbas Mert, Barı Sahin; Comparison of Orthognatic Surgical Splints Produced in Differentet Flame and Resin 3D Printers: A Pilot Study Poster Presentation; ACBID 15th.International Congress-2022
-2.10. Akbas Mert, Varol Altan ;Reformation of Temporomandibular Joint After Total Alloplastik Temporomandibular Joint Prosthesis: A Rare Case Poster Presentation;ACBID 15th.International Congress-2022
-2.11. Akbas Mert, Ilhan Damla ;Simultaneous External Sinus Lifting and Implantation to the Patient Who Was Operated With Caldwell Luc Surgery Poster Presentation;ACBID 16th.International Congress-2023
-
-# 3.Yazilan uluslararası kitaplar veya kitaplarda böümler
-
-3.1.Akbas Mert,Özgon Arda,Demiral Umutcan,Yaqüz Abdullah,Aydil Barı Altuğ Dishekimligi Açınindan Covid-19 Sekelleri Covid Sekeller Kitabı 22.Boluş Syf 179-184 ISBN 978-625-7354-20-2 2021
-
-# 4.Verilen Kurs ve Seminarler
-
-4.1. TDB Türk Dishekimleri Birlügi Bilimsel Kongresi Ölplantolojide Komplikasyon ve Yönetimi (Seminer) 11.2022 Şanlıurfa
-4.2. Genç Dishekimleri Dernegi Kongresi -Temel Düzey Implantoloji Kursu 11.2021 Antalya
-4.3. Radix Implant - Temel Düzey Implantoloji Kursu 02.2023 Van
-4.4. Venüs Implant Symposium - Dental Ümplantolojide Komplikasyonlar (Seminar) 11.2023 Kürbris
+<a id="markdown-sonuc" name="sonuc"></a>
+
+1. Çalışmamızda 3 farklı teknik ile uygulanan zigomatik implantlarda (intrasinüs, sinüs- slot, ekstrasinüs) başarı, sağ kalım oranı, başarısızlık açısından istatistiksel olarak anlamlı bir fark olmadığı sonucuna ulaşılmıştır. Başarı oranı en yüksek teknik Sinüs-Slot tekniği iken başarı oranı en düşük teknik Ekstrasinüs tekniği olduğu sonucuna ulaşılmıştır.
+2. Çalışmamızda, hibrit yada sabit protetik restorasyonlar ile tedavi edilen zigomatik implantların başarısı ile uygulanan bu iki protetik tedavi arasında istatistiksel olarak anlamlı bir fark bulunmadı.
+3. Çalışmamızda zigomatik implantların başarısı, uygulanan implantların markasına göre değerlendirildiğinde (nobel biocare, southern, implance) zigomatik implant başarısının uygulan implantın markasına bağlı olmadığı sonucuna ulaşıldı.
+4. Çalışmamızda, hastaların cinsiyetleri ile zigomatik implantların başarısı arasında anlamlı bir ilişki bulunmadı.
+5. Çalışmamızda, hastaların yaşları ile zigomatik implantların başarısı arasında anlamlı bir ilişki bulunmadı.
+6. Elde edilen veriler ışığında, çalışmamızda Sinüs- slot tekniğinin, zigomatik implantın maksillada daha fazla kortikal kemik temasının olması sebebi ile daha başarılı olduğunu düşünmekteyiz. Çalışmamız zigomatik implant uygulamalarında kullanılan tekniklerin birbiri arasındaki başarısını kıyaslayan ilk çalışmadır. Bu nedenle elde ettiğimiz sonuçların, zigomatik implantların klinik başarısına katkı sağlayacağı düşüncesindeyiz.Ancak bu konuda sayısal olarak daha fazla zigomatik implant uygulaması dahil edilen klinik değerlendirilmelerin yapıldığı çalışmalara ihtiyaç vardır.
+
+# 7. KAYNAKLAR
+<a id="markdown-kaynaklar" name="kaynaklar"></a>
+
+1. Balshi, T. J., Wolfinger, G. J., Shuscavage, N. J. & Balshi, S. F. Zygomatic bone- to-implant contact in 77 patients with partially or completely edentulous maxillas. _J. Oral Maxillofac. Surg._ 70, 2065–2069 (2012).
+2. Ferrara, E. D. & Stella, J. P. Restoration of the edentulous maxilla: The case for the zygomatic implants. _J. Oral Maxillofac. Surg._ 62, 1418–1422 (2004).
+3. Aparicio, C. _et al._ A prospective clinical study on titanium implants in the zygomatic arch for prosthetic rehabilitation of the atrophic edentulous maxilla with a follow-up of 6 months to 5 years. _Clin. Implant Dent. Relat. Res._ 8, 114–122 (2006).
+4. Grecchi, F. _et al._ A new surgical and technical approach in zygomatic implantology. _ORAL Implantol._ 10, 197–208 (2017).
+5. Aparicio, C. _et al._ Zygomatic implants: Indications, techniques and outcomes, and the Zygomatic Success Code. _Periodontol. 2000_ 66, 41–58 (2014).
+6. Aparicio, C., López-Piriz, R. & Albrektsson, T. ORIS Criteria of Success for the Zygoma-Related Rehabilitation: The (Revisited) Zygoma Success Code. _Int. J. Oral Maxillofac. Implants_ 35, 366–378 (2020).
+7. Ness, G. M., Blakey, G. H. & Hechler, B. L. _Peterson's Principles of Oral and Maxillofacial Surgery_. (2022).
+8. Block, M. S. Dental Implants: The Last 100 Years. _J. Oral Maxillofac. Surg._ 76, 11–26 (2018).
+9. Clark, D. & Levin, L. Dental implant management and maintenance: How to improve long-term implant success? _Quintessence Int._ 47, 417–23 (2016).
+10. Stellingsma, C., Vissink, A., Meijer1, H. J. A., Kuiper, C. & Raghoebar, G. M. Implantology and the severely resorbed edentulous mandible. _Crit Rev Oral Biol Med_ 15, 240–248 (2004).
+11. Weischer, T., Schettler, D. & Mohr, C. Titanium implants in the zygoma as retaining elements after hemimaxillectomy. _Int. J. Oral Maxillofac. Implant._ 12, 211–214 (1997).
+12. Iwanaga, J. _et al._ Clinical anatomy of the maxillary sinus: Application to sinus floor augmentation. _Anat. Cell Biol._ 52, 17–24 (2019).
+13. Tucker, M. R., Bauer, R. E., Eans, T. R. & Ochs, M. W. Implant Treatment: Advanced Concepts and Complex Cases. in _Contemporary Oral and Maxillofacial Surgery_ 281–316 (2018).
+14. Cawood, J. I. & Howell, R. A. A classification of edentolous jaws. _Int. J. Oral Maxillofac. Surg._ 17, 232–236 (1988).
+15. Hsu, Y. T. _et al._ Complications of sinus floor elevation procedure and management strategies: A systematic review. _Clin. Implant Dent. Relat. Res._ 24, 740–765 (2022).
+16. Molina, A., Sanz-Sánchez, I., Sanz-Martín, I., Ortiz-Vigón, A. & Sanz, M. Complications in sinus lifting procedures: Classification and management. _Periodontol. 2000_ 88, 103–115 (2022).
+17. Grunau, O. & Terheyden, H. Lateral augmentation of the sinus floor followed by regular implants versus short implants in the vertically deficient posterior maxilla: a systematic review and timewise meta-analysis of randomized studies. _Int. J. Oral Maxillofac. Surg._ 1–12 (2022) doi:10.1016/j.ijom.2022.11.015.
+18. Terheyden, H., Meijer, G. J. & Raghoebar, G. M. Vertical bone augmentation and regular implants versus short implants in the vertically deficient posterior mandible: a systematic review and meta-analysis of randomized studies. _Int. J. Oral Maxillofac. Surg._ 50, 1249–1258 (2021).
+19. Gherlone, E. F., D'Orto, B., Nagni, M., Capparè, P. & Raffaele, V. Tilted Implants and Sinus Floor Elevation Techniques Compared in Posterior Edentulous Maxilla: A Retrospective Clinical Study over Four Years of Follow-Up. _Appl. Sci._ 12, (2022).
+20. Moreira-Júnior, R. _et al._ Anatomical and radiological approach to pterygoid implants in atrophic maxilla: A cross-sectional study of 360 cone beam computed tomography examinations. _Oral Surg._ 16, 69–76 (2023).
+21. Lin, W. S. & Eckert, S. E. Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review. _Clin. Oral Implants Res._ 29, 78–105 (2018).
+22. Araujo, R. Z. _et al._ Clinical outcomes of pterygoid implants: Systematic review and meta-analysis. _J. Cranio-Maxillofacial Surg._ 47, 651–660 (2019).
+23. Bidra, A. S., Peña-Cardelles, J. F. & Iverson, M. Implants in the pterygoid region: An updated systematic review of modern roughened surface implants. _J. Prosthodont._ 1–7 (2022) doi:10.1111/jopr.13600.
+24. Garrido-Martínez, P., Quispe-López, N., Montesdeoca-García, N., Esparza- Gómez, G. & Cebrián-Carretero, J. L. Maxillary reconstruction with subperiosteal implants in a cancer patient: A one-year follow-up. _J. Clin. Exp. Dent._ 14, 293– 297 (2022).
+25. Van Der Mark, E. L., Bierenbroodspot, F., Baas, E. M. & De Lange, J. Reconstruction of an atrophic maxilla: Comparison of two methods. _Br. J. Oral Maxillofac. Surg._ 49, 198–202 (2011).
+26. Chiapasco, M., Brusati, R. & Ronchi, P. Le Fort I osteotomy with interpositional bone grafts and delayed oral implants for the rehabilitation of extremely atrophied maxillae: A 1-9-year clinical follow-up study on humans. _Clin. Oral Implants Res._ 18, 74–85 (2007).
+27. Shen, G. Maxillofacial bone distraction osteogenesis. _Zhonghua Kou Qiang Yi Xue Za Zhi_ 49, 247–249 (2014).
+28. Laster, Z., Rachmiel, A. & Jensen, O. T. Alveolar width distraction osteogenesis for early implant placement. _J. Oral Maxillofac. Surg._ 63, 1724–1730 (2005).
+29. Edmond Bedrossıan, E. A. B. J. & Brånemark, P.-I. Zygomatic Implant: A Graftless Approach for Treatment of the Edentulous Maxilla. in _Oral and Maxillafacial Surgery (Fonseca )_ (eds. J. Fonseca, R., P. Powers, M., E. Frost, D. & Le, B.) 569–583 (Elsevier, 2018).
+30. Ramezanzade, S. _et al._ Zygomatic implants placed in atrophic maxilla: an overview of current systematic reviews and meta-analysis. _Maxillofac. Plast. Reconstr. Surg._ 43, (2021).
+31. Strong, E. B. & Gary, C. Management of Zygomaticomaxillary Complex Fractures. _Facial Plast. Surg. Clin. North Am._ 25, 547–562 (2017).
+32. Tucker, T. L., Salman, S. O. & JR., L. L. C. Management of Zygomatic Fractures. in _Oral and Maxillofacial Surgery (Fonseca)_ (eds. J. Fonseca, R., P. Powers, M., E. Frost, D. & Le, B.) 1005–1027 (2018).
+33. Gracher, A. H. P. _et al._ Full arch rehabilitation in patients with atrophic upper jaws with zygomatic implants: a systematic review. _Int. J. Implant Dent._ 7, (2021).
+34. Butterworth, C. J. Primary vs secondary zygomatic implant placement in patients with head and neck cancer—A 10-year prospective study. _Head Neck_ 41, 1687– 1695 (2019).
+35. Yalçın, M. _et al._ Retrospective Analysis of Zygomatic Implants for Maxillary Prosthetic Rehabilitation. _Int. J. Oral Maxillofac. Implants_ 35, 750–756 (2020).
+36. Chana, H., Smith, G., Bansal, H. & Zahra, D. A Retrospective Cohort Study of the Survival Rate of 88 Zygomatic Implants Placed Over an 18-year Period. _Int. J. Oral Maxillofac. Implants_ 34, 461–470 (2019).
+37. Varghese, K. G. _et al._ Rehabilitation of the severely resorbed maxilla by using quad zygomatic implant-supported prostheses: a systematic review and meta- analysis. _J. Prosthet. Dent._ 1–10 (2021) doi:10.1016/j.prosdent.2021.11.007.
+38. Rosenstein, J. & Dym, H. Zygomatic Implants: A Solution for the Atrophic Maxilla. _Dent. Clin. North Am._ 64, 401–409 (2020).
+39. Hung, K. F. _et al._ Measurement of the zygomatic region for the optimal placement of quad zygomatic implants. _Clin. Implant Dent. Relat. Res._ 19, 841–848 (2017).
+40. Davó, R. & David, L. Quad Zygoma: Technique and Realities. _Oral Maxillofac. Surg. Clin. North Am._ 31, 285–297 (2019).
+41. Bedrossian, E. Rehabilitation of the edentulous maxilla with the zygoma concept: a 7-year prospective study. _Int. J. Oral Maxillofac. Implants_ 25, 1213–21 (2010).
+42. Weyh, A. M., Nocella, R. & Salman, S. O. Commentary \- Step-by-Step: Zygomatic Implants. _J. Oral Maxillofac. Surg._ 78, e6–e9 (2020).
+43. Chrcanovic, B. R., Pedrosa, A. R. & Custódio, A. L. N. Zygomatic implants: A critical review of the surgical techniques. _Oral Maxillofac. Surg._ 17, 1–9 (2013).
+44. Goker, F., Grecchi, F., Grecchi, E., Bolzoni, A. & Del Fabbro, M. Insertion of Zygomatic Implants with a Technical Modification of the Extrasinus Protocol: A Retrospective Case Series. _Int. J. Oral Maxillofac. Implants_ 35, 974–981 (2020).
+45. Agliardi, E. L., Panigatti, S., Romeo, D., Sacchi, L. & Gherlone, E. Clinical outcomes and biological and mechanical complications of immediate fixed prostheses supported by zygomatic implants: A retrospective analysis from a prospective clinical study with up to 11 years of follow-up. _Clin. Implant Dent. Relat. Res._ 23, 612–624 (2021).
+46. Nocini, R., Panozzo, G., Trotolo, A. & Sacchetto, L. Maxillary Sinusitis as a Complication of Zygomatic Implants Placement: A Narrative Review. _Appl. Sci._ 12, (2022).
+47. D'Agostino, A. _et al._ Complications related to zygomatic implants placement: A retrospective evaluation with 5 years follow-up. _J. Cranio-Maxillofacial Surg._ 49, 620–627 (2021).
+48. Di Cosola, M. _et al._ Retrospective analysis of clinical and radiologic data regarding zygomatic implant rehabilitation with a long-term follow-up. _Int. J. Environ. Res. Public Health_ 18, (2021).
+49. Bedrossian, E. & Bedrossian, E. Prevention and the Management of Complications Using the Zygoma Implant: A Review and Clinical Experiences. _Int. J. Oral Maxillofac. Implants_ 33, e135–e145 (2018).
+50. Vrielinck, L., Moreno-Rabie, C., Coucke, W., Jacobs, R. & Politis, C. Retrospective cohort assessment of survival and complications of zygomatic implants in atrophic maxillae. _Clin. Oral Implants Res._ 148–156 (2022) doi:10.1111/clr.14027.
+51. Goker, F., Grecchi, E., Del Fabbro, M. & Grecchi, F. Clinical outcome of 302 zygomatic implants in 110 patients with a follow-up between 6 months and 7 years. _Clin. Implant Dent. Relat. Res._ 22, 415–423 (2020).
+52. Krauthammer, M. _et al._ Extraocular muscle damage from dental implant penetration to the orbit. _Am. J. Ophthalmol. Case Reports_ 5, 94–96 (2017).
+53. Lorusso, F., Conte, R., Inchingolo, F., Festa, F. & Scarano, A. Survival rate of zygomatic implants for fixed oral maxillary rehabilitations: A systematic review and meta-analysis comparing outcomes between zygomatic and regular implants. _Dent. J._ 9, (2021).
+54. Solà Pérez, A. _et al._ Success Rates of Zygomatic Implants for the Rehabilitation of Severely Atrophic Maxilla: A Systematic Review. _Dent. J._ 10, (2022).
+55. Hopp, M., de Araújo Nobre, M. & Maló, P. Comparison of marginal bone loss and implant success between axial and tilted implants in maxillary All-on-4 treatment concept rehabilitations after 5 years of follow-up. _Clin. Implant Dent. Relat. Res._ 19, 849–859 (2017).
+56. Moraschini, V. _et al._ Survival and complications of zygomatic implants compared to conventional implants reported in longitudinal studies with a follow-up period of at least 5 years: A systematic review and meta-analysis. _Clin. Implant Dent. Relat. Res._ 177–189 (2022) doi:10.1111/cid.13153.
+57. Aparicio, C., Polido, W. D. & Zarrinkelk, H. M. The Zygoma Anatomy-Guided Approach for Placement of Zygomatic Implants. _Atlas Oral Maxillofac. Surg. Clin. North Am._ 29, 203–231 (2021).
+58. Borgonovo, A., Grandi, T., Vassallo, S. & Signorini, L. Extrasinus Zygomatic Implants for the Immediate Rehabilitation of the Atrophic Maxilla: 1-Year Postloading Results From a Multicenter Prospective Cohort Study. _J. Oral Maxillofac. Surg._ 79, 356–365 (2021).
+59. Davó, R., Bankauskas, S., Laurincikas, R., Koçyigit, I. D. & de Val, J. E. M. S. Clinical performance of zygomatic implants—retrospective multicenter study. _J. Clin. Med._ 9, (2020).
+60. Coppedê, A. _et al._ Three-year clinical prospective follow-up of extrasinus zygomatic implants for the rehabilitation of the atrophic maxilla. _Clin. Implant Dent. Relat. Res._ 19, 926–934 (2017).
